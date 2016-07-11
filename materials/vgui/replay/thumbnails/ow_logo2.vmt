@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "vgui/replay/thumbnails/ow_logo2"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
+	"$translucent" 1
+}
+
+
