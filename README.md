@@ -51,6 +51,7 @@ i used cp_reckoner for the background of the loadout subpanel.
  - rawrsor & nokk - helped out with answering some of the questions i had while making this hud
  - humahuma & sentrionic - helped out with references and providing screenshots of certain elements
  - yoshi - helped out with buff/hurt animations
+ - omnibombulator - huds.tf & fixed the flare going above the text on the main menu		
  
 CHANGELOG
 
