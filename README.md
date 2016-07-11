@@ -48,6 +48,12 @@ i used cp_reckoner for the background of the loadout subpanel.
  - blizzard (obviously lol) - creating overwatch and making a really nicely designed interface
  - rawrsor & nokk - helped out with answering some of the questions i had while making this hud
  - humahuma & sentrionic - helped out with references and providing screenshots of certain elements
+ - 
+ 
+CHANGELOG
+
+July 11
+- Release
 	
 ETC
 
