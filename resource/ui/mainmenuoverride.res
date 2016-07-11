@@ -776,7 +776,7 @@
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 
-		if_matchetitive
+		if_match
 		{
 			"tall"		"156"
 		}
@@ -1867,7 +1867,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"216"
 		}
@@ -1933,7 +1933,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 		
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"342"
 		}
@@ -2004,7 +2004,7 @@
 		"navRight"		"Notifications_ShowButtonPanel"
 		"navToRelay"	"SubButton"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"384"
 		}
@@ -2069,7 +2069,7 @@
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"342"
 		}
@@ -2260,7 +2260,7 @@
 		"image"			"../vgui/new"
 		"scaleImage"	"0"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"0"
 		}
@@ -2523,7 +2523,7 @@
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"251"
 		}
@@ -2545,7 +2545,7 @@
 		"enabled"		"1"
 		"fgcolor_override"	"235 227 203 255"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"252"
 		}
@@ -2564,7 +2564,7 @@
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"315"
 		}
@@ -2586,7 +2586,7 @@
 		"enabled"		"1"
 		"fgcolor_override"	"235 227 203 255"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"314"
 		}
@@ -2605,7 +2605,7 @@
 		"PaintBackgroundType"	"2"
 		"border"		"MainMenuBGBorder"
 
-		if_matchetitive
+		if_match
 		{
 			"ypos"		"378"
 		}

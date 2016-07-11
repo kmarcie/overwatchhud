@@ -1218,7 +1218,7 @@
 		"NavLeft"		"<<Sheet"
 		"NavRight"		"<<StartPartyButton"
 
-		"if_matchetitive"
+		"if_match"
 		{
 			"ypos"		"35"
 		}

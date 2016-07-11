@@ -38,7 +38,7 @@
 			"team2_player_delta_x"			"52"
 		}
 		
-		if_matchetitive
+		if_competitive
 		{
 			"xpos"							"cs-0.5"
 			"ypos"							"0"
@@ -68,10 +68,10 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"ModeImage"
 			"xpos"			"cs-0.5"
-			"ypos"			"35"
+			"ypos"			"75"
 			"zpos"			"0"
-			"wide"			"60"
-			"tall"			"60"
+			"wide"			"40"
+			"tall"			"40"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
@@ -80,7 +80,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 
-			if_matchetitive
+			if_match
 			{
 				"visible"		"1"
 			}
@@ -100,12 +100,6 @@
 			{
 				"wide"		"55"
 				"tall"		"35"
-			}
-						
-			if_matchetitive
-			{
-				"wide"		"45"
-				"tall"		"29"
 			}
 
 			if_readymode
@@ -140,7 +134,7 @@
 					"font"				"Oblique9"
 				}
 
-				if_matchetitive
+				if_match
 				{
 					"xpos"				"4"
 					"ypos"				"21"
@@ -184,7 +178,7 @@
 					"image"			"../vgui/hud_connecting"
 				}
 
-				if_matchetitive
+				if_match
 				{
 					"xpos"			"4"
 					"ypos"			"4"
@@ -223,7 +217,7 @@
 					"visible"		"1"
 				}
 
-				if_matchetitive
+				if_match
 				{
 					"xpos"			"4"
 					"ypos"			"4"
@@ -256,7 +250,7 @@
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
 				
-				if_matchetitive
+				if_match
 				{
 					"wide"			"p0.64"
 					"tall"			"p0.96"
@@ -291,7 +285,7 @@
 					"visible"		"1"
 				}
 				
-				if_matchetitive
+				if_match
 				{
 					"xpos"			"28"
 					"ypos"			"5"
@@ -328,7 +322,7 @@
 					"visible"		"1"
 				}
 
-				if_matchetitive
+				if_match
 				{
 					"xpos"			"30"
 					"ypos"			"7"
@@ -361,7 +355,7 @@
 				"textAlignment"	"west"
 				//"fgcolor"		"235 226 202 255"
 				
-				if_matchetitive
+				if_match
 				{
 					"xpos"			"6"
 					"ypos"			"7.5"
@@ -394,7 +388,7 @@
 					"visible"		"0"
 				}
 				
-				if_matchetitive
+				if_match
 				{
 					"xpos"			"22"
 					"ypos"			"15"
@@ -421,7 +415,7 @@
 				"textAlignment"	"north-west"
 				//"fgcolor"		"235 226 202 255"
 				
-				if_matchetitive
+				if_match
 				{
 					"wide"			"p0.9"
 					"tall"			"p0.22"
@@ -458,7 +452,7 @@
 			"visible"		"0"
 		}
 		
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"12"
@@ -498,7 +492,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"visible"		"0"
 		}
@@ -533,7 +527,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -569,7 +563,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"visible"		"0"
 		}
@@ -604,7 +598,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -640,7 +634,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -674,7 +668,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -709,7 +703,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"370"
 			"visible"		"0"
@@ -744,7 +738,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"325"
 			"visible"		"0"
@@ -781,7 +775,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"c-45"
 			"ypos"			"18"
@@ -825,7 +819,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"visible"		"0"
 		}
@@ -862,7 +856,7 @@
 			"visible"		"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"visible"		"0"
 		}
@@ -899,7 +893,7 @@
 			"zpos"			"0"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"font"			"HudFontSmallishBold"
 			"xpos"			"cs-0.5"
@@ -946,7 +940,7 @@
 			"fgcolor"		"Black"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"font"			"HudFontSmallishBold"
 			"xpos"			"cs-0.5"
@@ -994,7 +988,7 @@
 			"tall"			"22"
 		}
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"236"
 			"ypos"			"106"
@@ -1033,7 +1027,7 @@
 		"draw_corner_height" 	"5"	
 		"proportionaltoparent"	"1"
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"150"
@@ -1065,7 +1059,7 @@
 		"textAlignment"		"center"
 		"proportionaltoparent"	"1"
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
@@ -1100,7 +1094,7 @@
 		"fgcolor"		"Black"
 		"proportionaltoparent"	"1"
 
-		if_matchetitive
+		if_match
 		{
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.08"
