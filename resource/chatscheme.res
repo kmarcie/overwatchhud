@@ -642,6 +642,7 @@ Scheme
 		"2"		"resource/HL2EP2.ttf"
       "3"
       {
+         "font" "resource/fonts/nimbus.ttf"
          "name" "Nimbus Sans L Regular"
       }      
    }
