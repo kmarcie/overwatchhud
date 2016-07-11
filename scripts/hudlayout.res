@@ -456,7 +456,7 @@
 		"LocalPlayerColor"	"0 0 0 150"
 
 		"BaseBackgroundColor"	"0 0 0 125"	
-		"LocalBackgroundColor"	"106  124  158 150"	
+		"LocalBackgroundColor"	"234 234 234 170"	
 	}
 
 	HudVehicle
