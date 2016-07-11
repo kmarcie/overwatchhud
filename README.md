@@ -48,4 +48,5 @@ i used cp_reckoner for the background of the loadout subpanel.
  - humahuma & sentrionic - helped out with references and providing screenshots of certain elements
 	
 ETC
+
 thanks for using this hud. i put a lot of work into it. :) enjoy! 
