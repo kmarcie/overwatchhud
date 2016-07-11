@@ -933,12 +933,12 @@
 			"PaintBackgroundType"	"2"
 	}
 
-	"Notifications_ShowButtonPanel" // alert
+	"Notifications_ShowButtonPanel"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
 		"xpos"			"r50"
-		"ypos"			"138"
+		"ypos"			"128"
 		"zpos"			"10"
 		"wide"			"24"
 		"tall"			"24"
@@ -946,6 +946,12 @@
 		"pinCorner"		"3"
 		"visible"		"1"
 		"enabled"		"1"
+
+		"navUp"			"MOTD_ShowButtonPanel"
+		"navDown"		"SettingsButton"
+		"navLeft"		"QuickplayButton"
+		"navRight"		"Notifications_Panel"
+		"navToRelay"	"Notifications_ShowButtonPanel_SB"
 		
 		"SubImage"
 		{
@@ -954,13 +960,13 @@
 			"xpos"			"16"
 			"ypos"			"0"
 			"zpos"			"3"
-			"wide"			"0"
-			"tall"			"0"
+			"wide"			"16"
+			"tall"			"16"
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
-			"drawcolor" "210 125 33 255"
+			"drawcolor" "0 0 0 0"
 		}				
 		
 		"Notifications_CountLabel"
@@ -973,13 +979,13 @@
 			"xpos"			"16"
 			"ypos"			"0"
 			"zpos"			"4"
-			"wide"			"0"
-			"tall"			"0"
+			"wide"			"16"
+			"tall"			"16"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"0 0 0 0"
 		}
 	
 		"Notifications_ShowButtonPanel_SB"
@@ -989,8 +995,8 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"32"
-			"tall"			"32"
+			"wide"			"24"
+			"tall"			"24"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
@@ -1002,6 +1008,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
+			"actionsignallevel" "2"
 
 			"Command"		"noti_show"
 			"navActivate"	"<QuickplayButton"
@@ -1009,7 +1016,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
-			"image_drawcolor"	"240 240 240 255"
+			"image_drawcolor"	"234 234 234 255"
 			"image_armedcolor"	"255 255 255 255"
 			
 			"SubImage"
@@ -1324,7 +1331,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 
 		"navDown"		"SettingsButton"		// when a sub element can't nav down it will pass through this
 		"navLeft"		"MOTD_ShowButtonPanel"	// when a sub element can't nav left it will pass through this
@@ -1356,7 +1363,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"PaintBackgroundType" "2"
-				"fgcolor_override"	"240 240 240 255"
+				"fgcolor_override"	"235 226 202 255"
 				"bgcolor_override"	"141 178 61 255"
 			}
 		}
@@ -1381,6 +1388,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
+			"actionsignallevel"	"2"
 
 			"navDown"			"MOTD_URLButton"
 			"navActivate"		"<QuickplayButton"
@@ -1391,14 +1399,14 @@
 			
 			"paintbackground"	"0"
 			
-			//"defaultFgColor_override" "240 240 240 255"
+			//"defaultFgColor_override" "235 226 202 255"
 			//"armedFgColor_override" "46 43 42 255"
 			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "240 240 240 255"
+			"armedFgColor_override" "235 226 202 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"240 240 240 255"
-			"image_armedcolor"	"oworange"
+			"image_drawcolor"	"235 226 202 255"
+			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -1577,6 +1585,8 @@
 			"default"		"1"
 			"command"		"motd_viewurl"
 			"proportionaltoparent" "1"
+			"actionsignallevel"	"2"
+
 
 			"navUp"			"MOTD_CloseButton"
 			"navLeft"		"MOTD_PrevButton"
@@ -1585,10 +1595,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultFgColor_override" "240 240 240 255"
+			"defaultFgColor_override" "235 226 202 255"
 			"defaultBgColor_override" "46 43 42 255"
-			"armedFgColor_override" "240 240 240 255"
-			"depressedFgColor_override" "240 240 240 255"
+			"armedFgColor_override" "235 226 202 255"
+			"depressedFgColor_override" "235 226 202 255"
 		}	
 		
 		"MOTD_PrevButton"
@@ -1612,6 +1622,7 @@
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"motd_prev"
+			"actionsignallevel"	"2"
 
 			"navUp"			"MOTD_CloseButton"
 			"navRight"		"MOTD_URLButton"
@@ -1620,7 +1631,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
-			"image_drawcolor"	"240 240 240 255"
+			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1659,6 +1670,7 @@
 			"brighttext"	"0"
 			"default"		"1"
 			"Command"		"motd_next"
+			"actionsignallevel"	"2"
 
 			"navUp"			"MOTD_CloseButton"
 			"navLeft"		"MOTD_URLButton"
@@ -1667,7 +1679,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
-			"image_drawcolor"	"240 240 240 255"
+			"image_drawcolor"	"235 226 202 255"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1768,6 +1780,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"0"
+			"actionsignallevel"	"2"
 
 			"Command"		"noti_hide"
 			"navActivate"	"<QuickplayButton"
@@ -1777,11 +1790,11 @@
 
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "240 240 240 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "oworange"
+			"armedFgColor_override" "oworange"
+			"depressedFgColor_override" "oworange"
 			
-			"image_drawcolor"	"117 107 94 255"
+			"image_drawcolor"	"oworange"
 			"image_armedcolor"	"oworange"
 			"SubImage"
 			{
@@ -1814,7 +1827,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owORANGE"
+			"fgcolor"		"oworange"
 			"wrap"			"1"
 		}
 		
@@ -2289,7 +2302,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"Blank"
-			"border_armed"		"Blank"
+			"border_armed"		"OWFlare"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"
@@ -2304,7 +2317,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
-				"ypos"			"6"
+				"ypos"			"999"
 				"zpos"			"-9"
 				"wide"			"250"
 				"tall"			"37"
@@ -2381,7 +2394,7 @@
 		"fieldname"		"INVENTORYBUTTON"
 		"xpos"			"c-70"
 		"ypos"			"305"
-		"zpos"			"11"
+		"zpos"			"999"
 		"wide"			"125"
 		"tall"			"20"
 		"visible"		"1"
@@ -2752,7 +2765,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"Blank"
-			"border_armed"		"Blank"
+			"border_armed"		"OWFlare"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"
@@ -2767,7 +2780,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
-				"ypos"			"6"
+				"ypos"			"999"
 				"zpos"			"-9999"
 				"wide"			"250"
 				"tall"			"37"
@@ -2916,7 +2929,7 @@
 		"fieldname"		"ResumeGameButton"
 		"xpos"			"c-70"
 		"ypos"			"255"
-		"zpos"			"11"
+		"zpos"			"999"
 		"wide"			"125"
 		"tall"			"20"
 		"visible"		"1"
@@ -3071,7 +3084,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"Blank"
-			"border_armed"		"Blank"
+			"border_armed"		"OWFlare"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"
@@ -3086,7 +3099,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
-				"ypos"			"6"
+				"ypos"			"999"
 				"zpos"			"-9"
 				"wide"			"250"
 				"tall"			"37"
@@ -3257,7 +3270,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
 			"border_default"	"Blank"
-			"border_armed"		"Blank"
+			"border_armed"		"OWFlare"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"
@@ -3272,7 +3285,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"0"
-				"ypos"			"6"
+				"ypos"			"999"
 				"zpos"			"-9"
 				"wide"			"250"
 				"tall"			"37"
@@ -3539,7 +3552,7 @@
 		"fieldname"		"ChangeServerButton"
 		"xpos"			"c-70"
 		"ypos"			"280"
-		"zpos"			"11"
+		"zpos"			"999"
 		"wide"			"125"
 		"tall"			"20"
 		"visible"		"1"
@@ -4515,7 +4528,7 @@
 		"fieldName"		"DisconnectButton"
 		"xpos"			"c-70"
 		"ypos"			"355"
-		"zpos"			"-99"
+		"zpos"			"999"
 		"wide"			"125"
 		"tall"			"20"
 		"autoResize"	"0"
@@ -4583,7 +4596,7 @@
 		"fieldName"		"SettingsButtonINGAME"
 		"xpos"			"c-70"
 		"ypos"			"330"
-		"zpos"			"-99"
+		"zpos"			"999"
 		"wide"			"125"
 		"tall"			"20"
 		"autoResize"	"0"
@@ -4699,7 +4712,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground" "0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 		
 		"start_x"		"c-85"
 		"start_y"		"185"
@@ -4867,7 +4880,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground" "0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 		
 		"start_x"		"c-85"
 		"start_y"		"185"
@@ -5037,7 +5050,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground" "0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 		
 		"start_x"		"c-112"
 		"start_y"		"437"
@@ -5149,7 +5162,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground" "0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 		
 		"start_x"		"c238"
 		"start_y"		"437"
@@ -5261,7 +5274,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground" "0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 		
 		"start_x"		"c-190"
 		"start_y"		"267"
@@ -5373,7 +5386,7 @@
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
 		"paintbackground" "0"
-		"border"		"MainMenuHighlightBorder"
+		"border"		"TFFatLineBorder"
 		
 		"start_x"		"c20"
 		"start_y"		"285"

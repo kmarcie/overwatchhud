@@ -117,63 +117,63 @@
 	{
 		"label" "    CASUAL" 
 		"command" "play_casual"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayButtonShadow"
 	{
 		"label" "    CASUAL" 
 		"command" "play_casual"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayButtonShadow2"
 	{
 		"label" "    CASUAL" 
 		"command" "play_casual"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"PlayPVEButton"
 	{
 		"label" "    ROBOTS" 
 		"command" "play_mvm"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"PlayPVEButtonShadow"
 	{
 		"label" "    ROBOTS" 
 		"command" "play_mvm"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"PlayPVEButtonShadow2"
 	{
 		"label" "    ROBOTS" 
 		"command" "playpve"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"PlayCompetitiveButton"
 	{
 		"label" "    COMPETITIVE" 
 		"command" "play_competitive"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"PlayCompetitiveButtonShadow"
 	{
 		"label" "    COMPETITIVE" 
 		"command" "play_competitive"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"PlayCompetitiveButtonShadow2"
 	{
 		"label" "    COMPETITIVE" 
 		"command" "play_competitive"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
 	"ServerBrowserButton"
@@ -232,40 +232,39 @@
 		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
-	// These buttons get positioned by the MainMenuOverride.res	
 	"GeneralStoreButton"
 	{
 		"label" "STORE"
 		"command" "engine open_store"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu"	"1"
 	}	
 	"GeneralStoreButtonBlur"
 	{
 		"label" "STORE"
 		"command" "engine open_store"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu"	"1"
 	}	
 	"CharacterSetupButton"
 	{
 		"label" "    LOADOUT"
 		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu"	"1"
 	}
 	"CharacterSetupButtonShadow"
 	{
 		"label" "    LOADOUT"
 		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu"	"1"
 	}
 	"CharacterSetupButtonShadow2"
 	{
 		"label" "    LOADOUT"
 		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu"	"1"
 	}
 	

@@ -50,6 +50,13 @@ Scheme
 			
 			"image"					"replay/thumbnails/PurpleButtonSlant"
 		}
+		OWFlare
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/thumbnails/ow_flare"
+		}
 		NoBorder
 		{
 			"inset" "0 0 0 0"

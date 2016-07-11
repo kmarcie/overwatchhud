@@ -147,6 +147,11 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"image"				"replay\thumbnails\kothtimer\kothBlue"
+		
+		if_match
+		{
+			"visible"	"0"
+		}
 	}
 	"RedTimerBG"
 	{
@@ -161,6 +166,10 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"image"				"replay\thumbnails\kothtimer\kothRed"
+		if_match
+		{
+			"visible"	"0"
+		}
 	}
 	"ActiveTimerBG"
 	{
@@ -175,6 +184,10 @@
 		"enabled"			"1"
 		"scaleImage"		"1"
 		"image"				"replay\thumbnails\kothtimer\kothActive"
+		if_match
+		{
+			"visible"	"0"
+		}
 	}
 	"refractTimer" // scrapped idea because this is extremely inefficient and doesn't look great
 	{
@@ -185,7 +198,7 @@
 		"zpos"				"-91"
 		"wide"				"5"
 		"tall"				"18"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"0"
 		"scaleImage"		"1"
 		"image"				"replay\thumbnails\blurfact"

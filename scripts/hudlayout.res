@@ -456,7 +456,7 @@
 		"LocalPlayerColor"	"0 0 0 150"
 
 		"BaseBackgroundColor"	"0 0 0 125"	
-		"LocalBackgroundColor"	"234 234 234 170"	
+		"LocalBackgroundColor"	"200 200 200 125"	
 	}
 
 	HudVehicle
@@ -927,7 +927,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-150"
-		"ypos"			"r195"
+		"ypos"			"r260"
 		"wide"			"450"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -939,7 +939,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-150"
-		"ypos"			"r195"
+		"ypos"			"r260"
 		"wide"			"450"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
@@ -951,7 +951,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-120"
-		"ypos"			"r135"
+		"ypos"			"r200"
 		"wide"			"250"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -963,7 +963,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-150"
-		"ypos"			"r195"
+		"ypos"			"r260"
 		"wide"			"450"
 		"tall"			"135"
 		"PaintBackgroundType"	"0"

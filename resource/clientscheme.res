@@ -94,5 +94,15 @@ Scheme
 			"font"	"resource/fonts/FuturaStd-Heavy.otf"
 			"name"	"FuturaStd-Heavy"
 		}
+		"13"
+		{
+			"font"	"resource/fonts/Entypo.otf"
+			"name"	"Entypo"
+		}
+		"14"
+		{
+			"font"	"resource/fonts/mkhud.ttf"
+			"name"	"mkhud"
+		}
 	}
 }
