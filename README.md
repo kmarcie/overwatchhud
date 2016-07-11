@@ -14,8 +14,6 @@ blurfact doesn't work correctly first launch (maybe a TF2 issue?)
 	
 class loadout panel weapons and hats get cut off in 4:3 (fixed with overrides).
 
-team select background seems to get cut off at the bottom. i don't know why it does this :(
-
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
 16:9 - made on 1920x1080. works for other resolutions
 
@@ -55,8 +53,21 @@ i used cp_reckoner for the background of the loadout subpanel.
  
 CHANGELOG
 
-July 11
+July 10
 - Release
+July 11
+- Fixed symbol fonts appearing as letters and numbers
+- Fixed the promo codes button showing up
+- Fixed the KotH timer in Matchmaking to not show the frames of timers
+- Fixed the team select background cutting off (thanks omnibombulator)
+- Fixed the flare when selecting something on the menu showing up above the text (thank you omnibombulator, once again)
+- Fixed not being able to use the alert button
+- Moved build/destroy/disguise menus so they don't clip with the CTF elements
+- Changed zpos of the ingame menu buttons so they're actually pressable
+- Added ping to the scoreboard
+- New CTF hud elements
+- Fixed the matchmaking tournament HUD being jumbled up in readymode
+- Fixed elements saying "if_matchetitive" instead of just "if_match" (caused by a shitty cut/replace job)
 	
 ETC
 
