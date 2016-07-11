@@ -14,6 +14,8 @@ blurfact doesn't work correctly first launch (maybe a TF2 issue?)
 	
 class loadout panel weapons and hats get cut off in 4:3 (fixed with overrides).
 
+team select background seems to get cut off at the bottom. i don't know why it does this :(
+
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
 16:9 - made on 1920x1080. works for other resolutions
 
