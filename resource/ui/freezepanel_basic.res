@@ -258,7 +258,7 @@
 		{
 			"ControlName"				"Label"
 			"fieldName"					"ItemLabel"
-			"font"						"Helv11"
+			"font"						"Nim11"
 			"xpos"						"5"
 			"ypos"						"3"
 			"zpos"						"1"

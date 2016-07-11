@@ -239,7 +239,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamLabelNew"
-		"font"			"Helv20"
+		"font"			"Nim20"
 		"labelText"		"%blueteamname%"
 		"textAlignment"		"west"
 		"xpos"			"c-274"
@@ -308,7 +308,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BlueTeamScoreBG"
-		"font"			"Helv32"
+		"font"			"Nim32"
 		"xpos"			"c-113"
 		"ypos"			"269"
 		"zpos"			"9999"
@@ -367,7 +367,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamLabelNew"
-		"font"			"Helv20"
+		"font"			"Nim20"
 		"labelText"		"%redteamname%"
 		"textAlignment"		"east"
 		"xpos"			"0"
@@ -436,7 +436,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"RedTeamScoreBG"
-		"font"			"Helv32"
+		"font"			"Nim32"
 		"xpos"			"c-113"
 		"ypos"			"54"
 		"zpos"			"9999"
@@ -643,7 +643,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"Spectators"
-		"font"			"Helv8"
+		"font"			"Nim8"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
 		"xpos"			"c-280"
@@ -667,7 +667,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SpectatorsInQueue"
-		"font"			"Helv8"
+		"font"			"Nim8"
 		"labelText"		"%waitingtoplay%"
 		"textAlignment"		"west"
 		"xpos"			"c-280"
@@ -971,7 +971,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"PlayerScoreLabel"
-		"font"			"Helv14"
+		"font"			"Nim14"
 		"labelText"		"%playerscore%"
 		"textAlignment"		"center"
 		"xpos"			"9999"
@@ -1248,7 +1248,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"KillsLabel"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"FRAGS"
 			"textAlignment"	"west"
 			"xpos"			"50"
@@ -1271,7 +1271,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DeathsLabel2"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"DEATHS"
 			"textAlignment"	"west"
 			"xpos"			"50"
@@ -1289,7 +1289,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"AssistsLabel2"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"ASSISTS"
 			"textAlignment"		"west"
 			"xpos"			"146"
@@ -1312,7 +1312,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DestructionLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_DestructionLabel"
 			"textAlignment"		"west"
 			"xpos"			"126"
@@ -1335,7 +1335,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Kills"
-			"font"			"Helv28"
+			"font"			"Nim28"
 			"labelText"		"%kills%"
 			"textAlignment"		"east"
 			"xpos"			"10"
@@ -1359,7 +1359,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Kills2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%kills%"
 			"textAlignment"		"east"
 			"xpos"			"-8"
@@ -1383,7 +1383,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths"
-			"font"			"Helv28"
+			"font"			"Nim28"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
 			"xpos"			"70"
@@ -1407,7 +1407,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Deaths2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%deaths%"
 			"textAlignment"		"east"
 			"xpos"			"-8"
@@ -1431,7 +1431,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"gametype"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"%gametype%"
 			"textAlignment"		"center"
 			"xpos"			"9999"
@@ -1455,7 +1455,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Assists"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%assists%"
 			"textAlignment"		"east"
 			"xpos"			"-10"
@@ -1479,7 +1479,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Assists2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%assists%"
 			"textAlignment"		"east"
 			"xpos"			"104"
@@ -1503,7 +1503,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Destruction"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%destruction%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -1527,7 +1527,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Destruction2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%destruction%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -1551,7 +1551,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"CapturesLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_CapturesLabel"
 			"textAlignment"		"west"
 			"xpos"			"126"
@@ -1575,7 +1575,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DefensesLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_DefensesLabel"
 			"textAlignment"		"west"
 			"xpos"			"126"
@@ -1599,7 +1599,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DominationLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_DominationLabel"
 			"textAlignment"		"west"
 			"xpos"			"226"
@@ -1623,7 +1623,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RevengeLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_RevengeLabel"
 			"textAlignment"		"west"
 			"xpos"			"226"
@@ -1647,7 +1647,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Captures"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%captures%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -1671,7 +1671,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Captures2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%captures%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -1695,7 +1695,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Defenses"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%defenses%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -1719,7 +1719,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Defenses2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%defenses%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -1743,7 +1743,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Domination"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%dominations%"
 			"textAlignment"		"east"
 			"xpos"			"281"	
@@ -1767,7 +1767,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Domination2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%dominations%"
 			"textAlignment"		"east"
 			"xpos"			"281"	
@@ -1791,7 +1791,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Revenge"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%Revenge%"
 			"textAlignment"		"east"
 			"xpos"			"281"
@@ -1815,7 +1815,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Revenge2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%Revenge%"
 			"textAlignment"		"east"
 			"xpos"			"281"
@@ -1839,7 +1839,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"HealingLabel2"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"HEALS"
 			"textAlignment"		"west"
 			"xpos"			"146"	
@@ -1863,7 +1863,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"InvulnLabel2"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"UBERS"
 			"textAlignment"		"west"
 			"xpos"			"246"	
@@ -1887,7 +1887,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TeleportsLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_TeleportsLabel"
 			"textAlignment"		"west"
 			"xpos"			"326"
@@ -1911,7 +1911,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"HeadshotsLabel"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"HEADSHOTS"
 			"textAlignment"		"west"
 			"xpos"			"346"
@@ -1935,7 +1935,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Healing"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%healing%"
 			"textAlignment"		"east"
 			"xpos"			"281"
@@ -1959,7 +1959,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Healing2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%healing%"
 			"textAlignment"		"east"
 			"xpos"			"104"
@@ -1983,7 +1983,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Invuln"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%invulns%"
 			"textAlignment"		"east"
 			"xpos"			"181"
@@ -2007,7 +2007,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Invuln2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%invulns%"
 			"textAlignment"		"east"
 			"xpos"			"204"
@@ -2031,7 +2031,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Teleports"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%teleports%"
 			"textAlignment"		"east"
 			"xpos"			"381"
@@ -2055,7 +2055,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Teleports2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%teleports%"
 			"textAlignment"		"east"
 			"xpos"			"381"
@@ -2079,7 +2079,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Headshots"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%headshots%"
 			"textAlignment"		"east"
 			"xpos"			"303"
@@ -2103,7 +2103,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Headshots2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%headshots%"
 			"textAlignment"		"east"
 			"xpos"			"303"
@@ -2127,7 +2127,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BackstabsLabel"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"STABS"
 			"textAlignment"		"west"
 			"xpos"			"346"
@@ -2151,7 +2151,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Backstabs"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%backstabs%"
 			"textAlignment"		"east"	
 			"xpos"			"246"
@@ -2175,7 +2175,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Backstabs2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%backstabs%"
 			"textAlignment"		"east"	
 			"xpos"			"303"
@@ -2199,7 +2199,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BonusLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_ScoreBoard_BonusLabel"
 			"textAlignment"		"west"
 			"xpos"			"326"
@@ -2223,7 +2223,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Bonus"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%bonus%"
 			"textAlignment"		"east"
 			"xpos"			"381"
@@ -2247,7 +2247,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"Bonus2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%bonus%"
 			"textAlignment"		"east"
 			"xpos"			"381"
@@ -2271,7 +2271,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SupportLabel"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"#TF_Scoreboard_Support"
 			"textAlignment"	"west"
 			"xpos"			"426"
@@ -2294,7 +2294,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Support"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%support%"
 			"textAlignment"	"east"
 			"xpos"			"481"
@@ -2317,7 +2317,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Support2"
-			"font"			"Helv10"
+			"font"			"Nim10"
 			"labelText"		"%support%"
 			"textAlignment"	"east"
 			"xpos"			"481"
@@ -2340,7 +2340,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"DamageLabel"
-			"font"			"Helv12"
+			"font"			"Nim12"
 			"labelText"		"DAMAGE"
 			"textAlignment"	"west"
 			"xpos"			"246"
@@ -2364,7 +2364,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Damage"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%damage%"
 			"textAlignment"	"east"
 			"xpos"			"481"
@@ -2387,7 +2387,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Damage2"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"labelText"		"%damage%"
 			"textAlignment"	"east"
 			"xpos"			"204"

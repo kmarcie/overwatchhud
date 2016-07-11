@@ -81,8 +81,8 @@ Scheme
 		}
 		"10"
 		{
-			"font"	"resource/fonts/HelveticaNeue.otf"
-			"name"	"Helvetica Neue"
+			"font"	"resource/fonts/nimbus.ttf"
+			"name"	"Nimbus Sans L Regular"
 		}
 		"11"
 		{

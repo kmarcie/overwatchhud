@@ -109,7 +109,7 @@
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
 		"xpos"			"5"
-		"font"			"Helv12"
+		"font"			"Nim12"
 		"ypos"			"75"
 		"zpos"			"1"
 		"wide"			"f0"

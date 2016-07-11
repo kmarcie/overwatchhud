@@ -116,7 +116,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ArmoryLabel2"
-		"font"			"Helv9"
+		"font"			"Nim9"
 		"labelText"		"If anyone calls me out on this and says this isn't edited to the full extent, I will edit this."
 		"textAlignment"	"west"
 		"xpos"			"c-300"

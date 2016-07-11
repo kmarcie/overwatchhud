@@ -396,7 +396,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"helv12"
+		"font"			"Nim12"
 		"fgcolor"		"owwhite"
 		
 		"if_hybrid"

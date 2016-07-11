@@ -31,7 +31,7 @@
 		"wrap"			"1"
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"north-west"
-		"font"			"Helv9"
+		"font"			"Nim9"
 		"fgcolor"		"owblack"
 	}
 }

@@ -601,588 +601,588 @@ Scheme
 				"blur"		"2"
 			}
 		}
-		"Helv7"
+		"Nim7"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv9"
+		"Nim9"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv10"
+		"Nim10"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv11"
+		"Nim11"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv12"
+		"Nim12"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv14"
+		"Nim14"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv16"
+		"Nim16"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv18"
+		"Nim18"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv20"
+		"Nim20"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv21"
+		"Nim21"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv24"
+		"Nim24"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv26"
+		"Nim26"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv28"
+		"Nim28"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv30"
+		"Nim30"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv32"
+		"Nim32"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv36"
+		"Nim36"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv38"
+		"Nim38"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv40"
+		"Nim40"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv42"
+		"Nim42"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv44"
+		"Nim44"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv48"
+		"Nim48"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv50"
+		"Nim50"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv52"
+		"Nim52"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv56"
+		"Nim56"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv60"
+		"Nim60"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv64"
+		"Nim64"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv68"
+		"Nim68"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"Helv72"
+		"Nim72"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
 			}
 		}
-		"HelvBlur7"
+		"NimBlur7"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur9"
+		"NimBlur9"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur10"
+		"NimBlur10"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur11"
+		"NimBlur11"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur12"
+		"NimBlur12"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur14"
+		"NimBlur14"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur16"
+		"NimBlur16"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur18"
+		"NimBlur18"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur20"
+		"NimBlur20"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur21"
+		"NimBlur21"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur24"
+		"NimBlur24"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur26"
+		"NimBlur26"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur28"
+		"NimBlur28"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur30"
+		"NimBlur30"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur32"
+		"NimBlur32"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur36"
+		"NimBlur36"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur38"
+		"NimBlur38"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur40"
+		"NimBlur40"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur42"
+		"NimBlur42"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur44"
+		"NimBlur44"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur48"
+		"NimBlur48"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur50"
+		"NimBlur50"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur52"
+		"NimBlur52"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur56"
+		"NimBlur56"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur60"
+		"NimBlur60"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur64"
+		"NimBlur64"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur68"
+		"NimBlur68"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
 			}
 		}
-		"HelvBlur72"
+		"NimBlur72"
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
@@ -3257,7 +3257,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"10"
 				"antialias"	"1"
 			}
@@ -3483,8 +3483,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Helvetica Neue" [!$OSX]
-				"name"		"Helvetica Neue" [$OSX]
+				"name"		"Nimbus Sans L Regular" [!$OSX]
+				"name"		"Nimbus Sans L Regular" [$OSX]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -4285,7 +4285,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Helvetica Neue"
+				"name"			"Nimbus Sans L Regular"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -4300,7 +4300,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Helvetica Neue"
+				"name"			"Nimbus Sans L Regular"
 				"tall"			"40"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -4315,7 +4315,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -4328,7 +4328,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Helvetica Neue"
+				"name"			"Nimbus Sans L Regular"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"tall_lodef"	"32"
@@ -4629,35 +4629,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"3"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"14"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"16"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"18"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -4667,35 +4667,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"3"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"14"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"16"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"18"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -4827,7 +4827,7 @@ Scheme
 		{
 			"1"			// brower item hostname
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"22"
 				"weight"	"900"
 			}
@@ -4836,7 +4836,7 @@ Scheme
 		{
 			"1"			// browser item players and map name
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"18"
 				"weight"	"900"
 			}
@@ -4926,7 +4926,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
@@ -5000,7 +5000,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -5011,7 +5011,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5022,7 +5022,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5033,7 +5033,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -5044,7 +5044,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -5055,7 +5055,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -5065,7 +5065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -5076,7 +5076,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5087,7 +5087,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5099,7 +5099,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5110,7 +5110,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -5123,7 +5123,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -5134,7 +5134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -5145,7 +5145,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -5155,7 +5155,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -5253,7 +5253,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"20"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
@@ -5431,7 +5431,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
+				"name"		"Nimbus Sans L Regular"
 				"tall"		"9"
 				"weight"	"400"
 				"antialias" "1"

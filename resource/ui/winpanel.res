@@ -455,7 +455,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"DetailsLabel"
-		"font"			"Helv10"
+		"font"			"Nim10"
 		"fgcolor"		"owORANGE"
 		"xpos"			"10"
 		"ypos"			"31"
@@ -754,7 +754,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"KillStreakLeaderLabel"
-		"font"			"Helv10"
+		"font"			"Nim10"
 		"xpos"			"0"
 		"ypos"			"1123417"
 		"zpos"			"3"

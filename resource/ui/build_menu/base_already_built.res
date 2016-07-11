@@ -79,7 +79,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"Helv11"
+		"font"			"Nim11"
 		"fgcolor"		"189 189 189 255"
 		"xpos"			"1"
 		"ypos"			"55"
@@ -133,7 +133,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Helv11"
+		"font"			"Nim11"
 		"fgcolor"		"189 189 189 255"
 		"xpos"			"-40"
 		"ypos"			"-2"

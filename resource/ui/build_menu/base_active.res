@@ -146,7 +146,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Helv11"
+		"font"			"Nim11"
 		"fgcolor"		"owFULLWHITE"
 		"xpos"			"0"
 		"ypos"			"52"

@@ -217,7 +217,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"RecedeTime"
-			"font"			"Helv9"	
+			"font"			"Nim9"	
 			"fgcolor_override"	"0 0 0 255"		
 			"xpos"			"30"			
 			"ypos"			"53"			
@@ -407,7 +407,7 @@
 		{	
 			"ControlName"	"CExLabel"
 			"fieldName"		"CapNumPlayers"
-			"font"			"Helv9"
+			"font"			"Nim9"
 			"xpos"			"37"
 			"ypos"			"53"
 			"zpos"			"4"

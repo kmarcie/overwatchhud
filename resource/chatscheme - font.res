@@ -7,7 +7,6 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
 				"tall"		"21"
 				"antialias"	"1"
 				"dropshadow" "1"
@@ -64,7 +63,6 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Helvetica Neue"
 				"tall"		"17"	
 				"weight"	"500"
 				"antialias"    "1"

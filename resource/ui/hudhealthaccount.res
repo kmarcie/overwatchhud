@@ -9,6 +9,6 @@
 		"PositiveColor"			"owTEAL"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		".6"
-		"delta_item_font"		"Helv18"
+		"delta_item_font"		"Nim18"
 	}
 }

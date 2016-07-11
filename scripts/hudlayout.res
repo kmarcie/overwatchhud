@@ -448,7 +448,7 @@
 		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Helv11"
+		"TextFont"		"Nim11"
 		
 		"TeamBlue"		"owTEAMBLU"
 		"TeamRed"		"owTEAMRED"

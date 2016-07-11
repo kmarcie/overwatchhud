@@ -109,7 +109,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"		"BarChartLabelA"
-				"font"			"Helv11"
+				"font"			"Nim11"
 
 				"labelText"		"#StatSummary_StatTitle_MostPoints"
 				"textAlignment"		"east"
@@ -132,7 +132,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"		"BarChartLabelB"
-				"font"			"Helv11"
+				"font"			"Nim11"
 
 				"labelText"		"#StatSummary_StatTitle_TotalPlaytime"
 				"textAlignment"		"west"
@@ -154,7 +154,7 @@
 			{
 				"ControlName"		"Label"
 				"fieldName"		"OverallRecordLabel"
-				"font"			"Helv11"
+				"font"			"Nim11"
 				"labelText"		"#StatSummary_Label_AsAnyClass"
 				"textAlignment"		"west"
 				"xpos"			"c+130"
@@ -380,7 +380,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel1A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel1A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -401,7 +401,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel1B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel1B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -424,7 +424,7 @@
 			"fieldName"		"ClassLabel1"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class1%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -529,7 +529,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel2A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel2A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -550,7 +550,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel2B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel2B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -573,7 +573,7 @@
 			"fieldName"		"ClassLabel2"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"	"Helv11"
+			"font_lodef"	"Nim11"
 			"labelText"		"%class2%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -678,7 +678,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel3A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel3A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -699,7 +699,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel3B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel3B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -722,7 +722,7 @@
 			"fieldName"		"ClassLabel3"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class3%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -827,7 +827,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel4A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel4A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -848,7 +848,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel4B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel4B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -871,7 +871,7 @@
 			"fieldName"		"ClassLabel4"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class4%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -976,7 +976,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel5A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel5A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -997,7 +997,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel5B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel5B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1020,7 +1020,7 @@
 			"fieldName"		"ClassLabel5"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class5%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1125,7 +1125,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel6A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel6A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1146,7 +1146,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel6B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel6B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1169,7 +1169,7 @@
 			"fieldName"		"ClassLabel6"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class6%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1274,7 +1274,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel7A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel7A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1295,7 +1295,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel7B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel7B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1318,7 +1318,7 @@
 			"fieldName"		"ClassLabel7"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class7%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1423,7 +1423,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel8A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel8A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1444,7 +1444,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel8B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel8B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1467,7 +1467,7 @@
 			"fieldName"		"ClassLabel8"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class8%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1572,7 +1572,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel9A"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel9A%"
 			"textAlignment"		"west"
 			"xpos"			"c-282"
@@ -1593,7 +1593,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"ClassBarLabel9B"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"labelText"		"%classbarlabel9B%"
 			"textAlignment"		"west"
 			"xpos"			"c-127"
@@ -1616,7 +1616,7 @@
 			"fieldName"		"ClassLabel9"
 			"font"			"ScoreboardSmall"
 			"font_hidef"	"Default"
-			"font_lodef"			"Helv11"
+			"font_lodef"			"Nim11"
 			"labelText"		"%class9%"
 			"textAlignment"		"west"
 			"xpos"			"c+34"
@@ -1719,7 +1719,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord1Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord1label%"
 			"textAlignment"		"west"
@@ -1743,7 +1743,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord1Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord1value%"
 			"textAlignment"		"west"
@@ -1767,7 +1767,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord2Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord2label%"
 			"textAlignment"		"west"
@@ -1791,7 +1791,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord2Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord2value%"
 			"textAlignment"		"west"
@@ -1815,7 +1815,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord3Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord3label%"
 			"textAlignment"		"west"
@@ -1839,7 +1839,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord3Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord3value%"
 			"textAlignment"		"west"
@@ -1863,7 +1863,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord4Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord4label%"
 			"textAlignment"		"west"
@@ -1887,7 +1887,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord4Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord4value%"
 			"textAlignment"		"west"
@@ -1911,7 +1911,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord5Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord5label%"
 			"textAlignment"		"west"
@@ -1935,7 +1935,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord5Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord5value%"
 			"textAlignment"		"west"
@@ -1959,7 +1959,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord6Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord6label%"
 			"textAlignment"		"west"
@@ -1983,7 +1983,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord6Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord6value%"
 			"textAlignment"		"west"
@@ -2007,7 +2007,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord7Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord7label%"
 			"textAlignment"		"west"
@@ -2031,7 +2031,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord7Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord7value%"
 			"textAlignment"		"west"
@@ -2055,7 +2055,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord8Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord8label%"
 			"textAlignment"		"west"
@@ -2079,7 +2079,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord8Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord8value%"
 			"textAlignment"		"west"
@@ -2103,7 +2103,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord9Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord9label%"
 			"textAlignment"		"west"
@@ -2127,7 +2127,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord9Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord9value%"
 			"textAlignment"		"west"
@@ -2151,7 +2151,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord10Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord10label%"
 			"textAlignment"		"west"
@@ -2175,7 +2175,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord10Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord10value%"
 			"textAlignment"		"west"
@@ -2199,7 +2199,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord11Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord11label%"
 			"textAlignment"		"west"
@@ -2223,7 +2223,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord11Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord11value%"
 			"textAlignment"		"west"
@@ -2247,7 +2247,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord12Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord12label%"
 			"textAlignment"		"west"
@@ -2271,7 +2271,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord12Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord12value%"
 			"textAlignment"		"west"
@@ -2295,7 +2295,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord13Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord13label%"
 			"textAlignment"		"west"
@@ -2319,7 +2319,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord13Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord13value%"
 			"textAlignment"		"west"
@@ -2343,7 +2343,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord14Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord14label%"
 			"textAlignment"		"west"
@@ -2367,7 +2367,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord14Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord14value%"
 			"textAlignment"		"west"
@@ -2391,7 +2391,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord15Label"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord15label%"
 			"textAlignment"		"west"
@@ -2415,7 +2415,7 @@
 		{
 			"ControlName"		"Label"
 			"fieldName"		"OverallRecord15Value"
-			"font"			"Helv11"
+			"font"			"Nim11"
 			"font_hidef"	"Default"
 			"labelText"		"%classrecord15value%"
 			"textAlignment"		"west"
@@ -2454,7 +2454,7 @@
 	{
 		"ControlName"		"Label"
 		"fieldName"		"TipText"
-		"font"			"Helv11"
+		"font"			"Nim11"
 		"font_hidef"	"Default"
 		"labelText"		"%tiptext%"
 		"textAlignment"			"west"

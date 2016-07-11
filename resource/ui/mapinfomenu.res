@@ -102,7 +102,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"Helv12"
+		"font"			"Nim12"
 		"xpos"			"5"
 		"ypos"			"75"
 		"zpos"			"3"

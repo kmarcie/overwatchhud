@@ -191,7 +191,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"PlayerNameLabel"
-			"font"			"Helv9"
+			"font"			"Nim9"
 			"labelText"		"%playername%" // "#WelcomeBack"
 			"textAlignment"	"west"
 			"xpos"			"0"
@@ -717,7 +717,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"HUDLabel"
-		"font"			"Helv9"
+		"font"			"Nim9"
 		"labelText"		"Overwatch HUD by nimtra"
 		"textAlignment"	"west"
 		"xpos"			"1"
@@ -734,7 +734,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"vsnLABEL"
-		"font"			"Helv9"
+		"font"			"Nim9"
 		"labelText"		"v2016.07.11"
 		"textAlignment"	"west"
 		"xpos"			"1"

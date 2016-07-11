@@ -642,8 +642,7 @@ Scheme
 		"2"		"resource/HL2EP2.ttf"
       "3"
       {
-         "font" "resource/fonts/HelveticaNeue.otf"
-         "name" "Helvetica Neue"
+         "name" "Nimbus Sans L Regular"
       }      
    }
 }

@@ -58,7 +58,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"MannVsMachineExplanation"
-			"font"			"Helv14"
+			"font"			"Nim14"
 			"fgcolor_override"	"owwhite"
 			"labelText"		"#TF_MvM_MannVsMachineExplaination"
 			"textAlignment"	"north-west"

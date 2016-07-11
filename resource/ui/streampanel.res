@@ -84,7 +84,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisplayNameLabel"
-		"font"			"Helv10"
+		"font"			"Nim10"
 		"labelText"		"%display_name%"
 		"textAlignment"	"west"
 		"xpos"			"52"
@@ -102,7 +102,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisplayNameLabel2"
-		"font"			"HelvBlur10"
+		"font"			"NimBlur10"
 		"labelText"		"%display_name%"
 		"textAlignment"	"west"
 		"xpos"			"52"
@@ -120,7 +120,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextDescriptionLabel"
-		"font"			"Helv9"
+		"font"			"Nim9"
 		"labelText"		"%text_description%"
 		"textAlignment"	"north-west"
 		"xpos"			"52"
@@ -137,7 +137,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextDescriptionLabel2"
-		"font"			"HelvBlur9"
+		"font"			"NimBlur9"
 		"labelText"		"%text_description%"
 		"textAlignment"	"north-west"
 		"xpos"			"52"
@@ -154,7 +154,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ViewerCountLabel"
-		"font"			"Helv9"
+		"font"			"Nim9"
 		"labelText"		"%viewer_count%"
 		"textAlignment"	"west"
 		"xpos"			"52"
@@ -172,7 +172,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ViewerCountLabel2"
-		"font"			"HelvBlur9"
+		"font"			"NimBlur9"
 		"labelText"		"%viewer_count%"
 		"textAlignment"	"west"
 		"xpos"			"52"

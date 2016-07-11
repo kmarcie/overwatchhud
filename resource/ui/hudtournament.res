@@ -1059,7 +1059,7 @@
 		"textAlignment"		"center"
 		"proportionaltoparent"	"1"
 
-		if_match
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
@@ -1069,7 +1069,7 @@
 
 		if_readymode
 		{
-			"xpos"			"300"
+			"xpos"			"c-50"
 			"ypos"			"130"
 		}
 	}
