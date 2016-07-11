@@ -55,6 +55,7 @@ CHANGELOG
 
 July 10
 - Release
+
 July 11
 - Fixed symbol fonts appearing as letters and numbers
 - Fixed the promo codes button showing up
