@@ -7,6 +7,9 @@ Screenshots: http://imgur.com/a/U1gfV
 Any questions? Ask in the TFTV thread
 
 If you encounter any bugs while using this hud, please report them in the teamfortresstv thread. commenting on my profile (http://steamcommunity.com/id/nimtra) works too, but the first option is much preferred. please provide a screenshot of it, if possible.
+
+Warhuryeah and CommanderX don't like my HUD. FeelsBadMan
+https://www.twitch.tv/teamfortresstv/v/77502650?t=30m26s
 	
 ![alt tag](http://puu.sh/pXEu9/8abb73eff0.png)	
 
