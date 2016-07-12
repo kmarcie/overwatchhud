@@ -79,6 +79,7 @@ July 12
 - Added overrides for DirectX 8 users. Fixes the white ingame main menu backgrounds and class selection backgrounds.
 - Fixed the charge meter and charge label's animations being swapped
 - Re-aligned the freezecam so you can see it in different resolution
+- New TargetID. Centered TargetID had too many problems. Until I figure it out, I will be using this one for now.
 	
 ETC
 
