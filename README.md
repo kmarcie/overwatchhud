@@ -73,6 +73,12 @@ July 11
 - New CTF hud elements
 - Fixed the matchmaking tournament HUD being jumbled up in readymode
 - Fixed elements saying "if_matchetitive" instead of just "if_match" (caused by a shitty cut/replace job)
+
+July 12
+- Added overrides for 4:3, 5:4, fixes the tournament HUD and spectator tournament HUD getting cut off
+- Added overrides for DirectX 8 users. Fixes the white ingame main menu backgrounds and class selection backgrounds.
+- Fixed the charge meter and charge label's animations being swapped
+- Re-aligned the freezecam so you can see it in different resolution
 	
 ETC
 
