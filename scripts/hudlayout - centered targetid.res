@@ -1,3 +1,4 @@
+// use at your own risk
 "Resource/HudLayout.res"
 {
 	CMainTargetID
