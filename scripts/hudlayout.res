@@ -67,9 +67,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-50"	
-		"xpos_minmode"			"c50"	
+		"xpos_minmode"			"c56"	
 		"ypos"			"r140"
-		"ypos_minmode"			"r197"			
+		"ypos_minmode"			"r195"			
 		"wide"			"f0"
 		"tall"			"480"
 	}
