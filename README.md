@@ -80,6 +80,7 @@ July 12
 - Fixed the charge meter and charge label's animations being swapped
 - Re-aligned the freezecam so you can see it in different resolution
 - New TargetID. Centered TargetID had too many problems. Until I figure it out, I will be using this one for now.
+- Added overheal colours in spectator tournament
 	
 ETC
 
