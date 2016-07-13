@@ -422,17 +422,18 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"c-150"
-		"ypos"			"32"
+		"xpos"			"5"
+		"ypos"			"130"
 		"wide"			"300"
-		"tall"			"18"
+		"tall"			"30"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"center"
-		"font"			"HudFontSmall"
+		"textAlignment"		"west"
+		"font"			"Oblique18"
+		"fgcolor_override"	"oworange"
 		
 		if_mvm
 		{

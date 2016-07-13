@@ -9,8 +9,8 @@ event HudHealthBonusPulse
     Animate HealthBGBuff            Alpha     "175"		       Linear 0.0 0.4
     Animate HealthBGBuff            Alpha       "0"       	   Linear 0.4 0.4
 	
-	Animate PlayerStatusHealthValueID        FgColor "owGREEN"        Linear 0.0 0.4
-	Animate PlayerStatusHealthValueID        FgColor "152 214 17  255"        Linear 0.4 0.4
+	Animate SpectatorGUIHealth        FgColor "owGREEN"        Linear 0.0 0.4
+	Animate SpectatorGUIHealth        FgColor "152 214 17  255"        Linear 0.4 0.4
 
 	Animate PlayerStatusHealthValueSpec        FgColor "owGREEN"        Linear 0.0 0.4
 	Animate PlayerStatusHealthValueSpec        FgColor "152 214 17  255"        Linear 0.4 0.4
@@ -32,8 +32,8 @@ event HudHealthBonusPulseStop
     Animate HealthBGBuff            Alpha     "0"		       Linear 0.0 0.2
     Animate HealthBGBuff            Alpha       "0"       	   Linear 0.2 0.4
 	
-	Animate PlayerStatusHealthValueID        FgColor "owFULLWHITE"        Linear 0.0 0.0
-	Animate PlayerStatusHealthValueID        FgColor "owFULLWHITE"        Linear 0.0 0.0
+	Animate SpectatorGUIHealth        FgColor "owFULLWHITE"        Linear 0.0 0.0
+	Animate SpectatorGUIHealth        FgColor "owFULLWHITE"        Linear 0.0 0.0
 	
 	Animate PlayerStatusHealthValueSpec        FgColor "owFULLWHITE"        Linear 0.0 0.0
 	Animate PlayerStatusHealthValueSpec        FgColor "owFULLWHITE"        Linear 0.0 0.0
