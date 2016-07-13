@@ -786,7 +786,7 @@
 
 		if_readymode
 		{
-			"xpos"			"c-70"
+			"xpos"			"c-88"
 			"ypos"			"10"
 			"visible"		"1"
 			"font"			"FuturaBold11"

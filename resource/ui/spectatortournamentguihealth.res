@@ -55,10 +55,10 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
-	"PlayerStatusHealthValue"
+	"PlayerStatusHealthValueSpec"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"PlayerStatusHealthValueSpec"
 		"xpos"			"6"
 		"ypos"			"11"
 		"zpos"			"5"

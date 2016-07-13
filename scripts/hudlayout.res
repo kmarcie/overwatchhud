@@ -19,13 +19,13 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"360"
+		"ypos"		"330"
 		"wide"	 	"f0"
 		"tall"	 	"35"
 		"priority"	"40"
 		
 		"x_offset" "20"
-		"y_offset" "20"
+		"y_offset" "30"
 	}
 	
 	CSecondaryTargetID
