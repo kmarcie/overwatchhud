@@ -4,7 +4,7 @@
 	{
 		"ControlName"					"EditablePanel"
 		"fieldName"						"FreezePanelBase"
-		"xpos"							"c-20"
+		"xpos"							"40"
 		"ypos"							"c40"
 		"wide"							"f0"
 		"tall"							"480"

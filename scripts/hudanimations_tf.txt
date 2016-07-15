@@ -1793,5 +1793,13 @@ event MMenu_UpdateButton_SubtleGlow
 
 	RunEvent MMenu_UpdateButton_SubtleGlow 5
 }
+event CategoryMap_Selected
+{
+	Animate HealthProgressBar	Alpha 255 Deaccel 0 0.2
+}
 
+event CategoryMap_NotSelected
+{
+	Animate HealthProgressBar	Alpha 50 Deaccel 0 0.2
+}
 //
