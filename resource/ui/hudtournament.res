@@ -1017,7 +1017,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../HUD/color_panel_red"
 
 		"src_corner_height"	"23"				// pixels inside the image
@@ -1079,32 +1079,19 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
 		"font"			"HudFontGiant"
-		"xpos"			"231"
-		"ypos"			"r54"
-		"wide"			"40"
-		"tall"			"40"
+		"xpos"			"9899"
+		"ypos"			"9899"
+		"wide"			"0"
+		"tall"			"0"
 		"zpos"			"4"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"Black"
+		"fgcolor"		"0 0 0 0"
 		"proportionaltoparent"	"1"
-
-		if_match
-		{
-			"xpos"			"cs-0.48"
-			"ypos"			"cs-0.08"
-			"font"			"HudFontGiant"
-		}
-
-		if_readymode
-		{
-			"xpos"			"300"
-			"ypos"			"130"
-		}
 	}
 }
