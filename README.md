@@ -81,6 +81,13 @@ July 12
 - Re-aligned the freezecam so you can see it in different resolution
 - New TargetID. Centered TargetID had too many problems. Until I figure it out, I will be using this one for now.
 - Added overheal colours in spectator tournament
+
+July 14
+- Fixed the map selection menu being broken in the casual menu 
+- Added overheal/hurt animations for the numbers 
+- Fixed the offset shadow being screwed up 
+- Removed sticky background when using a shield 
+- Added the advanced options button to the menu
 	
 ETC
 
