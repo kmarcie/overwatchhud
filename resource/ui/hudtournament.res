@@ -489,16 +489,22 @@
 		
 		if_mvm
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_readymode
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 	}
@@ -560,11 +566,15 @@
 		
 		if_mvm
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
@@ -665,12 +675,15 @@
 		
 		if_mvm
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"xpos"			"cs-0.5"
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
@@ -700,12 +713,15 @@
 		
 		if_mvm
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"xpos"			"370"
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
@@ -735,12 +751,15 @@
 		
 		if_mvm
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"xpos"			"325"
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 
@@ -777,11 +796,9 @@
 
 		if_match
 		{
-			"xpos"			"c-45"
-			"ypos"			"18"
-			"tall"			"35"
-			"visible"		"1"
-			"font"			"TFFontMedium"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
 		}
 
 		if_readymode
@@ -821,6 +838,8 @@
 
 		if_match
 		{
+			"wide"			"0"
+			"tall"			"0"
 			"visible"		"0"
 		}
 

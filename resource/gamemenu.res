@@ -78,6 +78,13 @@
 		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyInGame" "1"
 	}
+	"AdvancedOptionsINGAME"
+	{
+		"label"			"ADVANCED"
+		"command"		"opentf2options"
+		"OnlyInGame"	"1"
+		"subimage" "replay/thumbnails/bg_blank"
+	}
 	// These buttons are only shown while in-game
 	// and also are positioned by the .res file
 	"CallVoteButton"
