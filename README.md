@@ -53,7 +53,11 @@ i used cp_reckoner for the background of the loadout subpanel.
  - rawrsor & nokk - helped out with answering some of the questions i had while making this hud
  - humahuma & sentrionic - helped out with references and providing screenshots of certain elements
  - yoshi - helped out with buff/hurt animations
- - omnibombulator - huds.tf & fixed the flare going above the text on the main menu		
+ - omnibombulator - huds.tf & fixed the flare going above the text on the main menu	
+	
+ETC
+
+thanks for using this hud. i put a lot of work into it. :) enjoy! 
  
 CHANGELOG
 
@@ -88,7 +92,9 @@ July 14
 - Fixed the offset shadow being screwed up 
 - Removed sticky background when using a shield 
 - Added the advanced options button to the menu
-	
-ETC
 
-thanks for using this hud. i put a lot of work into it. :) enjoy! 
+July 19
+- Fixed the crafting button
+- Added low ammo animations
+- Fixed the demoman sticky background showing up with a shield
+- Made the colour of "EventColor" (dropping a med etc) to be orange instead of pink
