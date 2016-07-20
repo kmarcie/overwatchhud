@@ -86,6 +86,33 @@ event DamagedPlayer
 	RunEvent Hitmarker	0.0
 }
 
+event HudLowAmmoPulse
+{
+	Animate	AmmoInClipReal				FgColor		"owTEAMRED"			Linear 0.0 0.4
+	Animate	AmmoInReserve				FgColor		"owTEAMRED"			Linear 0.0 0.4
+	Animate	AmmoInReserveShadow			FgColor		"owTEAMRED"			Linear 0.0 0.4
+	
+	RunEvent HudLowAmmoPulseLoop	0.4
+}
+
+// call to loop HudLowAmmoPulse
+event HudLowAmmoPulseLoop
+{
+	RunEvent HudLowAmmoPulse 0.0
+}
+
+event HudLowAmmoPulseStop
+{
+	StopEvent HudLowAmmoPulse 0.0
+	StopEvent HudLowAmmoPulseLoop 0.0
+	
+	Animate	AmmoInClipReal				FgColor		"owFULLWHITE"			Linear 0.0 0.0
+	Animate	AmmoInReserve				FgColor		"owFULLWHITE"			Linear 0.0 0.0
+	Animate	AmmoInReserveShadow			FgColor		"owFULLWHITE"			Linear 0.0 0.0
+}
+
+//===========================================
+
 event OpenWeaponSelectionMenu
 {
 	StopEvent CloseWeaponSelectionMenu	0.0
@@ -238,28 +265,6 @@ event KeyHintMessageShow
 event KeyHintMessageHide
 {
 	Animate HudHintKeyDisplay Alpha	0 Linear 0.0 0.5
-}
-
-//===========================================
-
-event HudLowAmmoPulse
-{
-	Animate	HudWeaponLowAmmoImage		Alpha		"255"		Linear 0.0 0.075
-	Animate	HudWeaponLowAmmoImage		Alpha		"0"			Linear 0.125 0.075
-	
-	RunEvent HudLowAmmoPulseLoop	0.25
-}
-
-// call to loop HudLowAmmoPulse
-event HudLowAmmoPulseLoop
-{
-	RunEvent HudLowAmmoPulse 0.0
-}
-
-event HudLowAmmoPulseStop
-{
-	StopEvent HudLowAmmoPulse 0.0
-	StopEvent HudLowAmmoPulseLoop 0.0
 }
 
 //===========================================
