@@ -98,3 +98,7 @@ July 19
 - Added low ammo animations
 - Fixed the demoman sticky background showing up with a shield
 - Made the colour of "EventColor" (dropping a med etc) to be orange instead of pink
+
+Sept 17
+- Made "eventcolor" (med drop, pyro extinguish display etc) orange instead of the original purple
+- Edited payload and control point icons to be able to be used in valve servers, so you don't have to suffer the ugly stretched payload icons anymore :)
