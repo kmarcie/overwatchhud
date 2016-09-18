@@ -735,7 +735,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"vsnLABEL"
 		"font"			"Nim9"
-		"labelText"		"v2016.07.19"
+		"labelText"		"v2016.09.17"
 		"textAlignment"	"west"
 		"xpos"			"1"
 		"ypos"			"r19"
