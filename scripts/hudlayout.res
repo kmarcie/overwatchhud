@@ -251,8 +251,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"35"	
-		"ypos"		"r115"	
+		"xpos"		"120"	
+		"ypos"		"r92"	
 		"wide"		"500"
 		"tall"		"200"
 	}
@@ -964,7 +964,7 @@
 		"xpos"			"c-150"
 		"ypos"			"r260"
 		"wide"			"450"
-		"tall"			"135"
+		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}	
 	

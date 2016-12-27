@@ -87,7 +87,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"50"
+		"xpos"			"53"
 		"xpos_minmode"	"c-180"
 		"ypos"			"r68"	
 		"ypos_minmode"	"r150"
@@ -106,7 +106,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue2"
-		"xpos"			"50"
+		"xpos"			"53"
 		"xpos_minmode"	"c-180"
 		"ypos"			"r68"	
 		"ypos_minmode"	"r150"		
@@ -119,7 +119,7 @@
 		"textAlignment"	"center"	
 		"font"			"ObliqueBlur32"
 		"font_minmode"	"ObliqueBlur52"
-		"fgcolor"		"owBLACK"
+		"fgcolor"		"255 255 255 125"
 	}		
 	"StatusFix" // Credit to Rawrsor for providing this
 	{

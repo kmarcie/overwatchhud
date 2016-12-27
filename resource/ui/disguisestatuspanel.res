@@ -54,7 +54,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DisguiseNameLabel"
-		"font"			"FuturaBold12"
+		"font"			"Oblique16"
 		"xpos"			"52"
 		"ypos"			"31"
 		"zpos"			"1"
@@ -73,7 +73,7 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"DisguiseNameLabelS"
-		"font"			"FuturaBoldBlur12"
+		"font"			"ObliqueBlur16"
 		"xpos"			"52"
 		"ypos"			"31"
 		"zpos"			"1"
@@ -87,15 +87,15 @@
 		"textAlignment"		"North-West"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"owblack"
+		"fgcolor_override"	"255 255 255 50"
 	}	
 	"WeaponNameLabel"
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"WeaponNameLabel"
-		"font"			"FuturaBold12"
-		"xpos"			"52"
-		"ypos"			"41"
+		"font"			"Oblique12"
+		"xpos"			"51"
+		"ypos"			"45"
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"24"
@@ -112,9 +112,9 @@
 	{	
 		"ControlName"	"Label"
 		"fieldName"		"WeaponNameLabelS"
-		"font"			"FuturaBoldBlur12"
-		"xpos"			"52"
-		"ypos"			"41"
+		"font"			"ObliqueBlur12"
+		"xpos"			"51"
+		"ypos"			"45"
 		"zpos"			"1"
 		"wide"			"110"
 		"tall"			"24"
@@ -126,7 +126,7 @@
 		"textAlignment"		"North-West"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		"fgcolor_override"	"owblack"
+		"fgcolor_override"	"255 255 255 50"
 	}	
 	"SpectatorGUIHealth"
 	{

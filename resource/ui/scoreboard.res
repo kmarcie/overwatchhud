@@ -40,7 +40,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"owWHITE"
+		"fgcolor"		"255 255 255 125"
 			
 		if_mvm
 		{
@@ -63,7 +63,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"owOUTLINE"
+		"fgcolor"		"255 255 255 50"
 			
 		if_mvm
 		{
@@ -130,7 +130,7 @@
 		"ypos"			"r260"
 		"zpos"			"0"
 		"wide"			"200"
-		"tall"			"2"
+		"tall"			"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"255 255 255 155"
@@ -144,7 +144,7 @@
 		"ypos"			"r260"
 		"zpos"			"0"
 		"wide"			"200"
-		"tall"			"2"
+		"tall"			"1"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"255 255 255 155"
@@ -158,7 +158,7 @@
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"f0"
-		"tall"			"30"
+		"tall"			"45"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
@@ -169,20 +169,7 @@
 			"visible"	"0"
 		}
 	}
-	"TopBarLine"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"TopBarLine"
-		"xpos"			"0"
-		"ypos"			"30"
-		"zpos"			"-1"
-		"wide"			"f0"
-		"tall"			"1"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"255 255 255 55"
-		"scaleImage"	"1"	
-	}
+
 	"BottomBar"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -205,20 +192,6 @@
 		{
 			"visible"	"0"
 		}
-	}
-	"BottomBarLine"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"BottomBarLine"
-		"xpos"			"0"
-		"ypos"			"r73"
-		"zpos"			"-1"
-		"wide"			"f0"
-		"tall"			"1"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"255 255 255 55"
-		"scaleImage"	"1"	
 	}
 	"BlueLeaderAvatar"
 	{
@@ -297,7 +270,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"owOUTLINE"
+		"fgcolor"		"255 255 255 50"
 		
 		if_mvm
 		{
@@ -425,7 +398,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"owOUTLINE"
+		"fgcolor"		"255 255 255 50"
 		
 		if_mvm
 		{
@@ -480,11 +453,11 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"Oblique12"
+		"font"			"Nim9"
 		"labelText"		"%server%"
 		"textAlignment"	"west"	
 		"xpos"			"5"
-		"ypos"			"10"
+		"ypos"			"25"
 		"zpos"			"999"
 		"wide"			"235"
 		"tall"			"20"
@@ -528,9 +501,9 @@
 		"fieldName"		"ServerTimeLeftValue"
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%servertime%"
-		"textAlignment"		"center"
-		"xpos"			"c-118"
-		"ypos"			"5"
+		"textAlignment"		"west"
+		"xpos"			"5"
+		"ypos"			"16"
 		"zpos"			"999"
 		"wide"			"235"
 		"tall"			"20"
@@ -538,7 +511,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"owWHITE"
+		"fgcolor"		"owORANGE"
 		"centerwrap"	"0"
 		
 		if_mvm
@@ -925,19 +898,42 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"mapname"
-		"font"			"Oblique12"
+		"font"			"FuturaBold14"
 		"labelText"		"%mapname%"
 		"textAlignment"		"west"
 		"xpos"			"5"
-		"ypos"			"-1"
+		"ypos"			"6"
 		"zpos"			"4"
 		"wide"			"116"
 		"tall"			"20"
-		"autoResize"	"0	"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor"		"owWHITE"
+		
+		if_mvm
+		{
+			"visible"		"0"
+		}
+	}
+	"MapName1"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"mapname1"
+		"font"			"FuturaBoldBlur14"
+		"labelText"		"%mapname%"
+		"textAlignment"		"west"
+		"xpos"			"5"
+		"ypos"			"6"
+		"zpos"			"4"
+		"wide"			"116"
+		"tall"			"20"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor"		"255 255 255 50"
 		
 		if_mvm
 		{
@@ -1260,7 +1256,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{
@@ -1283,7 +1279,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 		}
 		"AssistsLabel2"
 		{
@@ -1301,7 +1297,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{
@@ -1851,7 +1847,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{
@@ -1875,7 +1871,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{
@@ -1923,7 +1919,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{
@@ -2139,7 +2135,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{
@@ -2352,7 +2348,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"owWHITE"
+			"fgcolor"		"180 190 190 255"
 			
 			if_mvm
 			{

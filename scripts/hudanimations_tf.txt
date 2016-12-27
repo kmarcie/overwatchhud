@@ -2,7 +2,7 @@
 event LevelInit
 {
 }
-//Health Bonus Pulse - Credit to Yoshee for helping out with the overheal/low health animations :)
+//Health Bonus Pulse - Credit to Yoshee for helping out with the overheal/low health animations
 event HudHealthBonusPulse
 {
    
@@ -45,7 +45,7 @@ event HudHealthBonusPulseStop
  
 //===========================================
  
-//Health Dying Pulse - Credit to Yoshee for helping out with the overheal/low health animations :)
+//Health Dying Pulse - Credit to Yoshee for helping out with the overheal/low health animations
 event HudHealthDyingPulse
 {
    
@@ -1624,41 +1624,38 @@ event HudMatchSummary_SlideInPanels
 
 event MMenu_PlayList_Expand
 {
-	Animate ItemsContainer			ypos 420 Spline 0 0.4
 	Animate EventPromo				ypos 470 Spline 0 0.4
-	Animate SafeMode				ypos 470 Spline 0 0.4
-	Animate VRBGPanel				ypos 633 Spline 0 0.4
-	Animate VRModeButton			ypos 639 Spline 0 0.4
-	Animate ShowPromoCodesButton	ypos 639 Spline 0 0.4
 
-	Animate PlayListContainer Tall 260	 Spline	0.0 0.40
+	Animate PlayListContainer Tall f0	 Spline	0.0 0.40
+	Animate Playlistbg1 Tall 480	 Spline	0.0 0.40
+	Animate PlayLabelFG Wide 145	Spline 0.0 0.025
+	
+	Animate BackButtonFG Xpos r75	Spline 0.0 0.025
+	Animate Casual Ypos 110	Spline 0.025 0.050
+	Animate MVM Ypos 110	Spline 0.075 0.1
+	Animate Competitive Ypos 110	Spline 0.125 0.150
+	Animate ServerBrowserF Ypos 110	Spline 0.175 0.2
+	Animate Create Ypos 110	Spline 0.225 0.250
 
 	FireCommand 0 "soundentry Panel.SlideDown"
 }
 
 event MMenu_PlayList_Collapse
 {
-	Animate ItemsContainer			ypos 160 Spline 0 0.4
 	Animate EventPromo				ypos 210 Spline 0 0.4
-	Animate SafeMode				ypos 210 Spline 0 0.4
-	Animate VRBGPanel				ypos 373 Spline	0 0.4
-	Animate VRModeButton			ypos 379 Spline 0 0.4
-	Animate ShowPromoCodesButton	ypos 379 Spline 0 0.4
-
+	
 	Animate PlayListContainer Tall 0 Spline 0 0.4
+	Animate Playlistbg1 Tall 0	Spline	0.0 0.40
+	Animate PlayLabelFG Wide 0	Spline 0.0 0.025
+	
+	Animate BackButtonFG Xpos r0	Spline 0.0 0.025
+	Animate Casual Ypos -1000	Spline 0.025 0.050
+	Animate MVM Ypos -1000	Spline 0.075 0.1
+	Animate Competitive Ypos -1000	Spline 0.125 0.150
+	Animate ServerBrowserF Ypos -1000	Spline 0.175 0.2
+	Animate Create Ypos -1000	Spline 0.225 0.250
 
 	FireCommand 0 "soundentry Panel.SlideUp"
-}
-
-event MMenu_PlayList_Collapse_Immediate
-{
-	Animate ItemsContainer			ypos 160 Spline 0 0
-	Animate EventPromo				ypos 210 Spline 0 0
-	Animate VRBGPanel				ypos 373 Spline	0 0
-	Animate VRModeButton			ypos 379 Spline 0 0
-	Animate ShowPromoCodesButton	ypos 379 Spline 0 0
-
-	Animate PlayListContainer Tall 0 Spline 0 0
 }
 
 event MMenu_SafeMode_Blink
@@ -1722,21 +1719,6 @@ event CompetitiveGame_ShowPvPRankPanel
 event PvPRankPanelShowXPChange
 {
 	FireCommand 0 "begin_xp_lerp"
-}
-
-event PyroVsHeavyWar_ShowChooseScene
-{
-	// Reset
-	Animate Background	ypos -250 Linear 0 0
-	Animate Heavy		ypos -180 Linear 0 0
-	Animate Pyro		ypos -180 Linear 0 0
-	Animate Foreground	ypos -100 Linear 0 0
-
-	// Paralax
-	Animate Background	ypos -175	Bias 0.9 0 1
-	Animate Heavy		ypos -60	Bias 0.9 0 1
-	Animate Pyro		ypos -60	Bias 0.9 0 1
-	Animate Foreground	ypos 65		Bias 0.9 0 1
 }
 
 event CasualCategory_Checkbox_Hide
@@ -1803,6 +1785,74 @@ event MMenu_UpdateButton_SubtleGlow
 	Animate ViewWarButtonGlow BgColor "178 83 22 255" Linear 0.2 1.0
 
 	RunEvent MMenu_UpdateButton_SubtleGlow 5
+}
+
+event SurveyShowSequence
+{
+Animate Survey ypos 480 Linear 0 0
+Animate Survey ypos 150 Linear 1 0.3
+Animate Survey ypos 130 Deaccel 1.3 0.1
+Animate Survey ypos 150 Accel 1.4 0.1
+}
+
+event SurveySubmitSequence
+{
+// Show submitting
+SetVisible QuestionContainer 0 0
+SetVisible SubmittingContainer 1 0
+
+// Show thanks
+SetVisible SubmittingContainer 0 2
+SetVisible ThanksContainer 1 2
+
+RunEvent SurveyHideSequence 6
+}
+
+event SurveyDelete
+{
+FireCommand 0 "delete"
+}
+
+event SurveyHideSequence
+{
+SetVisible CloseButton 0 0 
+
+Animate Survey ypos 130 Deaccel 0 0.3
+Animate Survey ypos 480 Accel 0.3 0.2
+RunEventChild Survey SurveyDelete 0.6
+}
+
+event XPSourceShow_Positive
+{
+Animate SourceLabel Alpha 0 Linear 0 0
+Animate SourceLabelGlow Alpha 0 Linear 0 0
+
+Animate SourceLabel Alpha 255 Linear 0.1 0.3
+Animate SourceLabel FgColor "100 255 100 255" Linear 0.1 0
+Animate SourceLabel FgColor CreditsGreen Linear 0.5 1
+Animate SourceLabel ypos -25 Deaccel 0 3.0
+Animate SourceLabel Alpha 0 Linear 2.9 0.3
+
+Animate SourceLabelGlow Alpha 255 Linear 0.0 0.1
+Animate SourceLabelGlow FgColor "100 255 100 255" Linear 0.1 0
+Animate SourceLabelGlow FgColor CreditsGreen Linear 0.5 1
+Animate SourceLabelGlow Alpha 200 Linear 0.5 1
+Animate SourceLabelGlow ypos -25 Deaccel 0 3.0
+Animate SourceLabelGlow Alpha 0 Linear 2.9 0.3
+}
+
+event XPSourceShow_Negative
+{
+Animate SourceLabel Alpha 0 Linear 0 0
+Animate SourceLabelGlow Alpha 0 Linear 0 0
+
+Animate SourceLabel Alpha 255 Linear 0.1 0.3
+Animate SourceLabel FgColor "255 100 100 255" Linear 0.1 0
+Animate SourceLabel FgColor RedSolid Linear 0.5 1
+Animate SourceLabel Alpha 0 Linear 2.9 0.1
+Animate SourceLabel ypos -15 Linear 0 0.4
+
+Animate SourceLabelGlow Alpha 0 Linear 0 0
 }
 
 //

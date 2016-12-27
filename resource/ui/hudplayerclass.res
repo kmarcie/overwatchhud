@@ -134,10 +134,53 @@
 		"zpos"			"1"		
 		"wide"			"42"
 		"tall"			"42"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
 		"scaleImage"	"1"
 		"image"				"replay/thumbnails/ow_playerbg"	
+	}
+	"classmodelpanelBG3"
+	{
+		"ControlName"	"ScalableImagePanel"
+		"fieldName"		"classmodelpanelBG3"
+		"xpos"			"20"		
+		"ypos"			"r80"	
+		"zpos"			"-0"		
+		"wide"			"74"
+		"tall"			"74"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"				"replay/thumbnails/ow_playerbg_N"	
+	}
+	"classmodelpanelBGblue"
+	{
+		"ControlName"	"ScalableImagePanel"
+		"fieldName"		"classmodelpanelBGblue"
+		"xpos"			"12"		
+		"ypos"			"r87"	
+		"zpos"			"-10"		
+		"wide"			"88"
+		"tall"			"89"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"				"replay/thumbnails/playerbgblue"
+		"alpha"			"180"		
+	}
+	"classmodelpanelBGoverlap"
+	{
+		"ControlName"	"ScalableImagePanel"
+		"fieldName"		"classmodelpanelBGoverlap"
+		"xpos"			"20"		
+		"ypos"			"r80"	
+		"zpos"			"51"		
+		"wide"			"74"
+		"tall"			"74"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"
+		"image"				"replay/thumbnails/ow_playerbg_Npt2"	
 	}
 	"classmodelpanel"
 	{
@@ -237,17 +280,17 @@
 			}
 			"Scout"
 			{
-				"fov"			"25"
+				"fov"			"20"
 				"angles_x"		"-17"
-				"angles_y"		"172"
+				"angles_y"		"205"
 				"angles_z"		"0"
 				"origin_x"		"105"
-				"origin_y"		"4"
+				"origin_y"		"-4"
 				"origin_z"		"-82"
 			}
 			"Sniper"
 			{
-				"fov"			"25"
+				"fov"			"20"
 				"angles_x"		"-10"
 				"angles_y"		"172"
 				"angles_z"		"0"
@@ -257,9 +300,9 @@
 			}
 			"Soldier"
 			{
-				"fov"			"25"
+				"fov"			"20"
 				"angles_x"		"-10"
-				"angles_y"		"170"
+				"angles_y"		"200"
 				"angles_z"		"0"
 				"origin_x"		"145"
 				"origin_y"		"-5"
@@ -267,7 +310,7 @@
 			}
 			"Demoman"
 			{
-				"fov"			"25"
+				"fov"			"20"
 				"angles_x"		"-13"
 				"angles_y"		"200"
 				"angles_z"		"0"

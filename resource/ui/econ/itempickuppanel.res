@@ -84,11 +84,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemsFoundLabel"
-		"font"			"Oblique32"
+		"font"			"Oblique16"
 		"labelText"		"#NewItemsAcquired"
 		"textAlignment"	"center"
 		"xpos"			"0"
-		"ypos"			"20"
+		"ypos"			"12"
 		"zpos"			"1"
 		"wide"			"0"
 		"tall"			"0"
@@ -101,11 +101,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemsFoundLabelN"
-		"font"			"Oblique48"
+		"font"			"Oblique16"
 		"labelText"		"NEW ITEM ACQUIRED"
 		"textAlignment"	"center"
 		"xpos"			"0"
-		"ypos"			"20"
+		"ypos"			"8"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"35"
@@ -119,11 +119,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemsFoundLabelS"
-		"font"			"ObliqueBlur48"
+		"font"			"ObliqueBlur16"
 		"labelText"		"NEW ITEM ACQUIRED"
 		"textAlignment"	"center"
 		"xpos"			"0"
-		"ypos"			"20"
+		"ypos"			"8"
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"35"
@@ -229,8 +229,8 @@
 			"armedFgColor_override" 	"owWHITE"
 			"depressedFgColor_override" "owWHITE"
 
-			"border_default"			"RoundedTranslucentBlackButton"
-			"border_armed"				"RoundedTranslucentBlackButtonSel"
+			"border_default"			"BlueButton"
+			"border_armed"				"BlueButtonSel"
 	}
 	"PrevButton"
 	{
@@ -258,8 +258,8 @@
 			"armedFgColor_override" 	"owWHITE"
 			"depressedFgColor_override" "owWHITE"
 
-			"border_default"			"RoundedTranslucentBlackButton"
-			"border_armed"				"RoundedTranslucentBlackButtonSel"
+			"border_default"			"BlueButton"
+			"border_armed"				"BlueButtonSel"
 	}
 	
 	"CloseButton"
@@ -286,8 +286,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-			"border_default"	"BlueButtonS"
-			"border_armed"		"BlueButtonS"
+			"border_default"			"BlueButton"
+			"border_armed"				"BlueButtonSel"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"
@@ -317,8 +317,8 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-			"border_default"	"BlueButtonS"
-			"border_armed"		"BlueButtonS"
+			"border_default"			"BlueButton"
+			"border_armed"				"BlueButtonSel"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"
@@ -356,8 +356,8 @@
 		"image_drawcolor"	"235 226 202 255"		
 		"image_armedcolor"	"235 226 202 255"
 
-			"border_default"	"BlueButtonS"
-			"border_armed"		"BlueButtonS"
+			"border_default"			"BlueButton"
+			"border_armed"				"BlueButtonSel"
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "owFULLWHITE"

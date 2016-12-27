@@ -489,22 +489,16 @@
 		
 		if_mvm
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_readymode
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 	}
@@ -566,15 +560,11 @@
 		
 		if_mvm
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
@@ -675,15 +665,12 @@
 		
 		if_mvm
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"xpos"			"cs-0.5"
 			"visible"		"0"
 		}
 
@@ -713,15 +700,12 @@
 		
 		if_mvm
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"xpos"			"370"
 			"visible"		"0"
 		}
 
@@ -751,15 +735,12 @@
 		
 		if_mvm
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
+			"xpos"			"325"
 			"visible"		"0"
 		}
 
@@ -796,9 +777,11 @@
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"0"
+			"xpos"			"c-45"
+			"ypos"			"18"
+			"tall"			"35"
+			"visible"		"1"
+			"font"			"TFFontMedium"
 		}
 
 		if_readymode
@@ -838,8 +821,6 @@
 
 		if_match
 		{
-			"wide"			"0"
-			"tall"			"0"
 			"visible"		"0"
 		}
 
@@ -1036,7 +1017,7 @@
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"image"			"../HUD/color_panel_red"
 
 		"src_corner_height"	"23"				// pixels inside the image
@@ -1098,19 +1079,32 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
 		"font"			"HudFontGiant"
-		"xpos"			"9899"
-		"ypos"			"9899"
-		"wide"			"0"
-		"tall"			"0"
+		"xpos"			"231"
+		"ypos"			"r54"
+		"wide"			"40"
+		"tall"			"40"
 		"zpos"			"4"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor"		"0 0 0 0"
+		"fgcolor"		"Black"
 		"proportionaltoparent"	"1"
+
+		if_match
+		{
+			"xpos"			"cs-0.48"
+			"ypos"			"cs-0.08"
+			"font"			"HudFontGiant"
+		}
+
+		if_readymode
+		{
+			"xpos"			"300"
+			"ypos"			"130"
+		}
 	}
 }

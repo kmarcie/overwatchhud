@@ -288,8 +288,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground"	"0"
-			"border_armed"		"OutlinedGreyBox"
-			"border_default"	"OutlinedGreyBox"
+			"border_armed"		"BlueButtonSel"
+			"border_default"	"BlueButton"
 		}
 		"FreeAccountLabel"
 		{

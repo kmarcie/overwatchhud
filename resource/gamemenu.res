@@ -43,32 +43,25 @@
 		"OnlyInGame"	"1"
 		"subimage" "icon_resume"
 	}
-	"QuickplayChangeButton"
+	"FindAGameButtonINGAME"
 	{
-		"label" "PLAY CASUAL" 
-		"command" "quickplay"
-		"subimage" "replay/thumbnails/ow_flare"
-		"OnlyInGame" "1"
-	}
-	"ChangeServerButton"
-	{
-		"label" "SERVER BROWSER" 
-		"command" "OpenServerBrowser"
-		"subimage" "replay/thumbnails/ow_flare"
-		"OnlyInGame" "1"
+		"label" "FIND A NEW GAME" 
+		"command" "toggle_play_menu"
+		"subimage" "replay/thumbnails/menu/"
+		"OnlyInGame"	"1"
 	}
 	"INVENTORYBUTTON"
 	{
 		"label" "INVENTORY"
 		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/menu/flare"
 		"OnlyInGame"	"1"
 	}
 	"DisconnectButton"
 	{
 		"label" "LEAVE GAME" 
 		"command" "engine disconnect"
-		"subimage" "replay/thumbnails/ow_flare"
+		"subimage" "replay/thumbnails/menu/flare"
 		"OnlyInGame" "1"
 	}
 	"SettingsButtonINGAME"
@@ -116,87 +109,45 @@
 	"TF2LogoW"
 	{
 		"label"			""
-		"command"		"quickplay"
+		"command"		"null"
 		"OnlyAtMenu"	"1"
 		"subimage" "replay/thumbnails/ow_logo"
 	}
-	"QuickplayButton"
+	"SoldierImage"
 	{
-		"label" "    CASUAL" 
-		"command" "play_casual"
-		"subimage" "replay/thumbnails/bg_blank"
+		"label"			""
+		"command"		"null"
+		"OnlyAtMenu"	"1"
+		"subimage" "../console/characters/soldier"
+	}
+	"FindAGameButton"
+	{
+		"label" "" 
+		"command" "toggle_play_menu"
+		"subimage" "replay/thumbnails/menu/play"
+		"OnlyAtMenu"	"1"
+	}
+	"TrainingButton" // i don't know why people need this so much, but I'm putting it in I guess. are people that dumb that they can install a hud but can't even use a console?
+	{
+		"label" ""
+		"command" "offlinepractice"
+		"subimage" "replay/thumbnails/menu/training"
 		"OnlyAtMenu" "1"
 	}
-	"QuickplayButtonShadow"
+	"CharacterSetupButton"
 	{
-		"label" "    CASUAL" 
-		"command" "play_casual"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
+		"label" ""
+		"command" "engine open_charinfo"
+		"subimage" "replay/thumbnails/menu/loadout"
+		"OnlyAtMenu"	"1"
 	}
-	"QuickplayButtonShadow2"
+	"GeneralStoreButton"
 	{
-		"label" "    CASUAL" 
-		"command" "play_casual"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
+		"label" ""
+		"command" "engine open_store"
+		"subimage" "replay/thumbnails/menu/store"
+		"OnlyAtMenu"	"1"
 	}
-	"PlayPVEButton"
-	{
-		"label" "    ROBOTS" 
-		"command" "play_mvm"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
-	}
-	"PlayPVEButtonShadow"
-	{
-		"label" "    ROBOTS" 
-		"command" "play_mvm"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
-	}
-	"PlayPVEButtonShadow2"
-	{
-		"label" "    ROBOTS" 
-		"command" "playpve"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
-	}
-	"PlayCompetitiveButton"
-	{
-		"label" "    COMPETITIVE" 
-		"command" "play_competitive"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
-	}
-	"PlayCompetitiveButtonShadow"
-	{
-		"label" "    COMPETITIVE" 
-		"command" "play_competitive"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
-	}
-	"PlayCompetitiveButtonShadow2"
-	{
-		"label" "    COMPETITIVE" 
-		"command" "play_competitive"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu" "1"
-	}
-	"ServerBrowserButton"
-	{
-		"label" "SERVER BROWSER" 
-		"command" "OpenServerBrowser"
-		"subimage" "replay/thumbnails/ow_flare"
-		"OnlyAtMenu" "1"
-	} 
-	"ServerBrowserButton2"
-	{
-		"label" "SERVER BROWSER" 
-		"command" "OpenServerBrowser"
-		"subimage" "replay/thumbnails/ow_flare"
-		"OnlyAtMenu" "1"
-	} 
 	"SettingsButton"
 	{
 		"label" "OPTIONS" 
@@ -239,44 +190,61 @@
 		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyAtMenu" "1"
 	}
-	"GeneralStoreButton"
+	"HUDlabel"
 	{
-		"label" "STORE"
-		"command" "engine open_store"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu"	"1"
-	}	
-	"GeneralStoreButtonBlur"
-	{
-		"label" "STORE"
-		"command" "engine open_store"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu"	"1"
-	}	
-	"CharacterSetupButton"
-	{
-		"label" "    LOADOUT"
-		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu"	"1"
+		"label" "Overwatch HUD by nimtra - v2016.12.26" 
+		"command" "null"
+		"subimage" "replay/thumbnails/blank"
+		"OnlyAtMenu" "1"
 	}
-	"CharacterSetupButtonShadow"
+//	
+//	
+//	
+//	
+//	
+//	
+//	
+//	
+//	
+//
+// FIND A GAME STUFF	
+	"Casual"
 	{
-		"label" "    LOADOUT"
-		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu"	"1"
+		"label" "" 
+		"command" "play_casual"
+		"subimage" "replay/thumbnails/fgmenu/casual"
 	}
-	"CharacterSetupButtonShadow2"
+	"MVM"
 	{
-		"label" "    LOADOUT"
-		"command" "engine open_charinfo"
-		"subimage" "replay/thumbnails/bg_blank"
-		"OnlyAtMenu"	"1"
+		"label" "" 
+		"command" "play_mvm"
+		"subimage" "replay/thumbnails/fgmenu/mvm"
 	}
-	
-	
-	
+	"Competitive"
+	{
+		"label" "" 
+		"command" "play_competitive"
+		"subimage" "replay/thumbnails/fgmenu/comp"
+	}
+	"ServerBrowserF"
+	{
+		"label" "" 
+		"command" "OpenServerBrowser"
+		"subimage" "replay/thumbnails/fgmenu/server"
+	}
+	"create"
+	{
+		"label" "" 
+		"command" "OpenCreateMultiplayerGameDialog"
+		"subimage" "replay/thumbnails/fgmenu/create"
+	}
+	"BackButtonFG"
+	{
+		"label"			"BACK"
+		"command"		"toggle_play_menu"
+		"OnlyAtMenu"	"0"
+		"subimage" "replay/thumbnails/blank"
+	}
 	// USELESS
 	"ReplayBrowserButton"
 	{
@@ -296,13 +264,6 @@
 		"command" "engine vr_toggle"
 		"subimage" "glyph_vr"
 		"OnlyWhenVREnabled" "1"
-	}
-	"TrainingButton"
-	{
-		"label" "#TF_Training"
-		"command" "offlinepractice"
-		"subimage" "glyph_practice"
-		"OnlyAtMenu" "1"
 	}
 	"RequestCoachButton"
 	{

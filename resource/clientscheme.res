@@ -104,5 +104,10 @@ Scheme
 			"font"	"resource/fonts/mkhud.ttf"
 			"name"	"mkhud"
 		}
+		"15"
+		{
+			"font"	"resource/fonts/HudasIscariote.otf"
+			"name"	"Hudas Iscariote"
+		}
 	}
 }

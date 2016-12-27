@@ -3253,6 +3253,167 @@ Scheme
 			}
 		}
 		// End of Knuckle's Crosshairs
+		// Class symbols
+		"Hudas24"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas26"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas28"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas30"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas32"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas36"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas38"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas40"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas42"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas44"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas48"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas50"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas52"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas56"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas60"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"Hudas64"
+		{
+			"1"
+			{
+				"name"		"Hudas Iscariote"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
 		"Default"
 		{
 			"1"
@@ -4342,8 +4503,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
-				"tall"		"12"
+				"name"		"Nimbus Sans L Regular"
+				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -5000,7 +5161,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Heavy"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -5011,7 +5172,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Heavy"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5022,7 +5183,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Heavy"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5033,7 +5194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Heavy"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -5044,7 +5205,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -5055,7 +5216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -5065,7 +5226,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -5076,7 +5237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5087,7 +5248,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5099,7 +5260,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5123,7 +5284,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -5134,7 +5295,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -5145,7 +5306,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -5155,7 +5316,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"FuturaStd-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"

@@ -6,7 +6,7 @@ Scheme
 		
 		"owGREEN"				"192 254 57  255"
 		"owORANGE"				"254 197 50  255"
-		"owWHITE"				"209 219 221 255"
+		"owWHITE"				"254 245 255 255"
 		"owWHITEt"				"250 250 250 100"
 		"owBLACK"				"28  28  28  255"
 		"owOUTLINE"				"133 196 255 255" // 185 211 227
@@ -25,7 +25,7 @@ Scheme
 		
 		
 		// base colors
-		"Orange"			"0 0 0 160"
+		"Orange"			"254 197 50  255"
 		"OrangeDim"			"192 254 57  120"
 		"LightOrange"		"188 112 0 128"
 		"GoalOrange"		"255 133 0"

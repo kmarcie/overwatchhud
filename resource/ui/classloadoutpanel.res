@@ -145,7 +145,7 @@
 		"xpos"			"0"
 		"ypos"			"r85"
 		"zpos"			"-9"
-		"wide"			"f0"
+		"wide"			"0"
 		"tall"			"1"
 		"visible"		"1"
 		"enabled"		"1"

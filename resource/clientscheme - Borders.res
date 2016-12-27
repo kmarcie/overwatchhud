@@ -7,6 +7,21 @@ Scheme
 			"bordertype"			"scalable_image"
 			"image"					"replay/thumbnails/ow_button"
 		}
+		OWtab
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/tab"
+		}
+		OWtabunarmed
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/tabunarmed"
+		}
+		FindaGameBackground
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/fgmenu/bgblur"
+		}
 		RoundedTranslucentBlackButton
 		{
 			"bordertype"			"scalable_image"
@@ -55,7 +70,7 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 			
-			"image"					"replay/thumbnails/ow_flare"
+			"image"					"replay/thumbnails/menu/flare"
 		}
 		NoBorder
 		{

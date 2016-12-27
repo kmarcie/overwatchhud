@@ -91,7 +91,7 @@
 		"wrap"			"0"
 		"font"			"FuturaBold11"
 		"fgcolor_override"		"owFULLWHITE"
-		"bgcolor_override"	"0 0 0 125"
+		"bgcolor_override"	"0 0 0 75"
 
 
 		if_match
@@ -142,7 +142,7 @@
 		"wrap"			"0"
 		"font"			"FuturaBold11"
 		"fgcolor_override"		"owFULLWHITE"
-		"bgcolor_override"	"0 0 0 125"
+		"bgcolor_override"	"0 0 0 75"
 
 
 		if_match
@@ -193,7 +193,7 @@
 		"wrap"			"0"
 		"font"			"FuturaBold12"
 		"fgcolor_override"		"owFULLWHITE"
-		"bgcolor_override"	"0 0 0 125"
+		"bgcolor_override"	"0 0 0 75"
 
 
 		if_match
@@ -243,7 +243,7 @@
 		"brighttext"		"0"
 		"wrap"			"0"
 		"font"			"FUTURABOLD12"
-		"bgcolor_override"	"0 0 0 125"
+		"bgcolor_override"	"0 0 0 75"
 
 
 		if_match
@@ -294,7 +294,7 @@
 		"wrap"			"0"
 		"font"			"FuturaBold11"
 		"fgcolor_override"		"owFULLWHITE"
-		"bgcolor_override"	"0 0 0 125"
+		"bgcolor_override"	"0 0 0 75"
 
 
 		if_match

@@ -8,7 +8,6 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"255 255 255 255"
 		"NegativeColor"			"255 255 255 255"
-		"EventColor"			"owORANGE"
 		"delta_lifetime"		"1.25"
 		"delta_item_font"		"Oblique21"
 		"delta_item_font_big"	"Oblique21"

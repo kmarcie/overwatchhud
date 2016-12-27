@@ -74,7 +74,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"			"bg"
 		"xpos"				"0"
-		"ypos"				"-60"
+		"ypos"				"-45"
 		"zpos"				"-99"
 		"wide"				"f0"
 		"tall"				"480"
@@ -84,7 +84,7 @@
 		"enabled"			"1"
 		"tabPosition"		"1"
 		"scaleImage"		"1"
-		"image"				"replay/thumbnails/loadoutsubpanelBG"
+		"image"				"replay/thumbnails/fgmenu/bgblur"
 	}	
 	
 	"ScoutBack"
@@ -1545,14 +1545,14 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BottomLine"
 		"xpos"			"0"
-		"ypos"			"r85"
+		"ypos"			"r80"
 		"zpos"			"-9"
 		"wide"			"f0"
-		"tall"			"1"
+		"tall"			"2"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"owbluet"
-		"alpha"			"210"
+		"alpha"			"255"
 	}		
 	"LoadoutChangesLabel"
 	{

@@ -22,7 +22,7 @@
 		"title"			"#CharInfoAndSetup"
 		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"0"
-		"titletextinsetY"	"0"
+		"titletextinsetY"	"-11"
 		"titlebarfgcolor_override"				"0 0 0 0"
 		"titlebardisabledfgcolor_override"		"0 0 0 0"
 		"titlebarbgcolor_override"				"0 0 0 0"
@@ -96,10 +96,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Sheet"
-		"tabxindent"	"0"
+		"tabxindent"	"22"
 		"tabxdelta"		"0"
-		"tabwidth"		"f0"
-		"tabheight"		"20"
+		"tabwidth"		"15"
+		"tabheight"		"28"
 		"transition_time" "0"
 		
 		"HeaderLine"
@@ -119,15 +119,14 @@
 		
 		"tabskv"
 		{
-			"textinsetx"		"0"
-			"font"				"blank"
-			"selectedcolor"		"0 0 0 0"
-			"unselectedcolor"	"0 0 0 0"	
+			"textinsetx"		"25"
+			"font"				"FuturaBold12"
+			"selectedcolor"		"owfullwhite"
+			"unselectedcolor"	"45 196 243 255"	
 			"defaultBgColor_override"	"0 0 0 0"
 			"paintbackground"	"0"
-			"activeborder_override"	"noborder"
-			"normalborder_override" "noborder"
-			"mouseinputenabled"	"0"
+			"activeborder_override"	"owtab"
+			"normalborder_override" "owtabunarmed"
 		}
 	}
 	"BackButton"

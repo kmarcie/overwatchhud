@@ -259,9 +259,9 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"FuturaBold18"
-			"fgcolor_override"		"owORANGE"
-			"bgcolor_override"	"0 0 0 125"
+			"font"			"FuturaBold16"
+			"fgcolor_override"		"169 186 204 255"
+			"bgcolor_override"	"0 0 0 75"
 			"paintbackgroundtype"	"0"
 			"xpos"			"102"
 			"ypos"			"14"

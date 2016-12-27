@@ -23,24 +23,6 @@
 
 		"matchgroup"	"MatchGroup_Ladder_6v6"
 	}
-	"CompLabel"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"CompLabel"
-		"xpos"				"70"
-		"ypos"				"30"
-		"zpos"				"-5"
-		"wide"				"210"
-		"tall"				"45"
-		"autoResize"		"0"
-		"pinCorner"			"1"
-		"visible"			"1"
-		"enabled"			"1"
-		"tabPosition"		"1"
-		"scaleImage"		"1"
-		"image"				"replay/thumbnails/compLabel"
-	}
-
 	"ShowExplanationsButton"
 	{
 		"ControlName"	"CExButton"
