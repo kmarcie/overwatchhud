@@ -15,15 +15,15 @@ https://www.twitch.tv/teamfortresstv/v/77502650?t=30m26s
 ![alt tag](http://puu.sh/pXEu9/8abb73eff0.png)	
 
 blurfact doesn't work correctly first launch (maybe a TF2 issue?)
-	
-class loadout panel weapons and hats get cut off in 4:3 (fixed with overrides).
+Find a game menu background doesn't extend to fullscreen, gets cut off the last 30 pixels or so
+Main menu message of the day doesn't work
 
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
 16:9 - made on 1920x1080. works for other resolutions
 
 16:10 - works. maybe slight offsets. shouldn't be bad
 
-4:3 - works. you need to use one override but everything else is fine (?)
+4:3 - Doesn't work. Find a game menu gets cut off and certain elements go off screen/get offset.
 
 ![alt tag](http://puu.sh/pXEp7/fec3bfbea3.png)	
 
@@ -35,29 +35,15 @@ CHOICES
 
 some of the things i wanted to do in this hud were not possible.
 	
-i tried to make this hud as close as possible to the original overwatch hud.
-
-i did not add animated backgrounds because it would add to the (already) big filesize. i do not want my hud to be half a gigabyte.
-
-one of the things i wanted to do was put in a health bar; but i figured i'd much rather have the buff/hurt overlay.
-	
-if i had the buff/hurt overlay on, the health bar wouldn't work. i have no idea how to implement a health bar and even after trying to copy what mannterface did, i had no success. so i just went with the overlay instead of a health bar.
-	
-i was originally planning to make the backgrounds just overwatch maps, but i decided to stick with TF2 but have the same kinda vibe as the overwatch backgrounds. i had hanamura before, so i kept the vibe of hanamura by going with koth_suijin.
-	
-i used cp_reckoner for the background of the loadout subpanel.
+i tried to make this hud as close as possible to the original overwatch hud. i did not add animated backgrounds because it would add to the (already) big filesize. i do not want my hud to be half a gigabyte.
 	
 ![alt tag](http://puu.sh/pXEnu/977413608e.png)
  - jarateking - letting me use his centered targetids
  - blizzard (obviously lol) - creating overwatch and making a really nicely designed interface
  - rawrsor & nokk - helped out with answering some of the questions i had while making this hud
- - humahuma & sentrionic - helped out with references and providing screenshots of certain elements
+ - humahuma & sentrionic - helped out with reference and providing screenshots of certain elements
  - yoshi - helped out with buff/hurt animations
  - omnibombulator - huds.tf & fixed the flare going above the text on the main menu	
-	
-ETC
-
-thanks for using this hud. i put a lot of work into it. :) enjoy! 
  
 CHANGELOG
 
@@ -102,3 +88,17 @@ July 19
 Sept 17
 - Made "eventcolor" (med drop, pyro extinguish display etc) orange instead of the original purple
 - Edited payload and control point icons to be able to be used in valve servers, so you don't have to suffer the ugly stretched payload icons anymore :)
+
+Dec 26th
+- Removed 4:3/5:4 support. Ridicule me all you want, but I see no reason why I should have to edit a file over 3 times every single time I make a change to the original file. 16:10 support is staying, but 4:3 is never going to happen. Use the older version of the HUD if you really want to use it in 4:3 resolution.
+- Changed dx8 overrides to just override the blurfact VTF so I don't have to update multiple files every time I edit the HUD
+- Adjusted a bunch of menus and changed the background
+- Added a training and create server button. I don't know why so many people want this, but here you guys go.
+- Added new animations/buttons from Scream Fortress '16 (I'm quite behind, I know)
+- Added the Find a Game menu
+- Added "create server" and "training" buttons
+- Added class numbers for the disguise menu
+- Changed loadout tabs to reflect the ones in Overwatch currently
+- Added a bronze level border around the player, made it actually overlap the bottom half of the player model
+- Adjusted scoreboard a little bit, changed the opacity of VS
+- Adjusted colour of the timer
