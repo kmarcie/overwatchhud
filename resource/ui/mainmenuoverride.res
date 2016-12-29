@@ -5088,6 +5088,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"replay/thumbnails/fgmenu/bgblur"
+		"scaleImage"	"1"
 	}	
 	"PlayLabelFG"
 	{
