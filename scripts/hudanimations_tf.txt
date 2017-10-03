@@ -1815,44 +1815,54 @@ FireCommand 0 "delete"
 
 event SurveyHideSequence
 {
-SetVisible CloseButton 0 0 
+	SetVisible CloseButton 0 0 
 
-Animate Survey ypos 130 Deaccel 0 0.3
-Animate Survey ypos 480 Accel 0.3 0.2
-RunEventChild Survey SurveyDelete 0.6
+	Animate Survey ypos 130 Deaccel 0 0.3
+	Animate Survey ypos 480 Accel 0.3 0.2
+	RunEventChild Survey SurveyDelete 0.6
 }
 
 event XPSourceShow_Positive
 {
-Animate SourceLabel Alpha 0 Linear 0 0
-Animate SourceLabelGlow Alpha 0 Linear 0 0
+	Animate SourceLabel Alpha 0 Linear 0 0
+	Animate SourceLabelGlow Alpha 0 Linear 0 0
 
-Animate SourceLabel Alpha 255 Linear 0.1 0.3
-Animate SourceLabel FgColor "100 255 100 255" Linear 0.1 0
-Animate SourceLabel FgColor CreditsGreen Linear 0.5 1
-Animate SourceLabel ypos -25 Deaccel 0 3.0
-Animate SourceLabel Alpha 0 Linear 2.9 0.3
+	Animate SourceLabel Alpha 255 Linear 0.1 0.3
+	Animate SourceLabel FgColor "100 255 100 255" Linear 0.1 0
+	Animate SourceLabel FgColor CreditsGreen Linear 0.5 1
+	Animate SourceLabel ypos -25 Deaccel 0 3.0
+	Animate SourceLabel Alpha 0 Linear 2.9 0.3
 
-Animate SourceLabelGlow Alpha 255 Linear 0.0 0.1
-Animate SourceLabelGlow FgColor "100 255 100 255" Linear 0.1 0
-Animate SourceLabelGlow FgColor CreditsGreen Linear 0.5 1
-Animate SourceLabelGlow Alpha 200 Linear 0.5 1
-Animate SourceLabelGlow ypos -25 Deaccel 0 3.0
-Animate SourceLabelGlow Alpha 0 Linear 2.9 0.3
+	Animate SourceLabelGlow Alpha 255 Linear 0.0 0.1
+	Animate SourceLabelGlow FgColor "100 255 100 255" Linear 0.1 0
+	Animate SourceLabelGlow FgColor CreditsGreen Linear 0.5 1
+	Animate SourceLabelGlow Alpha 200 Linear 0.5 1
+	Animate SourceLabelGlow ypos -25 Deaccel 0 3.0
+	Animate SourceLabelGlow Alpha 0 Linear 2.9 0.3
 }
 
 event XPSourceShow_Negative
 {
-Animate SourceLabel Alpha 0 Linear 0 0
-Animate SourceLabelGlow Alpha 0 Linear 0 0
+	Animate SourceLabel Alpha 0 Linear 0 0
+	Animate SourceLabelGlow Alpha 0 Linear 0 0
 
-Animate SourceLabel Alpha 255 Linear 0.1 0.3
-Animate SourceLabel FgColor "255 100 100 255" Linear 0.1 0
-Animate SourceLabel FgColor RedSolid Linear 0.5 1
-Animate SourceLabel Alpha 0 Linear 2.9 0.1
-Animate SourceLabel ypos -15 Linear 0 0.4
+	Animate SourceLabel Alpha 255 Linear 0.1 0.3
+	Animate SourceLabel FgColor "255 100 100 255" Linear 0.1 0
+	Animate SourceLabel FgColor RedSolid Linear 0.5 1
+	Animate SourceLabel Alpha 0 Linear 2.9 0.1
+	Animate SourceLabel ypos -15 Linear 0 0.4
 
-Animate SourceLabelGlow Alpha 0 Linear 0 0
+	Animate SourceLabelGlow Alpha 0 Linear 0 0
+}
+// Health Animations fix (thank u so much mastercoms)
+event HudSnapShotReminderIn
+{
+    Animate ScreenshotPanel Position "c-83 -50" Linear 0.0 0.001
+    Animate ScreenshotPanel Position "c-83 13" Spline 0.001 0.2
+    RunEvent HudHealthDyingPulseStop 10.0
+    RunEvent HudHealthBonusPulseStop 10.0
+    RunEvent HudLowAmmoPulseStop 10.0
+    RunEvent HudMedicChargedStop 10.0
 }
 
 //
