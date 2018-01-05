@@ -6,7 +6,7 @@
 		"fieldName"		"item_pickup"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"100000"
+		"zpos"			"10000"
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"		"0"

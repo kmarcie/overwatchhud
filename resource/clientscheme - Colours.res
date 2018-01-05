@@ -29,7 +29,7 @@ Scheme
 		"OrangeDim"			"192 254 57  120"
 		"LightOrange"		"188 112 0 128"
 		"GoalOrange"		"255 133 0"
-		"TFOrange"			"0 0 0 160"
+		"TFOrange"			"254 197 50  255"
 
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -90,7 +90,7 @@ Scheme
 		// training
 		"HudTrainingHint"			"212 160 23 255"
 		
-		"TanDark"				"0 0 0 140"
+		"TanDark"				"80 80 80 255"
 		"TanLight"				"250 250 250 255"
 		"TanDarker"				"40 40 40 255"
 		

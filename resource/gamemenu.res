@@ -43,13 +43,6 @@
 		"OnlyInGame"	"1"
 		"subimage" "icon_resume"
 	}
-	"FindAGameButtonINGAME"
-	{
-		"label" "FIND A NEW GAME" 
-		"command" "toggle_play_menu"
-		"subimage" "replay/thumbnails/menu/"
-		"OnlyInGame"	"1"
-	}
 	"INVENTORYBUTTON"
 	{
 		"label" "INVENTORY"
@@ -120,13 +113,6 @@
 		"OnlyAtMenu"	"1"
 		"subimage" "../console/characters/soldier"
 	}
-	"FindAGameButton"
-	{
-		"label" "" 
-		"command" "toggle_play_menu"
-		"subimage" "replay/thumbnails/menu/play"
-		"OnlyAtMenu"	"1"
-	}
 	"TrainingButton" // i don't know why people need this so much, but I'm putting it in I guess. are people that dumb that they can install a hud but can't even use a console?
 	{
 		"label" ""
@@ -192,7 +178,7 @@
 	}
 	"HUDlabel"
 	{
-		"label" "Overwatch HUD by nimtra - v2016.12.26" 
+		"label" "Overwatch HUD by nimtra - v2018.01.05" 
 		"command" "null"
 		"subimage" "replay/thumbnails/blank"
 		"OnlyAtMenu" "1"
