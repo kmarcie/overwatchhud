@@ -102,3 +102,10 @@ Dec 26th
 - Added a bronze level border around the player, made it actually overlap the bottom half of the player model
 - Adjusted scoreboard a little bit, changed the opacity of VS
 - Adjusted colour of the timer
+
+Jan 5 2018
+- updated hud for jungle infero
+- had to get rid of "play" button, stuck the find a game up in the corner like default because I had no other choice. Made the top bar slimmer at least at the cost of cutting up the party slots
+- Added back the contracts button
+- Added new animations for the survey and xp bar (long overdue sorry)
+- The main menu's find a game menu is a placeholder for now until Valve makes it easier to edit or until I find a workaround. It's ugly but it works
