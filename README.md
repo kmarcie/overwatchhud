@@ -111,3 +111,11 @@ Jan 5 2018
 - Added back the contracts button
 - Added new animations for the survey and xp bar (long overdue sorry)
 - The main menu's find a game menu is a placeholder for now until Valve makes it easier to edit or until I find a workaround. It's ugly but it works
+
+Sep 18 2022
+- updated killfeed local bg color to be brighter
+- fixed sizing of top bar matchmaking panels
+- tweaked font colours of matchmaking panel
+- 'in queue' and 'join game' buttons are no longer cut off
+- hud ACTUALLY works
+- sorry this was a long time coming I just never realized how easy it was
