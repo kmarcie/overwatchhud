@@ -452,10 +452,10 @@
 		"TeamBlue"		"owTEAMBLU"
 		"TeamRed"		"owTEAMRED"
 		"IconColor"		"255 255 255 255"
-		"LocalPlayerColor"	"0 0 0 150"
+		"LocalPlayerColor"	"0 0 0 255"
 
 		"BaseBackgroundColor"	"0 0 0 125"	
-		"LocalBackgroundColor"	"200 200 200 125"	
+		"LocalBackgroundColor"	"230 230 230 175"	
 	}
 
 	HudVehicle
