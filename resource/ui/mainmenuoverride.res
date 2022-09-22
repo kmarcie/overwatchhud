@@ -522,15 +522,15 @@
 			}
 		}
 	}
-	"BlurfactBG" // ONLY INGAME
+	"BlurfactBG" // ONLY INGAME, BROKEN
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"BlurfactBG"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-100"
-		"wide"			"f0"
-		"tall"			"f0"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"PaintBackgroundType"	"0"
 		
@@ -541,8 +541,8 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"-100"
-			"wide"			"f0"
-			"tall"			"f0"
+			"wide"			"0"
+			"tall"			"0"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
@@ -1708,7 +1708,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"PaintBackgroundType" "2"
-				"fgcolor_override"	"235 226 202 255"
+				"fgcolor_override"	"owwhite"
 				"bgcolor_override"	"141 178 61 255"
 			}
 		}
@@ -1744,13 +1744,13 @@
 			
 			"paintbackground"	"0"
 			
-			//"defaultFgColor_override" "235 226 202 255"
+			//"defaultFgColor_override" "owwhite"
 			//"armedFgColor_override" "46 43 42 255"
 			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "owwhite"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"owwhite"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{
@@ -1798,7 +1798,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"LabelDark"
+			"fgcolor"		"oworange"
 			"wrap"			"1"
 		}
 		
@@ -1817,7 +1817,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor"		"LabelDark"
+			"fgcolor"		"owwhite"
 		}
 		
 		"MOTD_TitleImageBg"
@@ -1873,7 +1873,7 @@
 			"wide"			"280"
 			"tall"			"115"
 			"PaintBackgroundType"	"2"
-			"fgcolor"		"LabelDark"
+			"fgcolor"		"owwhite"
 			
 			"MOTD_TextPanel"
 			{
@@ -1901,7 +1901,7 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"fgcolor"		"LabelDark"
+					"fgcolor"		"owwhite"
 					"wrap"			"1"
 				}
 			}
@@ -1940,10 +1940,10 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultFgColor_override" "235 226 202 255"
+			"defaultFgColor_override" "owwhite"
 			"defaultBgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "owwhite"
+			"depressedFgColor_override" "owwhite"
 		}	
 		
 		"MOTD_PrevButton"
@@ -1976,7 +1976,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"owwhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2024,7 +2024,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"owwhite"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2185,7 +2185,7 @@
 			"wide"			"210"
 			"tall"			"135"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"	"117 107 94 255"
+			"fgcolor_override"	"owWHITE"
 			
 			"Notifications_Control"
 			{
@@ -3374,7 +3374,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"defaultFgColor_override" "owOUTLINEt"
-			"armedFgColor_override" "owOUTLINEt"
+			"armedFgColor_override" "owOUTLINE"
 			"depressedFgColor_override" "owOUTLINEt"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -3510,7 +3510,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"defaultFgColor_override" "owOUTLINEt"
-			"armedFgColor_override" "owOUTLINEt"
+			"armedFgColor_override" "owOUTLINE"
 			"depressedFgColor_override" "owOUTLINEt"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -3716,7 +3716,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"defaultFgColor_override" "owOUTLINEt"
-			"armedFgColor_override" "owOUTLINEt"
+			"armedFgColor_override" "owOUTLINE"
 			"depressedFgColor_override" "owOUTLINEt"
 			
 			"image_drawcolor"	"0 0 0 0"
@@ -4407,7 +4407,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "owwhite"
 		}
 		
 		"TextLabel"
@@ -4426,7 +4426,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "owwhite"
 		}
 		
 		"CloseButton"
@@ -4519,7 +4519,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "owwhite"
 		}
 		
 		"TextLabel"
@@ -4538,7 +4538,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "owwhite"
 		}
 		
 		"CloseButton"
@@ -4631,7 +4631,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "owwhite"
 		}
 		
 		"TextLabel"
@@ -4650,7 +4650,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"1"
-			"fgcolor_override" "46 43 42 255"
+			"fgcolor_override" "owwhite"
 		}
 		
 		"CloseButton"

@@ -8,13 +8,13 @@
 		"OnlyInGame"	"1"
 		"subimage" "replay/thumbnails/shards"
 	}
-	"BlurfactBG"
-	{
-		"label"			""
-		"command"		"null"
-		"OnlyInGame"	"1"
-		"subimage" "replay/thumbnails/blurfact"
-	}
+//	"BlurfactBG" - broken
+//	{
+//		"label"			""
+//		"command"		"null"
+//		"OnlyInGame"	"1"
+//		"subimage" "replay/thumbnails/blurfact"
+//	}
 	"INGAMETFLOGO"
 	{
 		"label"			""
@@ -113,7 +113,7 @@
 		"OnlyAtMenu"	"1"
 		"subimage" "../console/characters/soldier"
 	}
-	"TrainingButton" // i don't know why people need this so much, but I'm putting it in I guess. are people that dumb that they can install a hud but can't even use a console?
+	"TrainingButton"
 	{
 		"label" ""
 		"command" "offlinepractice"
@@ -178,7 +178,7 @@
 	}
 	"HUDlabel"
 	{
-		"label" "Overwatch HUD by nimtra - v2022.09.18" 
+		"label" "Overwatch HUD by nimtra - v2022.09.21" 
 		"command" "null"
 		"subimage" "replay/thumbnails/blank"
 		"OnlyAtMenu" "1"

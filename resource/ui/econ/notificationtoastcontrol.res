@@ -15,7 +15,7 @@
 		"paintborder"			"1"
 		"paintbackground"		"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"		"0 0 0 125"
+		"bgcolor_override"		"owwhite"
 	}
 
 	"DeleteButton"
@@ -43,7 +43,7 @@
 		"Command"		"delete"
 		
 		"border_default"	"BlueButton"
-		"border_armed"		"BlueButton"
+		"border_armed"		"BlueButtonSel"
 		"paintbackground"	"0"
 		
 		"defaultBgColor_override"	"100 90 85 255"		
@@ -94,7 +94,7 @@
 		"Command"		"trigger"
 
 		"border_default"	"BlueButton"
-		"border_armed"		"BlueButton"
+		"border_armed"		"BlueButtonSel"
 		"paintbackground"	"0"
 		
 		"defaultBgColor_override"	"0 90 85 255"
@@ -145,7 +145,7 @@
 		"Command"		"accept"
 
 		"border_default"	"BlueButton"
-		"border_armed"		"BlueButton"
+		"border_armed"		"BlueButtonSel"
 		"paintbackground"	"0"
 		
 		"defaultBgColor_override"	"100 90 85 255"
@@ -196,7 +196,7 @@
 		"Command"		"decline"
 
 		"border_default"	"BlueButton"
-		"border_armed"		"BlueButton"
+		"border_armed"		"BlueButtonSel"
 		"paintbackground"	"0"
 		
 		"defaultBgColor_override"	"100 90 85 255"		

@@ -46,7 +46,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"AvatarTextLabel"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"owwhite"
 		"xpos"			"45"
 		"ypos"			"7"
 		"zpos"			"2"
@@ -66,7 +66,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"owwhite"
 		"xpos"			"7"
 		"ypos"			"7"
 		"zpos"			"2"

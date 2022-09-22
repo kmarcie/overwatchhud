@@ -259,7 +259,7 @@
 		"tall"			"1"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 150"
+		"fillcolor"		"0 0 0 0"
 	}
 	"ItemsBG"
 	{

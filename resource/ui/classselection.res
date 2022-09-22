@@ -94,19 +94,19 @@
 		"enabled"		"1"
 		"fgcolor_override"	"owFULLWHITE"
 	}
-	"Blurfact"
+	"Blurfact" // broken
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Blurfact"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-999"
-		"wide"			"f0"
-		"tall"			"f0"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"
 		"image"			"replay/thumbnails/blurfact"
 	}
@@ -660,7 +660,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 100"
-	//	"image"			"replay/thumbnails/blurfact"
 	}	
 	"Bar"
 	{

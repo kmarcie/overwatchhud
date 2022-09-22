@@ -240,15 +240,15 @@
 			"bgcolor_override"	"0 0 0 100"
 		}
 	}
-	"Blurfact"
+	"Blurfact" // broken
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"Blurfact"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-999"
-		"wide"			"f0"
-		"tall"			"f0"
+		"wide"			"0"
+		"tall"			"0"
 		"autoResize"	"1"
 		"pinCorner"		"2"
 		"visible"		"1"
