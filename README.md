@@ -49,10 +49,10 @@ i tried to make this hud as close as possible to the original overwatch hud. i d
  
 CHANGELOG
 
-July 10
+July 10 2016
 - Release
 
-July 11
+July 11 2016
 - Fixed symbol fonts appearing as letters and numbers
 - Fixed the promo codes button showing up
 - Fixed the KotH timer in Matchmaking to not show the frames of timers
@@ -66,7 +66,7 @@ July 11
 - Fixed the matchmaking tournament HUD being jumbled up in readymode
 - Fixed elements saying "if_matchetitive" instead of just "if_match" (caused by a shitty cut/replace job)
 
-July 12
+July 12 2016
 - Added overrides for 4:3, 5:4, fixes the tournament HUD and spectator tournament HUD getting cut off
 - Added overrides for DirectX 8 users. Fixes the white ingame main menu backgrounds and class selection backgrounds.
 - Fixed the charge meter and charge label's animations being swapped
@@ -74,24 +74,24 @@ July 12
 - New TargetID. Centered TargetID had too many problems. Until I figure it out, I will be using this one for now.
 - Added overheal colours in spectator tournament
 
-July 14
+July 14 2016
 - Fixed the map selection menu being broken in the casual menu 
 - Added overheal/hurt animations for the numbers 
 - Fixed the offset shadow being screwed up 
 - Removed sticky background when using a shield 
 - Added the advanced options button to the menu
 
-July 19
+July 19 2016
 - Fixed the crafting button
 - Added low ammo animations
 - Fixed the demoman sticky background showing up with a shield
 - Made the colour of "EventColor" (dropping a med etc) to be orange instead of pink
 
-Sept 17
+Sept 17 2016
 - Made "eventcolor" (med drop, pyro extinguish display etc) orange instead of the original purple
 - Edited payload and control point icons to be able to be used in valve servers, so you don't have to suffer the ugly stretched payload icons anymore :)
 
-Dec 26th
+Dec 26th 2016
 - Removed 4:3/5:4 support. Ridicule me all you want, but I see no reason why I should have to edit a file over 3 times every single time I make a change to the original file. 16:10 support is staying, but 4:3 is never going to happen. Use the older version of the HUD if you really want to use it in 4:3 resolution.
 - Changed dx8 overrides to just override the blurfact VTF so I don't have to update multiple files every time I edit the HUD
 - Adjusted a bunch of menus and changed the background
@@ -106,7 +106,7 @@ Dec 26th
 - Adjusted colour of the timer
 
 Jan 5 2018
-- updated hud for jungle infero
+- updated hud for jungle inferno
 - had to get rid of "play" button, stuck the find a game up in the corner like default because I had no other choice. Made the top bar slimmer at least at the cost of cutting up the party slots
 - Added back the contracts button
 - Added new animations for the survey and xp bar (long overdue sorry)
@@ -119,3 +119,9 @@ Sep 18 2022
 - 'in queue' and 'join game' buttons are no longer cut off
 - hud ACTUALLY works
 - sorry this was a long time coming I just never realized how easy it was
+
+Sep 21 2022
+- Fixed blur background not working, disabled blur feature altogether as it was causing black screens on MoTD, class select, end of round screens
+- Added armed animations for lower main menu buttons (not sure why this wasn't already done oops)
+- Fixed colour of text boxes, still slowly working on correcting them as they come up
+- Minor changes to improve quality of life and fix alignment issues
