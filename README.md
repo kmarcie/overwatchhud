@@ -6,7 +6,7 @@ Screenshots: http://imgur.com/a/U1gfV
 
 Any questions? Ask in the TFTV thread
 
-If you encounter any bugs while using this hud, please report them in the teamfortresstv thread. commenting on my profile (http://steamcommunity.com/id/nimtra) works too, but the first option is much preferred. please provide a screenshot of it, if possible.
+If you encounter any bugs while using this hud, please report them in the teamfortresstv thread. commenting on my profile (http://steamcommunity.com/id/cieram) works too, but the first option is much preferred. please provide a screenshot of it, if possible.
 
 Don't redistribute this HUD anywhere. HUDS.TF and GitHub is the only place you can get this from. (@Gamebanana)
 
@@ -111,3 +111,11 @@ Jan 5 2018
 - Added back the contracts button
 - Added new animations for the survey and xp bar (long overdue sorry)
 - The main menu's find a game menu is a placeholder for now until Valve makes it easier to edit or until I find a workaround. It's ugly but it works
+
+Sep 18 2022
+- updated killfeed local bg color to be brighter
+- fixed sizing of top bar matchmaking panels
+- tweaked font colours of matchmaking panel
+- 'in queue' and 'join game' buttons are no longer cut off
+- hud ACTUALLY works
+- sorry this was a long time coming I just never realized how easy it was
