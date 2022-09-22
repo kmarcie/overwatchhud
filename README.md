@@ -16,11 +16,11 @@ https://www.twitch.tv/teamfortresstv/v/77502650?t=30m26s
 	
 ![alt tag](http://puu.sh/pXEu9/8abb73eff0.png)	
 
-blurfact doesn't work correctly first launch (maybe a TF2 issue?)
 Find a game menu background doesn't extend to fullscreen, gets cut off the last 30 pixels or so
 Main menu message of the day doesn't work
 
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
+
 16:9 - made on 1920x1080. works for other resolutions
 
 16:10 - works. maybe slight offsets. shouldn't be bad
