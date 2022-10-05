@@ -125,3 +125,10 @@ Sep 21 2022
 - Added armed animations for lower main menu buttons (not sure why this wasn't already done oops)
 - Fixed colour of text boxes, still slowly working on correcting them as they come up
 - Minor changes to improve quality of life and fix alignment issues
+
+Oct 04 2022
+- realigned longer item effect panels (razorback namely) to align from the east so they dont clip with the effect meter
+- fixed payload icons not working in sv_pure and just not working in general
+- fixed control point icons not working in valve servers / sv_pure servers
+- added proper image for hud round counter
+- advanced options menu is readable
