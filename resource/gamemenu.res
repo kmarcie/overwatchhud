@@ -178,7 +178,7 @@
 	}
 	"HUDlabel"
 	{
-		"label" "Overwatch HUD by nimtra - v2022.09.21" 
+		"label" "Overwatch HUD by nimtra - v2022.10.04" 
 		"command" "null"
 		"subimage" "replay/thumbnails/blank"
 		"OnlyAtMenu" "1"
