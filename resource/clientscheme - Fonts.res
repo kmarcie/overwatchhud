@@ -12,6 +12,27 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"Oblique8"
+		{
+			"1"
+			{
+				"name"		"BigNoodleTooOblique"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"ObliqueBlur8"
+		{
+			"1"
+			{
+				"name"		"BigNoodleTooOblique"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
 		"Oblique9"
 		{
 			"1"

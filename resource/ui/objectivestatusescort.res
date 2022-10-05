@@ -33,7 +33,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		""
-		"image"			"../hud/cart_track"
+		"image"			"replay/thumbnails/payload/cart_track"
 		"scaleImage"	"1"
 		
 		"if_multiple_trains"
@@ -42,14 +42,14 @@
 			"ypos"			"117"
 			"zpos"			"3"
 			"tall"			"6"
-			"image"			"../hud/cart_track"
+			"image"			"replay/thumbnails/payload/cart_track"
 		}
 		
 		"if_single_with_hills"
 		{
 			"ypos"			"121"
 			"tall"			"6"
-			"image"			"../hud/cart_track"
+			"image"			"replay/thumbnails/payload/cart_track"
 		}		
 	}	
 	
@@ -90,22 +90,22 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"image"			"../hud/cart_home_blue"
+		"image"			"replay/thumbnails/payload/cart_home_blue"
 		"scaleImage"	"1"	
 		
 		"if_team_red"
 		{
-			"image"			"../hud/cart_home_red"
+			"image"			"replay/thumbnails/payload/cart_home_red"
 		}
 		
 		"if_single_with_hills_blue"
 		{
-			"image"			"../hud/cart_home_blue_opaque"
+			"image"			"replay/thumbnails/payload/cart_home_blue"
 		}		
 		
 		"if_single_with_hills_red"
 		{
-			"image"			"../hud/cart_home_red_opaque"
+			"image"			"replay/thumbnails/payload/cart_home_red"
 		}		
 		
 		"if_multiple_trains"
@@ -114,7 +114,7 @@
 			"zpos"			"5"
 			"wide"			"14"
 			"tall"			"14"
-			"image"			"../hud/cart_track_neutral_opaque"
+			"image"			"replay/thumbnails/payload/cart_track_neutral_opaque"
 		}
 		
 		"if_multiple_trains_top"
@@ -129,12 +129,12 @@
 		
 		"if_multiple_trains_red"
 		{
-			"image"			"../hud/cart_home_red_square"
+			"image"			"replay/thumbnails/payload/cart_home_red"
 		}
 		
 		"if_multiple_trains_blue"
 		{
-			"image"			"../hud/cart_home_blue_square"
+			"image"			"replay/thumbnails/payload/cart_home_blue"
 		}
 	}
 	
@@ -153,7 +153,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		""
-		"image"			"../hud/cart_point_neutral"
+		"image"			"replay/thumbnails/payload/cart_point_neutral"
 		"scaleImage"	"1"	
 												
 		"if_multiple_trains"
@@ -263,25 +263,25 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_neutral"
+			"image"			"replay/thumbnails/payload/cart_neutral"
 			"scaleImage"	"1"
 			
 			"if_team_blue"
 			{
-				"image"			"../hud/cart_blue"
+				"image"			"replay/thumbnails/payload/cart_blue"
 			}		
 			
 			"if_team_red"
 			{
-				"image"			"../hud/cart_red"
+				"image"			"replay/thumbnails/payload/cart_red"
 			}
 			
 			"if_multiple_trains"
 			{
-				"xpos"			"11"
-				"ypos"			"43"
-				"wide"			"30"
-				"tall"			"30"
+				"xpos"			"16"
+				"ypos"			"52"
+				"wide"			"20"
+				"tall"			"20"
 			}						
 		}
 		
@@ -300,17 +300,17 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_neutral_bottom"
+			"image"			"replay/thumbnails/payload/cart_neutral_bottom"
 			"scaleImage"	"1"	
 			
 			"if_team_blue"
 			{
-				"image"			"../hud/cart_blue_bottom"
+				"image"			"replay/thumbnails/payload/cart_blue_bottom"
 			}			
 			
 			"if_team_red"
 			{
-				"image"			"../hud/cart_red_bottom"
+				"image"			"replay/thumbnails/payload/cart_red_bottom"
 			}
 			
 			"if_multiple_trains"
@@ -451,7 +451,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		""
-			"image"			"../hud/cart_blocked"
+			"image"			"replay/thumbnails/payload/cart_blocked"
 			"scaleImage"	"1"	
 			
 			"if_multiple_trains"
@@ -579,7 +579,7 @@
 				"enabled"		"0"
 				"tabPosition"	"0"
 				"labelText"		""
-				"image"			"../hud/cart_arrow_right"
+				"image"			"replay/thumbnails/payload/cart_arrow_right"
 				"scaleImage"	"1"	
 				
 				"if_multiple_trains"

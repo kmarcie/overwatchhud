@@ -155,7 +155,7 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"ObliqueBlur24"
 		"font_minmode"	"ObliqueBlur32"
-		"fgcolor"		"255 255 255 125"
+		"fgcolor"		"owteal"
 		"xpos"			"135"
 		"xpos_minmode"	"c105"
 		"ypos"			"r74"

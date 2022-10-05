@@ -90,8 +90,8 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
 		"font"			"Oblique12"
-		"xpos"			"cs-0.48"
-		"ypos"			"cs-0.08"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.1"
 		"wide"			"40"
 		"tall"			"40"
 		"zpos"			"4"
@@ -216,10 +216,10 @@
 		"zpos"				"0"
 		"wide"				"365"
 		"tall"				"28"
-		"fillcolor"			"0 0 0 0"
+		"fillcolor"			"0 0 0 50"
 
 		"proportionaltoaparent"	"1"
-//		"border"			"EconItemBorder"
+//		"border"			"noborder"
 	}
 
 

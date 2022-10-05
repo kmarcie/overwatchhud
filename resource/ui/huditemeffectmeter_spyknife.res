@@ -50,7 +50,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"oblique9"
+		"font"					"oblique8"
 		"fgcolor_override"		"owORANGE"
 	}
 
