@@ -5,11 +5,11 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"230"
-		"ypos"			"r30"
+		"xpos"			"95"
+		"ypos"			"r75"
 		"wide"			"50"
 		"tall"			"20"
-		"MeterFG"		"owORANGE"
+		"MeterFG"		"owwhite"
 		"MeterBG"		"0 0 0 100"
 	}
 	
@@ -26,7 +26,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 100"
+		"fillcolor"		"0 0 0 0"
 	}
 	
 	"ItemEffectIcon"
@@ -36,8 +36,8 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"1"
-		"wide"			"20"
-		"tall"			"20"
+		"wide"			"12"
+		"tall"			"12"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/ico_powerup_critboost_red"
@@ -89,8 +89,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"17"
-		"ypos"					"-2"
+		"xpos"					"14"
+		"ypos"					"-3"
 		"zpos"					"2"
 		"wide"					"30"
 		"tall"					"20"	
@@ -102,7 +102,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"oblique20"
-		"fgcolor_override"		"owORANGE"
+		"font"					"DinBold14"
+		"fgcolor_override"		"owwhite"
 	}
 }

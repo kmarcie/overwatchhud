@@ -117,7 +117,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ScoutLabel"
-		"xpos"				"c-205"
+		"xpos"				"c-203"
 		"ypos"				"170"
 		"zpos"				"2"
 		"wide"				"40"
@@ -126,16 +126,16 @@
 		"enabled"			"1"
 		"command"			"loadout scout"
 		"labeltext"			"SCOUT"
-		"font"				"Oblique20"
-
+		"font"				"DinBold14"
+		"textAlignment"		"center"
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -246,7 +246,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"Soldierlabel"
-		"xpos"				"c-133"
+		"xpos"				"c-138"
 		"ypos"				"170"
 		"zpos"				"2"
 		"wide"				"60"
@@ -254,17 +254,18 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"command"			"loadout soldier"
+		"textAlignment"		"center"
 		"labeltext"			"SOLDIER"
-		"font"				"Oblique20"
+		"font"				"DinBold14"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -375,7 +376,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"PyroLabel"
-		"xpos"				"c-52"
+		"xpos"				"c-62"
 		"ypos"				"170"
 		"zpos"				"2"
 		"wide"				"60"
@@ -384,16 +385,17 @@
 		"enabled"			"1"
 		"command"			"loadout pyro"
 		"labeltext"			"PYRO"
-		"font"				"Oblique20"
+		"textAlignment"		"center"
+		"font"				"DinBold14"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -504,7 +506,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"DemomanLabel"
-		"xpos"				"c11"
+		"xpos"				"c6"
 		"ypos"				"170"
 		"zpos"				"2"
 		"wide"				"72"
@@ -513,16 +515,17 @@
 		"enabled"			"1"
 		"command"			"loadout demoman"
 		"labeltext"			"DEMOMAN"
-		"font"				"Oblique20"
+		"font"				"DinBold14"
+		"textAlignment"		"center"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -642,16 +645,17 @@
 		"enabled"			"1"
 		"command"			"loadout Heavy"
 		"labeltext"			"HEAVY"
-		"font"				"Oblique20"
+		"font"				"DinBold14"
+		"textAlignment"		"center"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -762,7 +766,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"EngiLabel"
-		"xpos"				"c164"
+		"xpos"				"c157"
 		"ypos"				"170"
 		"zpos"				"2"
 		"wide"				"72"
@@ -771,16 +775,17 @@
 		"enabled"			"1"
 		"command"			"loadout Engineer"
 		"labeltext"			"ENGINEER"
-		"font"				"Oblique20"
+		"textAlignment"		"center"
+		"font"				"DinBold14"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -900,16 +905,17 @@
 		"enabled"			"1"
 		"command"			"loadout Medic"
 		"labeltext"			"MEDIC"
-		"font"				"Oblique20"
+		"font"				"DinBold14"
+		"textAlignment"		"center"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -1020,7 +1026,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"SniperLabel"
-		"xpos"				"c-20"
+		"xpos"				"c-27"
 		"ypos"				"315"
 		"zpos"				"2"
 		"wide"				"62"
@@ -1029,16 +1035,17 @@
 		"enabled"			"1"
 		"command"			"loadout Sniper"
 		"labeltext"			"SNIPER"
-		"font"				"Oblique20"
+		"textAlignment"		"center"
+		"font"				"DinBold14"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -1149,7 +1156,7 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"SpyLabel"
-		"xpos"				"c63"
+		"xpos"				"c48"
 		"ypos"				"315"
 		"zpos"				"2"
 		"wide"				"62"
@@ -1158,16 +1165,17 @@
 		"enabled"			"1"
 		"command"			"loadout Spy"
 		"labeltext"			"SPY"
-		"font"				"Oblique20"
+		"font"				"DinBold14"
+		"textAlignment"		"center"
 
 		"border"			"noborder"
 		"border_default"	"noborder"
 		"border_armed"		"noborder"
 		"paintbackground"	"1"
 			
-		"defaultFgColor_override" 	"owDARKBLUE"
-		"armedFgColor_override" 	"owDARKBLUE"
-		"depressedFgColor_override" "owDARKBLUE"
+		"defaultFgColor_override" 	"owBLACK"
+		"armedFgColor_override" 	"owBLACK"
+		"depressedFgColor_override" "owBLACK"
 
 		"defaultBgColor_override" 	"0 0 0 0"
 		"armedBgColor_override" 	"0 0 0 0"
@@ -1251,8 +1259,8 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ShowBackpackButton"
-		"xpos"				"r65"
-		"ypos"				"75"
+		"xpos"				"c-180"
+		"ypos"				"350"
 		"zpos"				"6"
 		"wide"				"55"
 		"tall"				"55"
@@ -1262,7 +1270,7 @@
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"v"
-		"textAlignment"		"west"
+		"textAlignment"		"center"
 		"Command"			"backpack"
 		"Default"			"0"
 		"font"				"mkhud32"
@@ -1271,7 +1279,7 @@
 		"inactiveimage"		""
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgcolor_override"	"owORANGE"
+		"defaultFgcolor_override"	"owFULLWHITE"
 		"armedFgColor_override"	"255 217 70 255"
 		"depressedFgColor_override"	"255 217 70 255"
 	}	
@@ -1279,18 +1287,18 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ShowCraftingButton"
-		"xpos"				"r65"
-		"ypos"				"125"
-		"zpos"				"6"
-		"wide"				"55"
-		"tall"				"55"
+		"xpos"				"c-80"
+		"ypos"				"340"
+		"zpos"				"-4"
+		"wide"				"50"
+		"tall"				"50"
 		"autoResize"		"0"
 		"pinCorner"			"0"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"f"
-		"textAlignment"		"south-west"
+		"textAlignment"		"center"
 		"Command"			"crafting"
 		"Default"			"0"
 		"font"				"Entypo64"
@@ -1299,7 +1307,7 @@
 		"inactiveimage"		"replay/thumbnails/bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgcolor_override"	"owORANGE"
+		"defaultFgcolor_override"	"owFULLWHITE"
 		"armedFgColor_override"	"255 217 70 255"
 		"depressedFgColor_override"	"255 217 70 255"
 		"image_armedcolor"	"0 0 0 0"
@@ -1309,8 +1317,8 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ShowArmoryButton"
-		"xpos"				"r60"
-		"ypos"				"175"
+		"xpos"				"c45"
+		"ypos"				"330"
 		"zpos"				"6"
 		"wide"				"35"
 		"tall"				"70"
@@ -1329,7 +1337,7 @@
 		"inactiveimage"		"replay/thumbnails/bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgcolor_override"	"owORANGE"
+		"defaultFgcolor_override"	"owFULLWHITE"
 		"armedFgColor_override"	"255 217 70 255"
 		"depressedFgColor_override"	"255 217 70 255"
 		"image_armedcolor"	"0 0 0 0"
@@ -1339,8 +1347,8 @@
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"ShowTradeButton"
-		"xpos"				"r65"
-		"ypos"				"235"
+		"xpos"				"c130"
+		"ypos"				"337"
 		"zpos"				"6"
 		"wide"				"60"
 		"tall"				"60"
@@ -1359,7 +1367,7 @@
 		"inactiveimage"		"replay/thumbnails/bg_blank"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-		"defaultFgcolor_override"	"owORANGE"
+		"defaultFgcolor_override"	"owFULLWHITE"
 		"armedFgColor_override"	"255 217 70 255"
 		"depressedFgColor_override"	"255 217 70 255"
 		"image_armedcolor"	"0 0 0 0"
@@ -1389,7 +1397,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#CraftingExplanation_Title"
 		"textAlignment"	"north"
-		"xpos"			"c-125"
+		"xpos"			"c-117"
 		"ypos"			"300"
 		"zpos"			"7"
 		"wide"			"0"
@@ -1777,7 +1785,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1934,7 +1942,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -1999,7 +2007,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2106,7 +2114,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "0 0 0 0"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "0 0 0 0"
 			
 			"image_drawcolor"	"117 107 94 255"
@@ -2156,7 +2164,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2221,7 +2229,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2328,7 +2336,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "0 0 0 0"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "0 0 0 0"
 			
 			"image_drawcolor"	"117 107 94 255"
@@ -2378,7 +2386,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2443,7 +2451,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2550,7 +2558,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "0 0 0 0"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "0 0 0 0"
 			
 			"image_drawcolor"	"117 107 94 255"
@@ -2600,7 +2608,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2665,7 +2673,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{
@@ -2771,7 +2779,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "0 0 0 0"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "0 0 0 0"
 			
 			"image_drawcolor"	"117 107 94 255"
@@ -2821,7 +2829,7 @@
 			"armedFgColor_override" "oworange"
 			"depressedFgColor_override" "0 0 0 0"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"255 255 255 255"
 			"SubImage"
 			{

@@ -291,9 +291,9 @@ Scheme
 		{
             "1" //For screen heights between 480 and 599 (eg 4:3 aspect Width 640x480 High, Width 720x576 High. 16:10 aspect Width 720x480 High)
 			{
-                "name"         "Nimbus Sans L Regular" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Nimbus Sans L Regular" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         "DinPro-Medium" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "DinPro-Medium" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
                 "name"         "Lucida Console" [$X360]    //"Lucida Console"
-                "name"         "Georgia" [$POSIX] // Apple Mac OS "Nimbus Sans L Regular" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         "Georgia" [$POSIX] // Apple Mac OS "DinPro-Medium" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         "11" [$POSIX]  // "11"
                 "tall"         "10" //good positioning is ... "net_graphpos 183" and "net_graphheight 30" and ensure you select "antialias"  "1" with all others off with "Georgia" font.
                 "tall_lodef" "15" //"15"
@@ -307,9 +307,9 @@ Scheme
 			}
             "2" //For screen heights between 600 and 767 (eg 4:3 aspect Width 800X600 High, ... 16:9 aspect Width 1152x648 High.)
 		{
-                "name"         "Nimbus Sans L Regular" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Nimbus Sans L Regular" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         "DinPro-Medium" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "DinPro-Medium" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
                 "name"         "Lucida Console" [$X360]    //"Lucida Console"
-                "name"         "Georgia" [$POSIX] // Apple Mac OS "Nimbus Sans L Regular" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         "Georgia" [$POSIX] // Apple Mac OS "DinPro-Medium" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         "12" [$POSIX]  // "11"                
                 "tall"         "12" //good positioning is ... "net_graphpos 190" and "net_graphheight 45" and ensure you select "antialias"  "1" with all others off with "Georgia" font.
                 "tall_lodef" "15" //"15"
@@ -323,9 +323,9 @@ Scheme
             }
             "3" //For screen heights between 768 and 1023 (eg 4:3 aspect Width 1024X768 High... 16:9 aspect Width 1360x768 High, 16:9 aspect Width 1776x1000 High... 16:10 aspect Width 1280x768 High, 16:10 aspect Width 1280x800 High, 16:10 aspect Width 1400x900 High.)
             {
-                "name"         "Nimbus Sans L Regular" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Nimbus Sans L Regular" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         "DinPro-Medium" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "DinPro-Medium" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
                 "name"         "Lucida Console" [$X360]    //"Lucida Console"
-                "name"         "Nimbus Sans L Regular" [$POSIX] // Apple Mac OS "Nimbus Sans L Regular" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         "DinPro-Medium" [$POSIX] // Apple Mac OS "DinPro-Medium" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         "16" [$POSIX]  // "11"                
                 "tall"         "16"  //good positioning is ... "net_graphpos 203" and "net_graphheight 85" and ensure you select "outline" "1" with all others off with "Microsoft Sans Serif" font.
                 "tall_lodef" "15" //"15"
@@ -339,9 +339,9 @@ Scheme
             }
             "4" //For screen heights between 1024 and 1199 (eg 4:3 aspect Width 1280X1024 High, Width 1400X1050 High...    16:9 aspect Width 1920x1080 High... 16:10 aspect Width 1680x1050 High.)
             {
-                "name"         "Nimbus Sans L Regular" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Nimbus Sans L Regular" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         "DinPro-Medium" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "DinPro-Medium" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
                 "name"         "Lucida Console" [$X360]    //"Lucida Console"
-                "name"         "Nimbus Sans L Regular" [$POSIX] // Apple Mac OS "Nimbus Sans L Regular" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         "DinPro-Medium" [$POSIX] // Apple Mac OS "DinPro-Medium" (default) Best small font = "Georgia" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         "19" [$POSIX]  // "11"                
                 "tall"         "19"  // good positioning is ... net_graphheight 87 and net_graphpos 210 and ensure you select "outline" "1" with all others off with Ariel font.
                 "tall_lodef" "15" //"15"
@@ -355,9 +355,9 @@ Scheme
             }
             "5" //For screen heights between 1200 and 6000 (6000...wow that's freaking huge!) (eg 4:3 aspect Width 1600X1200 High... 16:10 aspect Width 1920x1200 High.... and beyond) 
             {
-                "name"         "Nimbus Sans L Regular" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "Nimbus Sans L Regular" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
+                "name"         "DinPro-Medium" [$WINDOWS] // Standard is "Lucida Console" Options are "Microsoft Sans Serif" "Georgia" "Impact" "DinPro-Medium" and the best for small = "Haettenschweiler" but is a MS office and Win7 font, can be downloaded, google "Haettenschweiler" and install in C:/Windows/Fonts
                 "name"         "Lucida Console" [$X360]    //"Lucida Console"
-                "name"         "Nimbus Sans L Regular" [$POSIX] // Apple Mac OS "Nimbus Sans L Regular" (default) Best small font = "Georgia" and "Nimbus Sans L Regular" Mac Installation location: /Library/Fonts and is default on Mac OS
+                "name"         "DinPro-Medium" [$POSIX] // Apple Mac OS "DinPro-Medium" (default) Best small font = "Georgia" and "DinPro-Medium" Mac Installation location: /Library/Fonts and is default on Mac OS
                 "tall"         "19" [$POSIX]  // "11"                
                 "tall"         "19" // good positioning is ... net_graphheight 95 and net_graphpos 225 and ensure you select "outline" "1" with all others off with Ariel font.
                 "tall_lodef" "15" //"15"
@@ -376,7 +376,7 @@ Scheme
 			{
 				"name"		 "Lucida Console" [$WINDOWS]
 				"name"		 "Lucida Console" [$X360]
-				"name"		 "Nimbus Sans L Regular" [$POSIX]
+				"name"		 "DinPro-Medium" [$POSIX]
 				"tall"		"14" [$LINUX]
 				"tall"		"11" [$OSX]
 				"tall"		 "10"
@@ -391,8 +391,8 @@ Scheme
 //		{
 //			"1"
 //			{
-//				"name"		"Nimbus Sans L Regular" [!$POSIX]
-//				"name"		"Nimbus Sans L Regular" [$POSIX]
+//				"name"		"DinPro-Medium" [!$POSIX]
+//				"name"		"DinPro-Medium" [$POSIX]
 //				"tall"		"16"
 //				"weight"	"500"
 //			}
@@ -403,8 +403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX] 
+				"name"		"DinPro-Medium"
 				"tall"		"18"// "16"
 				"weight"	"200"
 				"antialias"		"1"
@@ -414,8 +413,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" 
 				"tall"		"16"
 				"antialias"		"1"
 			}
@@ -424,8 +422,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"tall"		"16"
 				"weight"	"500"
 				"underline" "0"
@@ -436,8 +434,8 @@ Scheme
 //		{
 //			"1"
 //			{
-//				"name"		"Nimbus Sans L Regular" [!$POSIX]
-//				"name"		"Nimbus Sans L Regular" [$POSIX]
+//				"name"		"DinPro-Medium" [!$POSIX]
+//				"name"		"DinPro-Medium" [$POSIX]
 //				"tall"		"12" [!$POSIX]
 //				"tall"		"13" [$POSIX]
 //				"weight"	"0"
@@ -447,8 +445,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		 "Nimbus Sans L Regular" [$POSIX] 
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		 "DinPro-Medium" [$POSIX] 
 				"tall"		"14" [!$POSIX]
 				"tall"		"14" [$POSIX]
 				"weight"	"0"
@@ -459,8 +457,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"tall"		"12"
 				"weight"	"0"
 				"dropshadow" "1"
@@ -471,8 +469,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"tall"		"12"
 				"weight"	"0"
 				"antialias"		"1"
@@ -483,7 +481,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -494,14 +492,14 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" [!$POSIX]
+				"name"		"DinPro-Bold" [$POSIX]
 				"tall"		"12"
 				"antialias"		"1"
 			}
 			"1"	[$X360]
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"antialias"		"1"
 				"outline"	"1"
@@ -511,7 +509,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Medium"
 				"tall"			"20"
 				"tall_hidef"	"28"
 				"antialias"		"1"
@@ -522,7 +520,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Medium"
 				"tall"			"20"
 				"tall_hidef"	"28"
 				"antialias"		"1"
@@ -534,20 +532,20 @@ Scheme
 		{
 			"1"	[$POSIX]
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"antialias" "1"
 			}
 			"1"	[$WIN32]
 			{
-				"name"		"Nimbus Sans L Regular" 
+				"name"		"DinPro-Bold" 
 				"tall"		"14" 
 				
 				"antialias" "1"
 			}
 			"1"	[$X360]
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"			"12"
 				"tall_hidef"	"20"
 				"weight"	"1200"
@@ -559,7 +557,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"1200"
 				"antialias" "1"
@@ -571,7 +569,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -585,7 +583,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"15"
 				"antialias" "1"
 				"outline" "1"
@@ -593,7 +591,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"antialias" "1"
 				"outline" "1"
@@ -621,7 +619,7 @@ Scheme
 			{
 				"name"		 "Lucida Console" [$WINDOWS]
 				"name"		 "Lucida Console" [$X360]
-				"name"		 "Nimbus Sans L Regular" [$POSIX]
+				"name"		 "DinPro-Medium" [$POSIX]
 				"tall"		"11" [$OSX]
 				"tall"		"14" [$LINUX]
 				"tall"		"10"
@@ -646,7 +644,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"antialias"		"1"
 				"antialias"		"1"
@@ -658,7 +656,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"18"
 				"antialias"		"1"
 				
@@ -669,7 +667,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"antialias"		"1"
 				
@@ -682,7 +680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"antialias"		"1"
 				
@@ -692,7 +690,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"34"
 				"antialias"		"1"
 			}
@@ -701,7 +699,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"35"
 				"antialias"		"1"
 			}
@@ -710,7 +708,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"38"
 				"antialias"		"1"
 			}
@@ -719,7 +717,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"40"
 				"antialias"		"1"
 			}
@@ -728,7 +726,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"42"
 				"antialias"		"1"
 			}
@@ -739,7 +737,7 @@ Scheme
 			{
 				"name"		 "Lucida Console" [$WINDOWS]
 				"name"		 "Lucida Console" [$X360]
-				"name"		 "Nimbus Sans L Regular" [$POSIX]
+				"name"		 "DinPro-Medium" [$POSIX]
 				"tall"		"11" [$POSIX]
 				"tall"		"10"
 				"weight"	"0"
@@ -758,7 +756,7 @@ Scheme
 			{
 				"name"		 "Lucida Console" [$WINDOWS]
 				"name"		 "Lucida Console" [$X360]
-				"name"		 "Nimbus Sans L Regular" [$OSX]
+				"name"		 "DinPro-Medium" [$OSX]
 				"name"		 "Courier" [$LINUX]
 				"tall"		"14" [$LINUX]
 				"tall"		"11" [$POSIX]
@@ -778,8 +776,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"tall"		"16"
 				"weight"	"500"
 			}
@@ -788,8 +786,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$OSX]
-				"name"		"Nimbus Sans L Regular" [$OSX]
+				"name"		"DinPro-Medium" [!$OSX]
+				"name"		"DinPro-Medium" [$OSX]
 				"tall"		"16"
 				"weight"	"500"
 				"italic"	"1"
@@ -799,8 +797,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"tall"		"16"
 				"antialias"		"1"
 			}
@@ -809,8 +807,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"tall"		"16"
 				"antialias"		"1"
 				"italic"	"1"
@@ -845,7 +843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Bold"
 				"tall"			"16"
 				"tall_hidef"	"24"
 				"weight"		"900"
@@ -857,7 +855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Bold"
 				"tall"			"16"
 				"tall_hidef"	"24"
 				"weight"		"900"
@@ -871,8 +869,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" [!$POSIX]
+				"name"		"DinPro-Bold" [$POSIX]
 				
 				"tall"			"20"
 				"antialias"		"1"
@@ -883,8 +881,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				
 				"tall"			"18"
 				"antialias"		"1"
@@ -895,8 +893,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" [!$POSIX]
+				"name"		"DinPro-Bold" [$POSIX]
 				"weight"		"1500"
 				"tall"			"16" [!$POSIX]
 				"tall"			"18" [$POSIX]
@@ -908,8 +906,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"weight"		"1500"
 				"tall"			"16"
 				"antialias"		"1"
@@ -921,8 +919,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"weight"		"1500"
 				"tall"			"14" [!$POSIX]
 				"tall"			"16" [$POSIX]
@@ -934,8 +932,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" [!$POSIX]
+				"name"		"DinPro-Bold" [$POSIX]
 				"weight"		"1500"
 				"tall"			"18" [!$POSIX]
 				"tall"			"19" [$POSIX]
@@ -947,8 +945,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Medium" [!$POSIX]
+				"name"		"DinPro-Medium" [$POSIX]
 				"weight"		"1000"
 				"tall"			"14" [!$POSIX]
 				"tall"			"15" [$POSIX]
@@ -961,8 +959,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$POSIX]
-				"name"		"Nimbus Sans L Regular" [$POSIX]
+				"name"		"DinPro-Bold" [!$POSIX]
+				"name"		"DinPro-Bold" [$POSIX]
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -975,7 +973,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -983,7 +981,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -991,7 +989,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1000,7 +998,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1009,7 +1007,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Medium"
 				"tall"		"19"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A

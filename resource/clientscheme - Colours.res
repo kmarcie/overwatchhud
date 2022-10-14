@@ -5,7 +5,7 @@ Scheme
 		// HUD COLOURS
 		
 		"owGREEN"				"192 254 57  255"
-		"owORANGE"				"254 197 50  255"
+		"owORANGE"				"236 101 22  255"
 		"owWHITE"				"254 245 255 255"
 		"owWHITEt"				"250 250 250 100"
 		"owBLACK"				"28  28  28  255"
@@ -20,7 +20,7 @@ Scheme
 		"owDARKBLUE"			"66  84  118 255"
 		"owBLUEBUTTON"			"34  158 235 165"
 		"owPURPLE"				"143 1   203 255"
-		
+		"owFULLBLACK"			"0   0   0   255"
 		
 		
 		

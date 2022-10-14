@@ -119,21 +119,21 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r175"	
-		"ypos"			"r31"	
+		"ypos"			"r45"	
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
 		"tall"			"8"
-		"MeterFG"		"owORANGE"
+		"MeterFG"		"owwhite"
 		"MeterBG"		"0 0 0 100"
 	}	
 
-	HudBowCharge
+	HudBowCharge // unused
 	{
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	
-		"ypos"			"r21"
+		"ypos"			"9999"
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
 		"tall"			"8"
@@ -211,8 +211,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r190"
-		"ypos"					"r172"
+		"xpos"					"r157"
+		"ypos"					"r171"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -223,9 +223,9 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"85"
+		"xpos"					"100"
 		"xpos_minmode"			"c-150"
-		"ypos"					"r85"
+		"ypos"					"r40"
 		"ypos_minmode"			"r180"
 		"wide"					"116"
 		"tall"  				"180"
@@ -441,21 +441,21 @@
 		"tall"	 "468"
 
 		"MaxDeathNotices" "12"
-		"IconScale"	  "0.35"
-		"LineHeight"	  "15"
+		"IconScale"	  "0.15"
+		"LineHeight"	  "11"
 		"LineSpacing"	  "1"
 		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Nim11"
+		"TextFont"		"DinBold10"
 		
 		"TeamBlue"		"owTEAMBLU"
 		"TeamRed"		"owTEAMRED"
 		"IconColor"		"255 255 255 255"
 		"LocalPlayerColor"	"0 0 0 255"
 
-		"BaseBackgroundColor"	"0 0 0 125"	
-		"LocalBackgroundColor"	"230 230 230 175"	
+		"BaseBackgroundColor"	"0 0 0 150"	
+		"LocalBackgroundColor"	"230 230 230 125"	
 	}
 
 	HudVehicle

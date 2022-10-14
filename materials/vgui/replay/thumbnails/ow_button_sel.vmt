@@ -1,7 +1,7 @@
 "UnlitGeneric"
 {
 	"$translucent" "1"
-	"$baseTexture" "vgui\replay\thumbnails\ow_loading_faded"
+	"$baseTexture" "vgui\replay\thumbnails\ow_button_sel"
 	"$alpha" "1"
 	"$vertexalpha" "1"	
 	"$vertexcolor" "1"

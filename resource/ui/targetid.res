@@ -64,7 +64,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabel"
-		"font"			"FuturaBold12"
+		"font"			"DinBold12"
 		"fgcolor_override"		"owfullwhite"
 		"fgcolor"		"owfullwhite"
 		"xpos"			"25"
@@ -85,7 +85,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetNameLabelShadow"
-		"font"			"FuturaBoldBlur12"
+		"font"			"DinBoldBlur12"
 		"fgcolor_override"		"0 0 0 255"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"43"
@@ -135,7 +135,7 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"		"FuturaBold12"
+		"TFFont"		"DinBold12"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"		"Owfullwhtie"
 	}	

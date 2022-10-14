@@ -171,7 +171,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"FuturaBold20"
+		"font"			"DinBold20"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"center"
 		"xpos"			"25"
@@ -252,7 +252,7 @@
 		"fgcolor_override"	"owdarkblue"
 		"bgcolor_override"	"owwhite"
 		"paintbackgroundtype" "0"
-		"font"		"futurabold14"
+		"font"		"DinBold14"
 	}
 	
 	"TopLine"

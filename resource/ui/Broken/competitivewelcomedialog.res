@@ -286,7 +286,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"ALRIGHT"
-		"font"			"FuturaBold14"
+		"font"			"DinBold14"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"

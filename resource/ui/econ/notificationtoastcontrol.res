@@ -48,7 +48,7 @@
 		
 		"defaultBgColor_override"	"100 90 85 255"		
 		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
+		"armedFgColor_override" "OWWHITE"
 		"depressedFgColor_override" "46 43 42 255"
 		
 		"image_drawcolor"	"238 54 36 255"
@@ -99,7 +99,7 @@
 		
 		"defaultBgColor_override"	"0 90 85 255"
 		"defaultFgColor_override"	"255 255 255 255"
-		"armedFgColor_override"		"235 226 202 255"
+		"armedFgColor_override"		"OWWHITE"
 		"depressedFgColor_override" "46 43 42 255"
 		
 		"image_drawcolor"	"255 255 255 255"
@@ -150,7 +150,7 @@
 		
 		"defaultBgColor_override"	"100 90 85 255"
 		"defaultFgColor_override"	"255 255 255 255"
-		"armedFgColor_override" "235 226 202 255"
+		"armedFgColor_override" "OWWHITE"
 		"depressedFgColor_override" "46 43 42 255"
 		
 		"image_drawcolor"	"255 255 255 255"
@@ -201,7 +201,7 @@
 		
 		"defaultBgColor_override"	"100 90 85 255"		
 		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
+		"armedFgColor_override" "OWWHITE"
 		"depressedFgColor_override" "46 43 42 255"
 		
 		"image_drawcolor"	"238 54 36 255"

@@ -356,7 +356,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"FuturaBold28"
+		"font"			"DinBold28"
 		"fgcolor"		"owORANGE"
 		"xpos"			"10"
 		"ypos"			"5"

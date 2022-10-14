@@ -382,13 +382,13 @@
 			
 			"paintbackground"	"0"
 			
-			//"defaultFgColor_override" "235 226 202 255"
+			//"defaultFgColor_override" "OWWHITE"
 			//"armedFgColor_override" "46 43 42 255"
 			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{

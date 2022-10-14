@@ -216,7 +216,7 @@
 		"zpos"				"0"
 		"wide"				"365"
 		"tall"				"28"
-		"fillcolor"			"0 0 0 50"
+		"fillcolor"			"0 0 0 0"
 
 		"proportionaltoaparent"	"1"
 //		"border"			"noborder"
@@ -240,7 +240,7 @@
 		"PositiveColor"			"255 255 0 255"
 		"NegativeColor"			"owBRIGHTBLUE"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"FuturaBold12"
+		"delta_item_font"		"DinBold12"
 
 		if_match
 		{
@@ -259,7 +259,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"FuturaBold16"
+			"font"			"DinBold16"
 			"fgcolor_override"		"169 186 204 255"
 			"bgcolor_override"	"0 0 0 75"
 			"paintbackgroundtype"	"0"
@@ -444,7 +444,7 @@
 				"pinCorner"		"0"
 				"visible"		"0"
 				"enabled"		"1"
-				"image"			"replay/thumbnails/ow_flare" // broken for now lol
+				"image"			"../HUD/tournament_panel_brown"
 				"src_corner_height"	"22"				// pixels inside the image
 				"src_corner_width"	"22"
 				"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
@@ -515,7 +515,7 @@
 				"visible"		"0"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 			}
 			"DeathPanel"
 			{
@@ -558,8 +558,14 @@
 		"zpos"			"50"
 		"wide"			"150"
 		"tall"			"260"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
+
+		if_large
+		{
+			"ypos"			"65"
+			"tall"			"385"
+		}
 
 		"BlueTeamBG"
 		{
@@ -633,7 +639,7 @@
 			"wide"			"39"
 			"tall"			"39"
 			"visible"		"1"
-	
+			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}
 		"BluePlayerList"
@@ -653,6 +659,11 @@
 			"linespacing"	"26"
 			"linegap"		"4"
 			//"show_columns"	"1"
+
+			if_large
+			{
+				"tall"			"315"
+			}
 		}
 		"BluePlayerListBG"
 		{
@@ -668,6 +679,11 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderClearBG"
+
+			if_large
+			{
+				"tall"			"325"
+			}
 		}
 	}
 
@@ -680,8 +696,14 @@
 		"zpos"			"50"
 		"wide"			"150"
 		"tall"			"260"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
+
+		if_large
+		{
+			"ypos"			"65"
+			"tall"			"385"
+		}
 
 		"RedTeamBG"
 		{
@@ -755,7 +777,7 @@
 			"wide"			"39"
 			"tall"			"39"
 			"visible"		"1"
-	
+			"PaintBackgroundType"	"2"
 			"bgcolor_override"	"117 107 94 255"
 		}
 		"RedPlayerList"
@@ -775,6 +797,11 @@
 			"linespacing"	"26"
 			"linegap"		"4"
 			//"show_columns"	"1"
+
+			if_large
+			{
+				"tall"			"315"
+			}
 		}
 		"RedPlayerListBG"
 		{
@@ -790,6 +817,11 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"TFFatLineBorderClearBG"
+
+			if_large
+			{
+				"tall"			"325"
+			}
 		}
 	}
 }

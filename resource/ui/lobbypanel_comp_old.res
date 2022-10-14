@@ -88,7 +88,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"SeasonLabel"
-		"font"			"FuturaBold10"
+		"font"			"DinBold10"
 		"labelText"		"SEASON 1"
 		"textAlignment"	"center"
 		"xpos"			"c-27"

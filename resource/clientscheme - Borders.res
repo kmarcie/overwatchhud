@@ -6,6 +6,43 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"image"					"replay/thumbnails/ow_button"
+			"backgroundtype"		"2"
+		}
+		OWButtonSel
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/ow_button_sel"
+			"backgroundtype"		"2"
+		}
+		OWWhiteButton
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/whitebutton"
+			"backgroundtype"		"2"
+		}
+		TeamBlueButton
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/teamblubutton"
+			"backgroundtype"		"2"
+		}
+		TeamBlueButtonSel
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/teamblubuttonsel"
+			"backgroundtype"		"2"
+		}
+		TeamRedButton
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/TeamRedButton"
+			"backgroundtype"		"2"
+		}
+		TeamRedButtonSel
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/TeamRedButtonSel"
+			"backgroundtype"		"2"
 		}
 		OWtab
 		{

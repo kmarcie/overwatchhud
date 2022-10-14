@@ -55,7 +55,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"0"
 		"zpos"			"5"
-		"wide"			"85"
+		"wide"			"120"
 		"tall"			"35"
 
 		"backgroundtype"		"2"

@@ -44,7 +44,7 @@
 				"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"center"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 					
 				if_mvm
 				{
@@ -285,7 +285,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"FuturaBold11"
+				"font"			"DinBold11"
 				"xpos"			"22"
 				"ypos"			"18"
 				"zpos"			"5"
@@ -296,7 +296,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"east"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 				
 				if_mvm
 				{
@@ -308,7 +308,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"FuturaBold11"
+				"font"			"DinBold11"
 				"xpos"			"0"
 				"ypos"			"19"
 				"zpos"			"6"
@@ -325,7 +325,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount2"
-				"font"			"FuturaBoldBlur11"
+				"font"			"DinBoldBlur11"
 				"xpos"			"0"
 				"ypos"			"19"
 				"zpos"			"6"
@@ -353,7 +353,7 @@
 				"visible"		"1"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 			}
 			
 			if_mvm
@@ -592,7 +592,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"south"
-			"fgcolor"		"235 226 202 255"
+			"fgcolor"		"OWWHITE"
 			"centerwrap"	"1"
 		}
 	}	

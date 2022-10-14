@@ -9,7 +9,7 @@
 		"ypos"			"r44"
 		"wide"			"200"
 		"tall"			"8"
-		"MeterFG"		"owORANGE"
+		"MeterFG"		"owwhite"
 		"MeterBG"		"0 0 0 100"
 	}
 	
@@ -50,8 +50,8 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"oblique8"
-		"fgcolor_override"		"owORANGE"
+		"font"					"DinBold8"
+		"fgcolor_override"		"owwhite"
 	}
 
 	"ItemEffectMeter"
@@ -59,8 +59,8 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"32"
-		"ypos"					"0"
+		"xpos"					"31"
+		"ypos"					"2"
 		"zpos"					"2"
 		"wide"					"50"
 		"tall"					"3"				
@@ -72,6 +72,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"0 0 0 100"
-		"fgcolor_override"		"owORANGE"
+		"fgcolor_override"		"owwhite"
 	}					
 }

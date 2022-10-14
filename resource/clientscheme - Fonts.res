@@ -622,11 +622,1871 @@ Scheme
 				"blur"		"2"
 			}
 		}
+		"DinBlack7"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"7"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack8"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlackBlur8"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlack9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlackBlur9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlack10"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack11"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack12"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack14"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack16"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack18"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack20"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack21"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack24"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack26"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack28"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack30"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack32"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack36"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack38"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack40"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack42"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack44"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack48"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack50"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack52"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack56"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack60"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack64"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack68"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"68"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlack72"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"72"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBlackBlur7"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"7"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur10"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur11"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur12"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur14"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur16"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur18"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur20"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur21"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur24"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur26"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur28"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur30"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur32"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur36"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur38"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur40"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur42"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur44"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur48"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur50"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur52"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur56"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur60"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur64"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur68"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"68"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBlackBlur72"
+		{
+			"1"
+			{
+				"name"		"DinPro-Black"
+				"tall"		"72"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBold7"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"7"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold8"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBoldBlur8"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBold9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBoldBlur9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBold10"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold11"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold12"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold14"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold16"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold18"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold20"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold21"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold24"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold26"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold28"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold30"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold32"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold36"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold38"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold40"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold42"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold44"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold48"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold50"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold52"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold56"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold60"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold64"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold68"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"68"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBold72"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"72"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinBoldBlur7"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"7"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur10"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur11"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur12"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur14"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur16"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur18"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur20"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur21"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur24"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur26"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur28"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur30"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur32"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur36"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur38"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur40"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur42"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur44"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur48"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur50"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur52"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur56"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur60"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur64"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur68"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"68"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinBoldBlur72"
+		{
+			"1"
+			{
+				"name"		"DinPro-Bold"
+				"tall"		"72"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMedium7"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"7"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium8"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMediumBlur8"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMedium9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMediumBlur9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMedium10"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium11"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium12"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium14"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium16"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium18"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium20"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium21"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium24"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium26"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium28"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium30"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium32"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium36"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium38"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium40"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium42"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium44"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium48"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium50"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium52"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium56"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium60"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium64"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium68"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"68"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMedium72"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"72"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"DinMediumBlur7"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"7"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur9"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur10"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"10"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur11"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur12"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur14"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"14"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur16"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur18"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur20"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur21"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"21"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur24"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur26"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"26"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur28"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur30"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"30"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur32"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur36"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"36"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur38"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"38"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur40"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"40"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur42"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"42"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur44"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"44"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur48"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"48"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur50"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"50"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur52"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"52"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur56"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur60"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"60"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur64"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur68"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"68"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
+		"DinMediumBlur72"
+		{
+			"1"
+			{
+				"name"		"DinPro-Medium"
+				"tall"		"72"
+				"weight"	"500"
+				"antialias"	"1"
+				"blur"		"2"
+			}
+		}
 		"Nim7"
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
@@ -636,7 +2496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
@@ -646,7 +2506,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -656,7 +2516,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
@@ -666,7 +2526,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -676,7 +2536,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -686,7 +2546,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -696,7 +2556,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -706,7 +2566,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -716,7 +2576,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
@@ -726,7 +2586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -736,7 +2596,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -746,7 +2606,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -756,7 +2616,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -766,7 +2626,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -776,7 +2636,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -786,7 +2646,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
@@ -796,7 +2656,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -806,7 +2666,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
@@ -816,7 +2676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
@@ -826,7 +2686,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -836,7 +2696,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -846,7 +2706,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
@@ -856,7 +2716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
@@ -866,7 +2726,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -876,7 +2736,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
@@ -886,7 +2746,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
@@ -896,7 +2756,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
@@ -906,7 +2766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
@@ -917,7 +2777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
@@ -928,7 +2788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -939,7 +2799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
@@ -950,7 +2810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -961,7 +2821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -972,7 +2832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -983,7 +2843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -994,7 +2854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1005,7 +2865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1016,7 +2876,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1027,7 +2887,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1038,7 +2898,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1049,7 +2909,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1060,7 +2920,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1071,7 +2931,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1082,7 +2942,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1093,7 +2953,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1104,7 +2964,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1115,7 +2975,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1126,7 +2986,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1137,7 +2997,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1148,7 +3008,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1159,7 +3019,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1170,7 +3030,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1181,7 +3041,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1192,7 +3052,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1203,7 +3063,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1214,7 +3074,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1224,7 +3084,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1234,7 +3094,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1244,7 +3104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1254,7 +3114,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1264,7 +3124,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1274,7 +3134,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1284,7 +3144,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1294,7 +3154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1304,7 +3164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1314,7 +3174,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1324,7 +3184,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1334,7 +3194,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1344,7 +3204,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1354,7 +3214,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1364,7 +3224,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1374,7 +3234,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1384,7 +3244,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1394,7 +3254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1404,7 +3264,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1414,7 +3274,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1424,7 +3284,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1434,7 +3294,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1444,7 +3304,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1454,7 +3314,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1464,7 +3324,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1474,7 +3334,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1484,7 +3344,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1494,7 +3354,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1504,7 +3364,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1514,7 +3374,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1524,7 +3384,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1534,7 +3394,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1544,7 +3404,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1554,7 +3414,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1564,7 +3424,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1574,7 +3434,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1584,7 +3444,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1594,7 +3454,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1604,7 +3464,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1614,7 +3474,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1624,7 +3484,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1634,7 +3494,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1644,7 +3504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1654,7 +3514,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1664,7 +3524,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1674,7 +3534,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1684,7 +3544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1694,7 +3554,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1704,7 +3564,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1714,7 +3574,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1724,7 +3584,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1734,7 +3594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1744,7 +3604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1754,7 +3614,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1764,7 +3624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1774,7 +3634,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"7"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1785,7 +3645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1796,7 +3656,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1807,7 +3667,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1818,7 +3678,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1829,7 +3689,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1840,7 +3700,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1851,7 +3711,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1862,7 +3722,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1873,7 +3733,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"21"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1884,7 +3744,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1895,7 +3755,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"26"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1906,7 +3766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"28"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1917,7 +3777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1928,7 +3788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"32"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1939,7 +3799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1950,7 +3810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"38"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1961,7 +3821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"40"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1972,7 +3832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"42"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1983,7 +3843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1994,7 +3854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2005,7 +3865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"50"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2016,7 +3876,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"52"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2026,7 +3886,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"56"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2037,7 +3897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"60"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2048,7 +3908,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2059,7 +3919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"68"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2070,7 +3930,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"72"
 				"weight"	"500"
 				"antialias"	"1"
@@ -2222,6 +4082,46 @@ Scheme
 				"weight"	"500"
 				"antialias"	"1"
 				"blur"		"1"
+			}
+		}
+		"mkhud9"
+		{
+			"1"
+			{
+				"name"		"mkhud"
+				"tall"		"9"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"mkhud11"
+		{
+			"1"
+			{
+				"name"		"mkhud"
+				"tall"		"11"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"mkhud12"
+		{
+			"1"
+			{
+				"name"		"mkhud"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias"	"1"
+			}
+		}
+		"mkhud8"
+		{
+			"1"
+			{
+				"name"		"mkhud"
+				"tall"		"8"
+				"weight"	"500"
+				"antialias"	"1"
 			}
 		}
 		"mkhud24"
@@ -3439,36 +5339,36 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"13"	[$WIN32]
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"24"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"antialias"	"1"
 			}
@@ -3503,7 +5403,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3511,7 +5411,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3519,7 +5419,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3528,7 +5428,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3537,7 +5437,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -3558,7 +5458,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3566,7 +5466,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3574,7 +5474,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3583,7 +5483,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3592,7 +5492,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3604,7 +5504,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"18"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3612,7 +5512,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"21"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3620,7 +5520,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"22"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3629,7 +5529,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"28"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3638,7 +5538,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"30"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -3647,7 +5547,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -3665,8 +5565,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular" [!$OSX]
-				"name"		"Nimbus Sans L Regular" [$OSX]
+				"name"		"DinPro-Bold" [!$OSX]
+				"name"		"DinPro-Bold" [$OSX]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -3678,7 +5578,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"6"
 				"weight"	"500"
 				"additive"	"0"
@@ -3689,14 +5589,14 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$X360]
 				"weight"	"700"
@@ -3704,21 +5604,21 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -3728,7 +5628,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -3738,7 +5638,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -3748,7 +5648,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -3757,7 +5657,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -3766,7 +5666,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -3778,7 +5678,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -3791,7 +5691,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -3804,7 +5704,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -3816,7 +5716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -3827,7 +5727,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -3838,7 +5738,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -3850,7 +5750,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3861,7 +5761,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -3872,7 +5772,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -3883,7 +5783,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -3896,7 +5796,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -3909,7 +5809,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -3921,7 +5821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -3932,7 +5832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3943,7 +5843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -3955,7 +5855,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3966,7 +5866,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3978,7 +5878,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3989,7 +5889,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -4000,7 +5900,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -4011,7 +5911,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -4022,7 +5922,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -4033,7 +5933,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -4044,7 +5944,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -4055,7 +5955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -4068,7 +5968,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -4143,7 +6043,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -4156,7 +6056,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"tall_hidef"	"22"
 				"tall_lodef"	"22"
@@ -4169,7 +6069,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -4180,7 +6080,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -4191,7 +6091,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -4204,7 +6104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -4216,7 +6116,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"15"
 				"weight"	"700"
 				"antialias" 	"1"
@@ -4226,7 +6126,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"15"	[$WIN32]
 				"tall"		"21"	[$X360]
 				"weight"	"700"
@@ -4237,7 +6137,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -4246,7 +6146,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"21"
 				"weight"	"900"
 				"antialias" 	"1"
@@ -4255,7 +6155,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"1000"
 				"antialias" 	"1"
@@ -4329,7 +6229,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "FuturaStd-Medium"
+				"name"  "DinPro-Medium"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -4421,7 +6321,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"antialias" "1"
 				"weight"	"500"
@@ -4431,7 +6331,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"tall_lodef"	"14"
 				"antialias" "1"
@@ -4442,7 +6342,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"antialias" "1"
 				"weight"	"500"
@@ -4453,7 +6353,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"13"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
@@ -4467,7 +6367,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Bold"
 				"tall"			"28"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -4482,7 +6382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Bold"
 				"tall"			"40"
 				"tall_lodef"	"48"
 				"tall_hidef"	"48"
@@ -4497,7 +6397,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"tall_lodef"	"36"
 				"tall_hidef"	"36"
@@ -4510,7 +6410,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Nimbus Sans L Regular"
+				"name"			"DinPro-Bold"
 				"tall"			"14" [!$OSX]
 				"tall"			"15" [$OSX]
 				"tall_lodef"	"32"
@@ -4524,7 +6424,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -4534,7 +6434,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -4547,7 +6447,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -4559,7 +6459,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -4571,7 +6471,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"tall_hidef"	"24"
 				"tall_lodef"	"24"
@@ -4585,7 +6485,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -4597,7 +6497,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -4609,7 +6509,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -4624,7 +6524,7 @@ Scheme
  		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -4636,7 +6536,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"52"
 				"tall_lodef"		"80"
 				"range" 	"0x0000 0x00FF"
@@ -4646,7 +6546,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"72"
 				"tall_hidef"	"120"
 				"range" 	"0x0000 0x00FF"
@@ -4656,7 +6556,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"100"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -4665,7 +6565,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"140"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -4674,7 +6574,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"180"
 				"range" 	"0x0000 0x00FF"
 				"weight"	"400"
@@ -4686,7 +6586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -4698,7 +6598,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -4709,7 +6609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"weight"	"400"
 				"additive"	"0"
@@ -4720,7 +6620,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -4731,7 +6631,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -4742,7 +6642,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"
@@ -4754,7 +6654,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -4768,7 +6668,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -4776,7 +6676,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -4784,7 +6684,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -4792,7 +6692,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -4800,7 +6700,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -4811,35 +6711,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"3"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -4849,35 +6749,35 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"2"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"13"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"3"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"dropshadow"	"1"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"dropshadow"	"1"
 				"antialias"	"1"
@@ -4901,7 +6801,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"tall_lodef"	"18"
 				"range" 		"0x0000 0x00FF"
@@ -4914,7 +6814,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -4926,7 +6826,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"8"
 				"weight"	"500"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -4939,7 +6839,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -4952,7 +6852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"9"
 				"tall_hidef"	"10"
 				"tall_lodef"	"16"
@@ -4966,7 +6866,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"11"  [!$OSX]
 				"tall"		"9"  [$OSX]
 				"weight"	"800"
@@ -4979,7 +6879,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -4989,7 +6889,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"30"
 				"tall_lodef"		"22"
 				"weight"	"500"
@@ -4999,7 +6899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"28"
 				"tall_lodef"	"24"
 				"weight"	"500"
@@ -5009,7 +6909,7 @@ Scheme
 		{
 			"1"			// brower item hostname
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"22"
 				"weight"	"900"
 			}
@@ -5018,7 +6918,7 @@ Scheme
 		{
 			"1"			// browser item players and map name
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"900"
 			}
@@ -5027,7 +6927,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"22"
 				"weight"	"500"
 			}
@@ -5036,7 +6936,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"500"
 			}
@@ -5045,7 +6945,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"22"
 				"tall_lodef"		"18"
 				"weight"	"900"
@@ -5055,7 +6955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"18"
 				"tall_lodef"		"18"
 				"weight"	"900"
@@ -5065,7 +6965,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"15"
 				"weight"	"900"
 			}
@@ -5075,7 +6975,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"36"
 				"weight"	"500"
 				"additive"	"0"
@@ -5086,7 +6986,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"600"
 				"additive"	"0"
@@ -5097,7 +6997,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"400"
 				"additive"	"0"
@@ -5108,7 +7008,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"900"
 				"antialias" "1"
@@ -5118,7 +7018,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"10"
 				"weight"	"600"
 				"additive"	"0"
@@ -5129,7 +7029,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -5151,7 +7051,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5160,7 +7060,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5169,7 +7069,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5182,7 +7082,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -5193,7 +7093,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5204,7 +7104,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5215,7 +7115,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"12"
 				"weight"	"500"
 				"additive"	"0"
@@ -5226,7 +7126,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"500"
 				"additive"	"0"
@@ -5237,7 +7137,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"weight"	"500"
@@ -5247,7 +7147,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -5258,7 +7158,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5269,7 +7169,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5281,7 +7181,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -5292,7 +7192,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"500"
 				"blur"		"3"
@@ -5305,7 +7205,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -5316,7 +7216,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"additive"	"1"
@@ -5327,7 +7227,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -5337,7 +7237,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"blur"		"3"
@@ -5350,7 +7250,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"7"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -5435,7 +7335,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"20"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
@@ -5447,7 +7347,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -5456,7 +7356,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -5465,7 +7365,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -5478,7 +7378,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -5488,7 +7388,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -5498,7 +7398,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -5512,7 +7412,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -5521,7 +7421,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -5530,7 +7430,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -5543,7 +7443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -5555,7 +7455,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -5567,7 +7467,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -5579,7 +7479,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"weight"	"400"
 				"additive"	"0"
@@ -5590,7 +7490,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias" 	"1"
@@ -5601,7 +7501,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"8"
 				"weight"	"400"
 				"antialias" "1"
@@ -5613,7 +7513,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Nimbus Sans L Regular"
+				"name"		"DinPro-Bold"
 				"tall"		"9"
 				"weight"	"400"
 				"antialias" "1"
@@ -5629,7 +7529,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5637,7 +7537,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5645,7 +7545,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5654,7 +7554,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5663,7 +7563,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -5675,7 +7575,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5686,7 +7586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -5694,7 +7594,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -5702,7 +7602,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -5711,7 +7611,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -5720,7 +7620,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"FuturaStd-Medium"
+				"name"		"DinPro-Medium"
 				"tall"		"22"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -5739,7 +7639,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -5750,7 +7650,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -5761,7 +7661,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -5774,7 +7674,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -5785,7 +7685,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -5802,7 +7702,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -5813,7 +7713,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -5825,7 +7725,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"FuturaStd-Heavy"
+				"name"		"DinPro-Bold"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin

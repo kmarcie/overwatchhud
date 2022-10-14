@@ -210,7 +210,7 @@
 				"wide"			"p0.18"
 				"tall"			"p0.085"
 				
-				"defaultFgColor_override" "235 226 202 255"
+				"defaultFgColor_override" "OWWHITE"
 				"armedFgColor_override" "oworange"
 				"depressedFgColor_override" "200 100 80 255"
 			}

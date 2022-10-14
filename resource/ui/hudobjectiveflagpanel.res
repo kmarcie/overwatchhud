@@ -213,7 +213,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%bluescore%"
-		"font"			"FuturaBold24"
+		"font"			"DinBold24"
 		"fgcolor"		"oworange"
 		
 		"if_hybrid"
@@ -251,7 +251,7 @@
 		"enabled"		"0"
 		"textAlignment"	"east"	
 		"labelText"		"%bluescore%"
-		"font"			"FuturaBold24"
+		"font"			"DinBold24"
 		"fgcolor"		"oworange"
 		
 		"if_hybrid"
@@ -283,7 +283,7 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%redscore%"
-		"font"			"FuturaBold24"
+		"font"			"DinBold24"
 		"fgcolor"		"oworange"	
 		
 		"if_hybrid"

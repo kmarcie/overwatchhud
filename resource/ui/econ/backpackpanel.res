@@ -234,7 +234,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"FuturaBold18"
+		"font"			"DinBold18"
 		"labelText"		"VIEWING ALL ITEMS"
 		"textAlignment"	"center"
 		"xpos"			"35"
@@ -346,7 +346,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"NameFilterLabel"
-		"font"			"FuturaBold14"
+		"font"			"DinBold14"
 		"labelText"		"SEARCH"
 		"textAlignment"	"west"
 		"xpos"			"c+137"
@@ -380,14 +380,14 @@
 		"fgcolor_override"	"owFULLWHITE"
 		"bgcolor_override"	"0 0 0 150"
 		"paintbackgroundtype" "0"
-		"font"		"FuturaBold14"
+		"font"		"DinBold14"
 	}
 	
 	"SortByComboBox"
 	{
 		"ControlName"		"ComboBox"
 		"fieldName"			"SortByComboBox"
-		"font"				"FuturaBold14"
+		"font"				"DinBold14"
 		"xpos"				"c137"
 		"ypos"				"50"
 		"zpos"				"1"
@@ -403,7 +403,7 @@
 		"NumericInputOnly"	"0"
 		"unicode"			"0"
 		"default"			"0"
-		"font"				"FuturaBold14"
+		"font"				"DinBold14"
 
 		"fgcolor_override"	"owFULLWHITE"
 		"bgcolor_override"	"0 0 0 0"

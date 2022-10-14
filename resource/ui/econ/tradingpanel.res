@@ -297,7 +297,7 @@
 		"PaintBackgroundType" "0"
 		
 		"armedBgColor_override" "oworange"
-		"defaultBgColor_override" "235 226 202 255"
+		"defaultBgColor_override" "OWWHITE"
 	}	
 	"MyReadyImageBGCenter"
 	{

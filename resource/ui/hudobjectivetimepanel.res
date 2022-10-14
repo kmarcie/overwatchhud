@@ -89,7 +89,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"FuturaBold11"
+		"font"			"DinBold11"
 		"fgcolor_override"		"owFULLWHITE"
 		"bgcolor_override"	"0 0 0 75"
 
@@ -140,7 +140,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"FuturaBold11"
+		"font"			"DinBold11"
 		"fgcolor_override"		"owFULLWHITE"
 		"bgcolor_override"	"0 0 0 75"
 
@@ -191,7 +191,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"FuturaBold12"
+		"font"			"DinBold12"
 		"fgcolor_override"		"owFULLWHITE"
 		"bgcolor_override"	"0 0 0 75"
 
@@ -242,7 +242,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"FUTURABOLD12"
+		"font"			"DinBold12"
 		"bgcolor_override"	"0 0 0 75"
 
 
@@ -292,7 +292,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"FuturaBold11"
+		"font"			"DinBold11"
 		"fgcolor_override"		"owFULLWHITE"
 		"bgcolor_override"	"0 0 0 75"
 

@@ -26,7 +26,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"PaintBackgroundType" "2"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"OWWHITE"
 			"bgcolor_override"	"184 108 55 255"
 		}
 	}
@@ -96,13 +96,13 @@
 			
 		"paintbackground"	"0"
 			
-		//"defaultFgColor_override" "235 226 202 255"
+		//"defaultFgColor_override" "OWWHITE"
 		//"armedFgColor_override" "46 43 42 255"
 		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
+		"armedFgColor_override" "OWWHITE"
 		"depressedFgColor_override" "46 43 42 255"
 			
-		"image_drawcolor"	"235 226 202 255"
+		"image_drawcolor"	"OWWHITE"
 		"image_armedcolor"	"oworange"
 		"SubImage"
 		{
@@ -280,9 +280,9 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 			
-		"defaultFgColor_override" "235 226 202 255"
+		"defaultFgColor_override" "OWWHITE"
 		"defaultBgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
-		"depressedFgColor_override" "235 226 202 255"
+		"armedFgColor_override" "OWWHITE"
+		"depressedFgColor_override" "OWWHITE"
 	}	
 }

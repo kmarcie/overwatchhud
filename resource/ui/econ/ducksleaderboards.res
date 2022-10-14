@@ -300,7 +300,7 @@
 				"armedFgColor_override" "oworange"
 				"depressedFgColor_override" "46 43 42 255"
 			
-				"image_drawcolor"	"235 226 202 255"
+				"image_drawcolor"	"OWWHITE"
 				"image_armedcolor"	"255 255 255 255"
 				"SubImage"
 				{
@@ -351,7 +351,7 @@
 				"armedFgColor_override" "oworange"
 				"depressedFgColor_override" "46 43 42 255"
 			
-				"image_drawcolor"	"235 226 202 255"
+				"image_drawcolor"	"OWWHITE"
 				"image_armedcolor"	"255 255 255 255"
 				"SubImage"
 				{
@@ -401,7 +401,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"OWWHITE"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}

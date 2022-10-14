@@ -4,7 +4,7 @@
 	{
 		"ControlName"					"EditablePanel"
 		"fieldName"						"FreezePanelBase"
-		"xpos"							"40"
+		"xpos"							"c50"
 		"ypos"							"c40"
 		"wide"							"f0"
 		"tall"							"480"
@@ -99,7 +99,7 @@
 		{	
 			"ControlName"				"Label"
 			"fieldName"					"FreezeLabelKillerName"
-			"font"						"FuturaBold28"
+			"font"						"DinBold28"
 			"fgcolor_override"			"owfullwhite"
 			"xpos"						"28"
 			"ypos"						"35"
@@ -117,7 +117,7 @@
 		{	
 			"ControlName"				"Label"
 			"fieldName"					"FreezeLabelKillerNameShadow"
-			"font"						"FuturaBoldBlur28"
+			"font"						"DinBoldBlur28"
 			"fgcolor_override"			"owoutline"
 			"xpos"						"28"
 			"ypos"						"35"

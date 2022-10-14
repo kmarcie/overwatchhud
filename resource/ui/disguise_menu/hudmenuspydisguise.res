@@ -4,10 +4,10 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"BlackBG"
-		"xpos"			"47"
+		"xpos"			"40"
 		"ypos"			"100"
 		"zpos"			"0"
-		"wide"			"205"
+		"wide"			"225"
 		"tall"			"100"
 		"image"			"replay/thumbnails/backpack_border"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -19,8 +19,8 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Oblique32"
-		"xpos"			"51"			// align me to the left edge of the first selection
+		"font"			"DinBlack24"
+		"xpos"			"55"			// align me to the left edge of the first selection
 		"ypos"			"98"
 		"zpos"			"16"
 		"wide"			"360"
@@ -29,18 +29,18 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"disguise"
+		"labelText"		"DISGUISE"
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"	"owORANGE"
+		"fgcolor_override"	"oworange"
 	}
 	"DisguiseLabels"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"DisguiseLabels"
-		"font"			"FuturaBold24"
-		"xpos"			"-34"
+		"font"			"DinBold20"
+		"xpos"			"-35"
 		"ypos"			"133"
 		"zpos"			"16"
 		"wide"			"360"
@@ -49,11 +49,11 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"1  2  3  4  5  6  7  8  9"
+		"labelText"		"1    2    3    4    5    6    7    8    9"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"	"owORANGE"
+		"fgcolor_override"	"owwhite"
 	}
 	"ClassSymbols"
 	{	
@@ -73,7 +73,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor_override"	"owORANGE"
+		"fgcolor_override"	"owwhite"
 	}
 	"class_item_red_1"
 	{

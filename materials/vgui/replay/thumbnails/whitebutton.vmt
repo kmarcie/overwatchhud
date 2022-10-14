@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "vgui/replay/thumbnails/scoreboard_tint_BLUE"
+	"$baseTexture" "vgui/replay/thumbnails/whitebutton"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1

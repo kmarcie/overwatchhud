@@ -94,7 +94,7 @@
 			"enabled"		"1"
 			"labelText"		"%itemname%"
 			"textAlignment"	"south"
-			"fgcolor"		"235 226 202 255"
+			"fgcolor"		"OWWHITE"
 			"centerwrap"	"1"
 		}
 		"attriblabel"

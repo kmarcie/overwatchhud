@@ -189,7 +189,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"SelectedItemNumberLabel"
-		"font"			"FuturaBold18"
+		"font"			"DinBold18"
 		"labelText"		"#SelectedItemNumber"
 		"textAlignment"	"north-west"
 		"xpos"			"c-245"
@@ -353,8 +353,8 @@
 		"armedBgColor_override" "145 73 59 255"
 		"depressedBgColor_override" "117 107 94 255"
 			
-		"image_drawcolor"	"235 226 202 255"		
-		"image_armedcolor"	"235 226 202 255"
+		"image_drawcolor"	"OWWHITE"		
+		"image_armedcolor"	"OWWHITE"
 
 			"border_default"			"BlueButton"
 			"border_armed"				"BlueButtonSel"
@@ -409,7 +409,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"OWWHITE"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}

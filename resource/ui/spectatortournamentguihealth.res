@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"FuturaBold12"
+		"font"			"DinBold12"
 		"fgcolor"		"owfullwhite"
 	}
 	"PlayerStatusHealthValueS"
@@ -84,7 +84,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"FuturaBoldBlur12"
+		"font"			"DinBoldBlur12"
 		"fgcolor"		"owOUTLINE"
 	}
 }

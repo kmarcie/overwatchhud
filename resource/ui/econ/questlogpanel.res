@@ -85,7 +85,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"OWWHITE"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}
@@ -302,7 +302,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"235 226 202 255" // tanlight
+			"bgcolor_override"	"OWWHITE" // tanlight
 			"proportionaltoparent"	"1"
 
 			"BadgeProgressMeter"
@@ -382,7 +382,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"235 226 202 255" // tanlight
+			"bgcolor_override"	"OWWHITE" // tanlight
 			"proportionaltoparent"	"1"
 
 			"ContractsCompletedProgressMeter"

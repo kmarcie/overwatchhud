@@ -538,7 +538,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"SquadSurplusCheckLabel"
-			"font"			"FuturaBold11"
+			"font"			"DinBold11"
 			"labelText"		"#TF_MvM_ActivateSquadSurplus"
 			"textAlignment"	"north-west"
 			"wrap"			"1"

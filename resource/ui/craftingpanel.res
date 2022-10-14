@@ -279,7 +279,7 @@
 			"enabled"		"0"
 			"tabPosition"	"0"
 			"labelText"		"CRAFT"
-			"font"			"FuturaBold16"
+			"font"			"DinBold16"
 			"textAlignment"	"center"
 			"textinsetx"	"50"
 			"dulltext"		"0"

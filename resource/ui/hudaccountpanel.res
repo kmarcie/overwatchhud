@@ -2,13 +2,13 @@
 {
 	"CHudAccountPanel"
 	{
-		"delta_item_x"			"28"
-		"delta_item_start_y"	"95"
-		"delta_item_end_y"		"75"
-		"PositiveColor"			"oworange"
+		"delta_item_x"			"15"
+		"delta_item_start_y"	"130"
+		"delta_item_end_y"		"130"
+		"PositiveColor"			"owgreen"
 		"NegativeColor"			"owteamred"
-		"delta_lifetime"		"1.5"
-		"delta_item_font"		"FuturaBold14"
+		"delta_lifetime"		"1.2"
+		"delta_item_font"		"DinBold14"
 	}
 	
 	"AccountBG"
@@ -22,31 +22,31 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"			"0 0 0 125"
+		"fillcolor"			"0 0 0 0"
 	}
 	
 	"MetalIcon"	
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"MetalIcon"
-		"xpos"			"9"
-		"ypos"			"116"
+		"xpos"			"3"
+		"ypos"			"119"
 		"zpos"			"1"
-		"wide"			"0"
-		"tall"			"0"
+		"wide"			"10"
+		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"ProgressOffWhite"
+		"iconColor"		"255 255 255 200"
 	}
 	
 	"AccountValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AccountValue"
-		"xpos"			"15"
-		"ypos"			"112"
+		"xpos"			"0"
+		"ypos"			"110"
 		"ypos_lodef"	"121"
 		"zpos"			"2"
 		"wide"			"55"

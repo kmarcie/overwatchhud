@@ -212,7 +212,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PresetLabel"
-		"font"			"FuturaBold9"
+		"font"			"DinBold9"
 		"xpos"			"c-165"
 		"ypos"			"82"
 		"zpos"			"0"	
@@ -263,7 +263,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"FuturaBold20"
+		"font"			"DinBold20"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"center"
 		"xpos"			"25"
@@ -583,7 +583,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"
@@ -657,7 +657,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
-		"font"			"futurabold14"
+		"font"			"DinBold14"
 		"textAlignment"	"center"
 		"paintbackground"	"0"
 		
@@ -703,7 +703,7 @@
 		"brighttext"	"0"
 		"default"		"0"
 		"paintbackground"	"0"
-		"font"			"futurabold14"
+		"font"			"DinBold14"
 		"textAlignment"	"center"
 		
 		"fgcolor"		"owFULLWHITE"
@@ -818,7 +818,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"

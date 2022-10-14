@@ -9,8 +9,8 @@
 		"PositiveColor"			"255 255 255 255"
 		"NegativeColor"			"255 255 255 255"
 		"delta_lifetime"		"1.25"
-		"delta_item_font"		"Oblique21"
-		"delta_item_font_big"	"Oblique21"
+		"delta_item_font"		"DinBold21"
+		"delta_item_font_big"	"DinBlack21"
 	}
 	Hitmarker
 	{

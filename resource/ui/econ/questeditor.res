@@ -52,7 +52,7 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 		
-			"image_drawcolor"	"235 226 202 255"
+			"image_drawcolor"	"OWWHITE"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"

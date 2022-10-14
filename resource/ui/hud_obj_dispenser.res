@@ -73,7 +73,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
-			"font"			"FuturaBold10"
+			"font"			"DinBold10"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"
@@ -196,7 +196,7 @@
 		{	
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
-			"font"			"FuturaBold9"
+			"font"			"DinBold9"
 			"xpos"			"13"
 			"ypos"			"3"
 			"wide"			"8"
@@ -224,7 +224,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"BuildingLabel"
-				"font"			"FuturaBold10"
+				"font"			"DinBold10"
 				"xpos"			"0"
 				"ypos"			"5"
 				"wide"			"200"
@@ -243,7 +243,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"BuildingProgress"
-				"font"			"FuturaBold9"
+				"font"			"DinBold9"
 				"xpos"			"0"
 				"ypos"			"16"
 				"wide"			"50"
@@ -288,7 +288,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"Ammo"
-				"font"			"FuturaBold9"
+				"font"			"DinBold9"
 				"xpos"			"12"
 				"ypos"			"6"
 				"wide"			"38"
@@ -322,7 +322,7 @@
 			{	
 				"ControlName"	"ContinuousProgressBar"
 				"fieldName"		"Upgrade"
-				"font"			"FuturaBold9"
+				"font"			"DinBold9"
 				"xpos"			"12"
 				"ypos"			"17"
 				"wide"			"38"

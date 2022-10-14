@@ -86,11 +86,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"ModeButton"
-		"xpos"			"rs1-6"
-		"ypos"			"2"
+		"xpos"			"c0"
+		"ypos"			"5"
 		"zpos"			"6"
 		"wide"			"122"
-		"tall"			"15"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%button_token%"
@@ -105,15 +105,15 @@
 		"proportionaltoparent" "1"
 		"actionsignallevel"	"2"
 
-		//"border_default"	"MainMenuMiniButtonDefault"
-		//"border_armed"		"MainMenuMiniButtonArmed"
-		"paintbackground"	"1"
+		"border_default"	"Blank"
+		"border_armed"		"Blank"
+		"paintbackground"	"0"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"defaultFgColor_override"	"TanLight"
-		"armedFgColor_override"		"TanLight"
+		"armedFgColor_override"		"255 255 255 200"
 		"depressedFgColor_override" "TanLight"
 	}	
 
@@ -220,13 +220,13 @@
 		"sound_released"	"UI/buttonclickrelease.wav"
 				
 		"defaultFgColor_override" "46 43 42 255"
-		"armedFgColor_override" "235 226 202 255"
+		"armedFgColor_override" "OWWHITE"
 		"depressedFgColor_override" "46 43 42 255"
 		"defaultBgColor_override" "0 0 0 0"
 		"armedBgColor_override" "0 0 0 0"
 		"depressedBgColor_override" "0 0 0 0"
 				
-		"image_drawcolor"	"235 226 202 255"
+		"image_drawcolor"	"OWWHITE"
 		"image_armedcolor"	"235 140 140 255"
 		"SubImage"
 		{

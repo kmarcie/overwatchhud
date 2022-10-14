@@ -424,7 +424,7 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 			"wrap"				"0"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"OWWHITE"
 			"bgcolor_override"	"0 0 0 60"
 			"paintbackgroundtype" "2"
 			"labelText"			""

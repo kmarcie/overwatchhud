@@ -27,14 +27,14 @@
 		"label"			""
 		"command"		"null"
 		"OnlyInGame"	"1"
-		"subimage" "replay/thumbnails/ow_logo"
+		"subimage" "replay/thumbnails/menu/menu"
 	}
 	"WHITELINE"
 	{
 		"label"			""
 		"command"		"null"
 		"OnlyInGame"	"1"
-		"subimage" "replay/thumbnails/whitetrans"
+		"subimage" "replay/thumbnails/blacktransparent"
 	}
 	"ResumeGameButton"
 	{
@@ -52,21 +52,21 @@
 	}
 	"DisconnectButton"
 	{
-		"label" "LEAVE GAME" 
+		"label" "EXIT" 
 		"command" "engine disconnect"
 		"subimage" "replay/thumbnails/menu/flare"
 		"OnlyInGame" "1"
 	}
 	"SettingsButtonINGAME"
 	{
-		"label" "OPTIONS" 
+		"label" "SETTINGS" 
 		"command" "OpenOptionsDialog"
 		"subimage" "replay/thumbnails/bg_blank"
 		"OnlyInGame" "1"
 	}
 	"AdvancedOptionsINGAME"
 	{
-		"label"			"ADVANCED"
+		"label"			"ADVANCED OPTIONS"
 		"command"		"opentf2options"
 		"OnlyInGame"	"1"
 		"subimage" "replay/thumbnails/bg_blank"
@@ -178,7 +178,7 @@
 	}
 	"HUDlabel"
 	{
-		"label" "Overwatch HUD by nimtra - v2022.10.04" 
+		"label" "Overwatch HUD by nimtra - v2022.10.13" 
 		"command" "null"
 		"subimage" "replay/thumbnails/blank"
 		"OnlyAtMenu" "1"

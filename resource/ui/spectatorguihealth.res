@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"futurabold12"
+		"font"			"DinBold12"
 		"fgcolor"		"owfullwhite"
 	}
 	"PlayerStatusHealthValueShadow"
@@ -84,7 +84,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"futuraboldblur12"
+		"font"			"DinBoldblur12"
 		"fgcolor"		"0 0 0 255"
 	}
 	"PlayerStatusPlayerLevel"

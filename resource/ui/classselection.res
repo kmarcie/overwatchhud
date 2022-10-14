@@ -39,12 +39,12 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"25"
-		"labelText"		"PICK YOUR CLASS"
+		"labelText"		"PICK A CLASS"
 		"textAlignment"	"west"
 		"font"			"Oblique36"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"owTEAL"
+		"fgcolor_override"	"owwhite"
 	}
 	"SelectAClassLabel2"
 	{
@@ -55,44 +55,44 @@
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"25"
-		"labelText"		"PICK YOUR CLASS"
+		"labelText"		"PICK A CLASS"
 		"textAlignment"	"west"
 		"font"			"ObliqueBlur36"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"owTEAL"
+		"fgcolor_override"	"owblack"
 	}	
-	"mapname"
+	"faHint"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"mapname"
-		"xpos"			"25"
-		"ypos"			"65"
+		"fieldName"		"faHint"
+		"xpos"			"c-150"
+		"ypos"			"r175"
 		"zpos"			"1"
 		"wide"			"300"
-		"tall"			"25"
-		"labelText"		"when will you update this hud?"
-		"textAlignment"	"west"
+		"tall"			"30"
+		"labelText"		"ASSEMBLE YOUR TEAM"
+		"textAlignment"	"center"
 		"font"			"Oblique24"
 		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"	"owFULLWHITE"
 	}
-	"mapname2"
+	"faHint2"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"mapname2"
-		"xpos"			"25"
-		"ypos"			"65"
+		"fieldName"		"faHint2"
+		"xpos"			"c-150"
+		"ypos"			"r175"
 		"zpos"			"1"
 		"wide"			"300"
-		"tall"			"25"
-		"labelText"		"when will you update this hud?"
-		"textAlignment"	"west"
+		"tall"			"30"
+		"labelText"		"ASSEMBLE YOUR TEAM"
+		"textAlignment"	"center"
 		"font"			"ObliqueBlur24"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"owFULLWHITE"
+		"fgcolor_override"	"owblack"
 	}
 	"Blurfact" // broken
 	{
@@ -146,7 +146,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 1"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -182,7 +182,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 3"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -218,7 +218,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 7"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -274,7 +274,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 4"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -310,7 +310,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 6"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -346,7 +346,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 9"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"defaultFgColor_override" 	"255 255 255 128"
 		"armedFgColor_override"		"owFULLWHITE"
@@ -401,7 +401,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 5"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -437,7 +437,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 2"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -473,7 +473,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 8"
 		"Default"			"0"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		"scaleImage"		"1"
 		
 		"FgColor"					"255 255 255 128"
@@ -511,7 +511,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"Oblique12"
+		"font"				"DinBold12"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -547,7 +547,7 @@
 		"labelText"		"&E   Edit Loadout"
 		"textAlignment"	"west"
 		"Command"		"openloadout"
-		"font"			"Oblique12"
+		"font"			"DinBold12"
 		"paintbackground"	"0"
 		
 		"FgColor"					"255 255 255 128"
@@ -565,10 +565,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"c-30"
-		"ypos"			"r50"
+		"xpos"			"c-32"
+		"ypos"			"r54"
 		"zpos"			"6"
-		"wide"			"100"
+		"wide"			"70"
 		"tall"			"48"
 		"autoResize"	"0"
 		"pinCorner"		"2"
@@ -576,16 +576,12 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"CANCEL"
-		"textAlignment"	"west"
+		"textAlignment"	"center"
 		"Command"		"vguicancel"
-		"font"			"FuturaBold20"
+		"font"			"DinBold16"
 		"paintbackground"	"0"
 		
-		"FgColor"					"75 54 31 255"
-		"defaultFgColor_override" 	"75 54 31 255"
-		"armedFgColor_override"		"75 54 31 155"
-		"depressedFgColor_override" "75 54 31 155"
-		"selectedFgColor_override" 	"75 54 31 155"
+		"FgColor"					"owwhite"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -595,16 +591,18 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CancelButtonBG"
-		"xpos"			"c-56"
-		"ypos"			"r40"
+		"xpos"			"c-47"
+		"ypos"			"r45"
 		"zpos"			"5"
-		"wide"			"120"
+		"wide"			"100"
 		"tall"			"32"
 		"autoResize"	"0"
 		"pinCorner"		"0"
+		"border"	"owbutton"
+		"border_armed"		"owbuttonsel"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"replay/thumbnails/ow_button"
+		"image"			""
 		"scaleImage"	"1"
 	}
 	"ResetButton" [$WIN32] 
@@ -652,7 +650,7 @@
 		"fieldName"		"MenuBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"-9999"		
+		"zpos"			"-1000001"		
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"	"0"
@@ -943,8 +941,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numScout"
-		"xpos"			"c-150"
-		"ypos"			"r115"
+		"xpos"			"c-215"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -954,8 +952,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}	
 	
@@ -963,8 +961,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numSoldier"
-		"xpos"			"c-115"
-		"ypos"			"r115"
+		"xpos"			"c-181"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -974,8 +972,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}		
 	
@@ -983,8 +981,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numPyro"
-		"xpos"			"c-85"
-		"ypos"			"r115"
+		"xpos"			"c-148"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -994,8 +992,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}			
 	
@@ -1003,8 +1001,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numDemoman"
-		"xpos"			"c-15"
-		"ypos"			"r115"
+		"xpos"			"c-80"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -1014,8 +1012,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}				
 	
@@ -1023,8 +1021,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numHeavy"
-		"xpos"			"c15"
-		"ypos"			"r115"
+		"xpos"			"c-47"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -1034,8 +1032,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}					
 	
@@ -1043,8 +1041,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numEngineer"
-		"xpos"			"c45"
-		"ypos"			"r115"
+		"xpos"			"c-14"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -1054,8 +1052,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}						
 	
@@ -1063,8 +1061,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numMedic"
-		"xpos"			"c120"
-		"ypos"			"r115"
+		"xpos"			"c55"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -1074,8 +1072,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}							
 	
@@ -1083,8 +1081,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numSniper"
-		"xpos"			"c150"
-		"ypos"			"r115"
+		"xpos"			"c88"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -1094,8 +1092,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}						
 	
@@ -1103,8 +1101,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numSpy"
-		"xpos"			"c180"
-		"ypos"			"r115"
+		"xpos"			"c122"
+		"ypos"			"r110"
 		"zpos"			"5"
 		"wide"			"100"
 		"tall"			"14"
@@ -1114,8 +1112,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
-		"textAlignment"	"west"
-		"font"			"Oblique12"
+		"textAlignment"	"center"
+		"font"			"DinBold12"
 		"fgcolor"		"owFULLWHITE"
 	}								
 	
@@ -1371,7 +1369,7 @@
 		
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"-996"		
+		"zpos"			"-10000"		
 		"wide"			"f0"
 		"tall"			"f0"
 		
@@ -1556,7 +1554,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
+			"armedFgColor_override" "OWWHITE"
 			"depressedFgColor_override" "46 43 42 255"
 			
 			"image_drawcolor"	"117 107 94 255"

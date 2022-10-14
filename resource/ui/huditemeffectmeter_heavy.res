@@ -9,7 +9,7 @@
 		"ypos"			"r52"
 		"wide"			"200"
 		"tall"			"8"
-		"MeterFG"		"owORANGE"
+		"MeterFG"		"owwhite"
 		"MeterBG"		"0 0 0 100"
 	}
 	
@@ -36,7 +36,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"25"
+		"xpos"					"-126"
 		"ypos"					"2"
 		"zpos"					"2"
 		"wide"					"150"
@@ -47,11 +47,11 @@
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
-		"textAlignment"			"center"
+		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"oblique8"
-		"fgcolor_override"		"owORANGE"
+		"font"					"DinBold8"
+		"fgcolor_override"		"owwhite"
 	}
 
 	"ItemEffectMeter"
@@ -59,11 +59,11 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"25"
-		"ypos"					"0"
+		"xpos"					"30"
+		"ypos"					"4"
 		"zpos"					"2"
-		"wide"					"150"
-		"tall"					"2"				
+		"wide"					"50"
+		"tall"					"3"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
 		"visible"				"1"
@@ -72,6 +72,6 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"bgcolor_override"		"0 0 0 100"
-		"fgcolor_override"		"oworange"
+		"fgcolor_override"		"owwhite"
 	}					
 }

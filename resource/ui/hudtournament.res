@@ -123,7 +123,7 @@
 				"visible"		"1"
 				"labelText"		"%playername%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 					
 				if_mvm
 				{
@@ -353,7 +353,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 				
 				if_match
 				{
@@ -413,7 +413,7 @@
 				"visible"		"0"
 				"labelText"		"%specindex%"
 				"textAlignment"	"north-west"
-				//"fgcolor"		"235 226 202 255"
+				//"fgcolor"		"OWWHITE"
 				
 				if_match
 				{
@@ -470,7 +470,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"SetupLabela"
-		"font"			"FuturaBold14"
+		"font"			"DinBold14"
 		"xpos"			"74"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -506,7 +506,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentLabel"
-		"font"			"FuturaBold10"
+		"font"			"DinBold10"
 		"xpos"			"125"
 		"ypos"			"5"
 		"zpos"			"1"
@@ -577,7 +577,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"FuturaBold11"
+		"font"			"DinBold11"
 		"xpos"			"3"
 		"ypos"			"8"
 		"zpos"			"1"
@@ -614,7 +614,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"FuturaBold9"
+		"font"			"DinBold9"
 		"xpos"			"5"
 		"ypos"			"8"
 		"zpos"			"1"
@@ -684,7 +684,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"FuturaBold11"
+		"font"			"DinBold11"
 		"xpos"			"3"
 		"ypos"			"28"
 		"zpos"			"1"
@@ -719,7 +719,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"FuturaBold9"
+		"font"			"DinBold9"
 		"xpos"			"5"
 		"ypos"			"28"
 		"zpos"			"1"
@@ -754,7 +754,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"FuturaBold11"
+		"font"			"DinBold11"
 		"fgcolor"		"TanLight"
 		"xpos"			"74"
 		"ypos"			"25"
@@ -789,7 +789,7 @@
 			"xpos"			"c-195"
 			"ypos"			"105"
 			"visible"		"1"
-			"font"			"FuturaBold11"
+			"font"			"DinBold11"
 		}
 	}
 	"tourneybg"
