@@ -2877,4 +2877,19 @@
 		"zpos"				"500"
 		"visible"			"1"
 	}
+	
+
+	"InspectionPanel"
+	{
+		"fieldName"		"InspectionPanel"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
+		"zpos"			"2000"
+		"wide"			"f0"
+		"tall"			"f100"
+		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"bgcolor_override"	"30 25 25 245"
+	}
+
 }
