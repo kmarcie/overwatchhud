@@ -3,16 +3,6 @@
 TF2 HUD based off of Overwatch
 
 Screenshots: http://imgur.com/a/U1gfV
-
-Any questions? Ask in the TFTV thread
-
-If you encounter any bugs while using this hud, please report them in the teamfortresstv thread. commenting on my profile (http://steamcommunity.com/id/cieram) works too, but the first option is much preferred. please provide a screenshot of it, if possible.
-
-Don't redistribute this HUD anywhere. HUDS.TF and GitHub is the only place you can get this from. (@Gamebanana)
-
-Warhuryeah and CommanderX don't like my HUD. FeelsBadMan
-https://www.twitch.tv/teamfortresstv/v/77502650?t=30m26s
-"Everythings bad, the text, the numbers, the pictures, the cap points..."
 	
 ![alt tag](http://puu.sh/pXEu9/8abb73eff0.png)	
 
@@ -21,7 +11,7 @@ Main menu message of the day doesn't work
 
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
 
-16:9 - made on 1920x1080. works for other resolutions
+16:9 - made on 1920x1080. works for other resolutions. some offsets for 1440p users
 
 16:10 - works. maybe slight offsets. shouldn't be bad
 
@@ -29,15 +19,10 @@ Main menu message of the day doesn't work
 
 ![alt tag](http://puu.sh/pXEp7/fec3bfbea3.png)	
 
-SUPPORT FOR MANN VS MACHINE
+Any questions? Ask in the TFTV thread
 
-as of right now, i will not be editing the mvm elements. i will do those at a later date. i do not play this gamemode often enough. i definitely will edit the elements later on, but i do not plan on it for a bit. the hud is definitely usable with MVM and i don't think it is bugged at all.  it just looks like stock for now. i'm currently not very sure what to do with the mvm elements in terms of making this work in the theme of overwatch.
-
-CHOICES
-
-some of the things i wanted to do in this hud were not possible.
-	
-i tried to make this hud as close as possible to the original overwatch hud. i did not add animated backgrounds because it would add to the (already) big filesize. i do not want my hud to be half a gigabyte.
+If you encounter any bugs while using this hud, please report them in the teamfortresstv thread or report it as an issue in this repository. 
+commenting on my profile (http://steamcommunity.com/id/kmarcie) works too, but the first option is much preferred. please provide a screenshot of it, if possible.
 	
 ![alt tag](http://puu.sh/pXEnu/977413608e.png)
  - jarateking - letting me use his centered targetids
