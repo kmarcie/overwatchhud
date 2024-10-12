@@ -577,7 +577,7 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
 				"xpos"			"cs-0.5"
-				"ypos"			"10"
+				"ypos"			"11"
 				"zpos"			"1"
 				"wide"			"10"
 				"tall"			"10"
@@ -615,7 +615,7 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"RoundedCorners"	"0"
-			"textinsety"	"5"
+			"textinsety"	"2"
 			"textinsetx"	"22"
 			"use_proportional_insets"	"1"
 
@@ -674,8 +674,8 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"5"
-			"textinsetx"	"22"
+			"textinsety"	"2"
+			"textinsetx"	"20"
 			"use_proportional_insets"	"1"
 
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -732,7 +732,7 @@
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
 			"roundedcorners"	"1"
-			"textinsety"	"6"
+			"textinsety"	"2"
 			"textinsetx"	"0"
 			"use_proportional_insets"	"1"
 
