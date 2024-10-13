@@ -116,8 +116,8 @@
 	"TrainingButton"
 	{
 		"label" ""
-		"command" "offlinepractice"
-		"subimage" "replay/thumbnails/menu/training"
+		"command" "OpenServerBrowser"
+		"subimage" "replay/thumbnails/menu/play"
 		"OnlyAtMenu" "1"
 	}
 	"CharacterSetupButton"
@@ -178,7 +178,7 @@
 	}
 	"HUDlabel"
 	{
-		"label" "Overwatch HUD by nimtra - v2022.10.13" 
+		"label" "Overwatch HUD by marcie - v2024.10.13" 
 		"command" "null"
 		"subimage" "replay/thumbnails/blank"
 		"OnlyAtMenu" "1"

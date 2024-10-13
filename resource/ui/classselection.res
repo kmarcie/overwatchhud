@@ -146,7 +146,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 1"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -182,7 +182,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 3"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -218,7 +218,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 7"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -274,7 +274,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 4"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -310,7 +310,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 6"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -346,7 +346,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 9"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"defaultFgColor_override" 	"255 255 255 128"
 		"armedFgColor_override"		"owFULLWHITE"
@@ -401,7 +401,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 5"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -437,7 +437,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 2"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -473,7 +473,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 8"
 		"Default"			"0"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		"scaleImage"		"1"
 		
 		"FgColor"					"255 255 255 128"
@@ -511,7 +511,7 @@
 		"textAlignment"		"west"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"DinBold12"
+		"font"				"DinBold10"
 		
 		"FgColor"					"255 255 255 128"
 		"defaultFgColor_override" 	"255 255 255 128"
@@ -547,7 +547,7 @@
 		"labelText"		"&E   Edit Loadout"
 		"textAlignment"	"west"
 		"Command"		"openloadout"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"paintbackground"	"0"
 		
 		"FgColor"					"255 255 255 128"
@@ -953,7 +953,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}	
 	
@@ -973,7 +973,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}		
 	
@@ -993,7 +993,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}			
 	
@@ -1013,7 +1013,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}				
 	
@@ -1033,7 +1033,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}					
 	
@@ -1053,7 +1053,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}						
 	
@@ -1073,7 +1073,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}							
 	
@@ -1093,7 +1093,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}						
 	
@@ -1113,7 +1113,7 @@
 		"tabPosition"	"0"
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
-		"font"			"DinBold12"
+		"font"			"DinBold10"
 		"fgcolor"		"owFULLWHITE"
 	}								
 	

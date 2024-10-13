@@ -160,6 +160,93 @@
 			"centerwrap"	"1"
 		}
 	}
+	
+	"CycleRankTypeButton"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"CycleRankTypeButton"
+		"xpos"			"r77"
+		"ypos"			"30"
+		"zpos"			"1"
+		"wide"			"10"
+		"tall"			"10"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"textinsetx"	"25"
+		"labelText"		""
+		"use_proportional_insets" "1"
+		"font"			"HudFontSmallBold"
+		"command"		"open_rank_type_menu"
+		"textAlignment"	"west"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"vo/null.mp3"
+		"actionsignallevel" "1"
+		"proportionaltoparent"	"1"
+				
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		"paintbackground"	"0"
+		"paintborder"		"0"
+		"image_drawcolor"	"OwWhite"
+		"image_armedcolor"	"OwYellow"
+
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"cs-0.5"
+			"ypos"			"cs-0.5"
+			"zpos"			"1"
+			"wide"			"f2"
+			"tall"			"f2"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"
+			"image"			"glyph_options"
+
+			"proportionaltoparent"	"1"
+			"mouseinputenabled"	"0"
+			"keyboardinputenabled" "0"
+		}		
+	}
+
+	"RankPanel"
+	{
+		"ControlName"	"CPvPRankPanel"
+		"fieldName"		"RankPanel"
+		"xpos"			"c120"
+		"ypos"			"10"
+		"zpos"			"-1"
+		"wide"			"320"
+		"tall"			"100"
+		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"0"
+
+		"matchgroup"	"MatchGroup_Casual_12v12"
+
+		"show_model"	"0"
+		"show_type"		"1"
+	}
+	"RankBG"
+	{
+		"ControlName"		"ScalableImagePanel"
+		"fieldName"			"RankBG"
+		"xpos"				"c210"
+		"ypos"				"30"
+		"zpos"				"-2"
+		"wide"				"150"
+		"tall"				"30"
+		"visible"			"1"
+		"enabled"			"1"
+		"image"				"replay/thumbnails/menu/rankpanel"
+	}
 	"WelcomeLabelAnchor" // BORKED BY MYM AAAAAAAAAAAAAAA
 	{
 		"ControlName"	"EditablePanel"
@@ -309,7 +396,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"TFLogoImage"
 		"xpos"			"35"
-		"ypos"			"62"
+		"ypos"			"30"
 		"zpos"			"-99"
 		"wide"			"300"
 		"tall"			"25"
@@ -340,7 +427,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"TF2LogoW"
 		"xpos"			"26"
-		"ypos"			"62"
+		"ypos"			"30"
 		"zpos"			"-99"
 		"wide"			"300"
 		"tall"			"25"
@@ -781,7 +868,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldname"		"HUDLabel"
 		"xpos"			"30"
-		"ypos"			"76"
+		"ypos"			"44"
 		"zpos"			"11"
 		"wide"			"200"
 		"tall"			"30"
@@ -803,7 +890,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"0"
 			"use_proportional_insets" "1"
-			"font"			"DinBold11"
+			"font"			"DinBold9"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -969,6 +1056,7 @@
 			}		
 		}
 	}
+
 	"CharacterSetupButton"
 	{
 		"ControlName"	"EditablePanel"
@@ -2759,8 +2847,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ReportPlayerButton"
-		"xpos"			"r75"
-		"ypos"			"50"
+		"xpos"			"c-5"
+		"ypos"			"315"
 		"zpos"			"12"
 		"wide"			"26"
 		"tall"			"26"
@@ -2821,8 +2909,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CallVoteButton"
-		"xpos"			"r100"
-		"ypos"			"50"
+		"xpos"			"c-55"
+		"ypos"			"315"
 		"zpos"			"12"
 		"wide"			"26"
 		"tall"			"26"
@@ -2882,8 +2970,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
-		"xpos"			"r125"
-		"ypos"			"50"
+		"xpos"			"c-30"
+		"ypos"			"315"
 		"zpos"			"12"
 		"wide"			"26"
 		"tall"			"26"

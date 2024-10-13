@@ -4,13 +4,11 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ModelContainer"
-
-		"xpos"			"cs-0.5-240"
-		"ypos"			"cs-0.45"
-
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5"
 		"zpos"			"3"		
-		"wide"			"o1"
-		"tall"			"500"
+		"wide"			"f0"
+		"tall"			"f0"
 		"proportionaltoparent"	"1"
 		"actionsignallevel"	"2"
 
@@ -25,6 +23,11 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
+
+			if_mini
+			{
+				"xpos"		"cs-0.5-228"
+			}
 
 			"ParticleEffects"
 			{
@@ -50,13 +53,23 @@
 			"ypos"			"cs-0.5"
 			"zpos"			"0"		
 			"wide"			"o1"
-			"tall"			"200"
+			"tall"			"p0.12"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"fov"			"70"
 			"proportionaltoparent"	"1"
+
+			if_mini
+			{
+				"xpos"		"cs-0.5-228"
+				"ypos"		"cs-0.5"
+				"wide"		"200"
+				"tall"		"200"
+			}
+
+			"paintbackground"	"0"
 
 			"render_texture"	"0"
 		
@@ -68,10 +81,15 @@
 				"angles_x"	"0"
 				"angles_y"	"180"
 				"angles_z"	"0"
-				"origin_x"		"50"
+				"origin_x"		"45"
 				"origin_y"		"0"
 				"origin_z"		"0"
 				"spotlight"	"1"
+
+				if_mini
+				{
+					"origin_x"		"55"
+				}
 
 				"animation"
 				{
@@ -102,6 +120,13 @@
 			"tall"			"f0"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
+
+			"paintbackground"	"0"
+
+			if_mini
+			{
+				"xpos"		"cs-0.5-228"
+			}
 
 			"ParticleEffects"
 			{
@@ -134,19 +159,22 @@
 				}
 			}
 
-			"paintbackground"	"0"	
+			"paintbackground"	"1"
 		}
 
 		"MedalButton"
 		{
-			"ControlName"	"Panel"
+			"ControlName"	"Button"
 			"fieldName"		"MedalButton"
 			"xpos"			"cs-0.5"
-			"ypos"			"cs-0.5"
+			"ypos"			"cs-0.5+2"
 			"zpos"			"100"
 			"wide"			"o1"
-			"tall"			"60"
+			"tall"			"42"
 			"proportionaltoparent"	"1"
+			"command"	"medal_clicked"
+			"actionsignallevel"	"2"
+			"labeltext"	""
 
 			"paintbackground"	"0"
 			"backgroundenabled"	"0"
@@ -157,37 +185,96 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BGPanel"
-		"xpos"			"cs-0.5"
-		"ypos"			"cs-0.45"
+		"xpos"			"rs1"
+		"ypos"			"20"
 		"zpos"			"-1"
-		"wide"			"605"
-		"tall"			"75"
+		"wide"			"260"
+		"tall"			"f40"
 		"visible"		"1"
 		"PaintBackgroundType"	"2"
-		"border"		"noborder"
 		"proportionaltoparent"	"1"
 
 		if_mini
 		{
-			"ypos"			"cs-0.45"
+			"xpos"			"cs-0.5"
+			"ypos"			"cs-0.5"
 			"tall"			"35"
 			"wide"			"505"
+		}
+
+		"NameLabel"
+		{
+			"ControlName"	"Label"
+			"fieldName"		"NameLabel"
+			"xpos"			"65"
+			"ypos"			"5"
+			"wide"			"f0"
+			"zpos"			"100"
+			"tall"			"20"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"DinBold12"
+			"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
+			"labelText"		"%name%"
+			"proportionaltoparent"	"1"
+
+			if_mini
+			{
+				"visible"	"0"
+			}
+		}
+
+		"DescLine1"
+		{
+			"ControlName"	"CAutoFittingLabel"
+			"fieldName"		"DescLine1"
+			"xpos"			"65"
+			"ypos"			"10"
+			"wide"			"195"
+			"zpos"			"100"
+			"tall"			"20"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			""
+			"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
+			"labelText"		"%desc1%"
+			"proportionaltoparent"	"1"
+		}
+
+		"DescLine2"
+		{
+			"ControlName"	"CAutoFittingLabel"
+			"fieldName"		"DescLine2"
+			"xpos"			"65"
+			"ypos"			"16"
+			"wide"			"195"
+			"zpos"			"100"
+			"tall"			"20"
+			"visible"		"1"
+			"enabled"		"1"
+			"font"			"DinBold8"
+			"fgcolor_override"	"TanLight"
+			"textAlignment"	"north-west"
+			"labelText"		"%desc2%"
+			"proportionaltoparent"	"1"
 		}
 
 		"StatsContainer"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"StatsContainer"
-			"xpos"			"p0.20"
-			"ypos"			"15"
-			"wide"			"p0.78"
+			"xpos"			"60"
+			"ypos"			"-18"
+			"wide"			"120"
 			"tall"			"f0"
 			"proportionaltoparent"	"1"
 
 			if_mini
 			{
 				"xpos"			"rs1-10"
-				"ypos"			"15"
+				"ypos"			"0"
 				"wide"			"p0.85"
 			}
 
@@ -201,23 +288,7 @@
 				"tall"			"30"
 				"proportionaltoparent"	"1"
 
-				"LevelLabel"
-				{
-					"ControlName"	"Label"
-					"fieldName"		"LevelLabel"
-					"xpos"			"0"
-					"ypos"			"0"
-					"wide"			"f0"
-					"zpos"			"100"
-					"tall"			"20"
-					"visible"		"1"
-					"enabled"		"1"
-					"font"			"HudFontSmallestBold"
-					"fgcolor_override"	"TanLight"
-					"textAlignment"	"north-west"
-					"labelText"		"%level%"
-					"proportionaltoparent"	"1"
-				}
+	
 
 				"CurrentXPLabel"
 				{
@@ -227,7 +298,7 @@
 					"ypos"			"rs1"
 					"zpos"			"0"
 					"wide"			"100"
-					"tall"			"20"
+					"tall"			"0"
 					"visible"		"1"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
@@ -245,7 +316,7 @@
 					"ypos"			"rs1"
 					"zpos"			"0"
 					"wide"			"100"
-					"tall"			"20"
+					"tall"			"0"
 					"visible"		"1"
 					"enabled"		"1"
 					"font"			"ItemFontAttribSmall"
@@ -260,9 +331,9 @@
 					"Controlname"	"EditablePanel"
 					"fieldName"		"ProgressBarsContainer"
 					"xpos"			"0"
-					"ypos"			"rs1-7"
+					"ypos"			"rs1-10"
 					"wide"			"p1"
-					"tall"			"12"
+					"tall"			"3"
 					"proportionaltoparent"	"1"
 
 					"ProgressBar"
@@ -272,12 +343,12 @@
 						"xpos"			"0"
 						"ypos"			"cs-0.5"
 						"wide"			"f0"
-						"tall"			"f0"
+						"tall"			"f-2"
 						"zpos"			"1"
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 180"
+						"fgcolor_override"	"0 0 0 0"
 						"bgcolor_override"	"0 0 0 0"
 					}
 
@@ -287,12 +358,12 @@
 						"fieldName"		"ContinuousProgressBar"
 						"xpos"			"cs-0.5"
 						"ypos"			"cs-0.5"
-						"wide"			"f4"
-						"tall"			"f4"
+						"wide"			"f2"
+						"tall"			"f2"
 						"proportionaltoparent"	"1"
 						"progress"		"0"
 
-						"fgcolor_override"	"owORANGE"
+						"fgcolor_override"	"OWGreen"
 					}
 
 					"Frame"
@@ -305,7 +376,7 @@
 						"tall"			"f0"
 						"zpos"			"5"
 						"proportionaltoparent"	"1"
-						"border"		"InnerShadowBorderThin"
+						"border"		"noborder"
 					}
 				}
 			}
@@ -316,11 +387,11 @@
 				"fieldName"		"Stats"
 				"xpos"			"0"
 				"ypos"			"5"
-				"zpos"			"-9"
-				"wide"			"f0"
-				"tall"			"p0.45"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
 				"proportionaltoparent"	"1"
-				"bgcolor_override"	"0 0 0 0"
+				"bgcolor_override"	"0 0 0 150"
 
 				"if_mini"
 				{
@@ -332,12 +403,12 @@
 					"ControlName"	"EditablePanel"
 					"fieldName"		"Frame"
 					"xpos"			"0"
-					"ypos"			"-1"
-					"zpos"			"-10"
+					"ypos"			"0"
+					"zpos"			"10"
 					"wide"			"f0"
 					"tall"			"f0"
 					"proportionaltoparent"	"1"
-					"border"		"BlueButton"
+					"border"		"InnerShadowBorder"
 				}
 
 

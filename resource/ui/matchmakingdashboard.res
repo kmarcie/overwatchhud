@@ -727,7 +727,7 @@
 			"brighttext"	"0"
 			"Command"		"find_game"
 			"proportionaltoparent"	"1"
-			"labeltext"		"QUICKPLAY"
+			"labeltext"		"Matchmaking"
 			"mouseinputenabled"	"1"
 			"keyboardinputenabled"	"0"
 			"actionsignallevel"	"2"
