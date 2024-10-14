@@ -135,3 +135,11 @@ Oct 13 2022 Update
 - Vaccinator hud is still a little wonky but is a bit more aligned with the styling
 - Rage/sapper meter fixed
 - Changed colours to match OW2's colours
+
+Oct 13 2024
+- exactly two years after the ow2 update lol
+- updated a variety of misaligned elements from the scream fortress '24 update. not sure why exactly these happened but they're fixed for the most part
+- updated chat text scaling, trying to figure out the context menus next
+- added rank/level display + xp bar to main menu. I unfortunately could not find a way to add your user's avatar to the main menu, so for now it is Engineer. We love Engineer.
+- replaced "Training" button with "Play" button -> goes to server browser
+- resized class numbers so that when maximum classes are enabled they're actually readable
