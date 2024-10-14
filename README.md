@@ -6,8 +6,9 @@ Screenshots: http://imgur.com/a/U1gfV
 	
 ![alt tag](http://puu.sh/pXEu9/8abb73eff0.png)	
 
-Find a game menu background doesn't extend to fullscreen, gets cut off the last 30 pixels or so
-Main menu message of the day doesn't work
+Find a game menu is unedited.
+Store menu is unedited.
+MVM elements are unedited.
 
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
 
