@@ -26,7 +26,7 @@ commenting on my profile (http://steamcommunity.com/id/kmarcie) works too, but t
 	
 ![alt tag](http://puu.sh/pXEnu/977413608e.png)
  - jarateking - letting me use his centered targetids
- - blizzard (obviously lol) - creating overwatch and making a really nicely designed interface
+ - blizzard 
  - rawrsor & nokk - helped out with answering some of the questions i had while making this hud
  - humahuma & sentrionic - helped out with reference and providing screenshots of certain elements
  - yoshi - helped out with buff/hurt animations
