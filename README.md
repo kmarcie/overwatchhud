@@ -6,8 +6,9 @@ Screenshots: http://imgur.com/a/U1gfV
 	
 ![alt tag](http://puu.sh/pXEu9/8abb73eff0.png)	
 
-Find a game menu background doesn't extend to fullscreen, gets cut off the last 30 pixels or so
-Main menu message of the day doesn't work
+Find a game menu is unedited.
+Store menu is unedited.
+MVM elements are unedited.
 
 ![alt tag](http://puu.sh/pXEqs/66fe92f9ee.png)	
 
@@ -26,7 +27,7 @@ commenting on my profile (http://steamcommunity.com/id/kmarcie) works too, but t
 	
 ![alt tag](http://puu.sh/pXEnu/977413608e.png)
  - jarateking - letting me use his centered targetids
- - blizzard (obviously lol) - creating overwatch and making a really nicely designed interface
+ - blizzard 
  - rawrsor & nokk - helped out with answering some of the questions i had while making this hud
  - humahuma & sentrionic - helped out with reference and providing screenshots of certain elements
  - yoshi - helped out with buff/hurt animations
@@ -135,3 +136,11 @@ Oct 13 2022 Update
 - Vaccinator hud is still a little wonky but is a bit more aligned with the styling
 - Rage/sapper meter fixed
 - Changed colours to match OW2's colours
+
+Oct 13 2024
+- exactly two years after the ow2 update lol
+- updated a variety of misaligned elements from the scream fortress '24 update. not sure why exactly these happened but they're fixed for the most part
+- updated chat text scaling, trying to figure out the context menus next
+- added rank/level display + xp bar to main menu. I unfortunately could not find a way to add your user's avatar to the main menu, so for now it is Engineer. We love Engineer.
+- replaced "Training" button with "Play" button -> goes to server browser
+- resized class numbers so that when maximum classes are enabled they're actually readable
