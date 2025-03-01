@@ -144,3 +144,13 @@ Oct 13 2024
 - added rank/level display + xp bar to main menu. I unfortunately could not find a way to add your user's avatar to the main menu, so for now it is Engineer. We love Engineer.
 - replaced "Training" button with "Play" button -> goes to server browser
 - resized class numbers so that when maximum classes are enabled they're actually readable
+
+Feb 25 2028
+- Fixed fonts not loading properly, causing Verdana (default font) to appear
+- Adjusted SourceScheme.res colours
+- Adjusted buttons for loadout / stats
+- Revamped class loadout panel to match OW2
+- Fixed incompatibility with large page backpacks (over 50 pages) causing the page buttons to overlap with the backpack items
+- Fixed blank class selection 'cancel' button
+- Adjusted TF2 Advanced Options menu for readability
+- Adjusted HUD animations to automatically update using Wiethoofd's method.
