@@ -22,9 +22,9 @@ Scheme
 		"Orange"			"255 155 0 255"
 		"TransparentBlack"	"0 0 0 128"
 		//"Black"				"0 0 0 255"
-		"Black"				"54 54 54 255"	
-		"BlackTran"			"54 54 54 255"
-		"Gray"			"255 255 255 100"	//"177 177 177 255"
+		"Black"				"20 20 20 255"	
+		"BlackTran"			"20 20 20 255"
+		"Gray"			"255 255 255 220"	//"177 177 177 255"
 		"ButtonHover"		"74 74 255 255"
 		"WhiteBG"			"200 225 200 150"
 		"HudBG"				"54 54 54 200"	
@@ -57,12 +57,12 @@ Scheme
 	    "QuickListBGDeselected"		"42 42 42 255"
 	    "QuickListBGSelected"               "80 80 80 255"
 
-		"ControlBG"			"74 74 74 255"		// background color of controls
-		"ControlDarkBG"		"104 104 104 255"	// darker background color; used for background of scrollbars
+		"ControlBG"			"40 40 40 255"		// background color of controls
+		"ControlDarkBG"		"90 90 90 255"	// darker background color; used for background of scrollbars
 		"WindowBG"			"64 64 64 40"		// background color of text edit panes (chat, text entries, etc.)
 		"SelectionBG"		"100 100 100 255"		// background color of any selected text or menu item
 		"SelectionBG2"		"64 64 64 210"		// selection background in window w/o focus
-		"ListBG"			"77 77 77 160"	// "109 12 232 0"//<< purple delete	// background of server browser, buddy list, etc.
+		"ListBG"			"0 0 0 160"	// "109 12 232 0"//<< purple delete	// background of server browser, buddy list, etc.
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -80,7 +80,7 @@ Scheme
 
 		Button.TextColor				"82 82 82 255"
 		Button.BgColor					"227 227 227 255"
-		Button.ArmedTextColor			"192 254 57 255"
+		Button.ArmedTextColor			"236 101 22 255"
 		Button.ArmedBgColor				"165 165 165 255"	
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"254 197 50 255"
@@ -117,17 +117,17 @@ Scheme
 		FrameGrip.Color2				"0 0 0 196"
 		FrameTitleButton.FgColor		"255 255 255 255"
 		FrameTitleButton.BgColor		"Blank"
-		FrameTitleButton.DisabledFgColor	"255 255 255 192"
+		FrameTitleButton.DisabledFgColor	"255 255 255 200"
 		FrameTitleButton.DisabledBgColor	"Blank"
 		FrameSystemButton.FgColor		"Blank"
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
 		FrameTitleBar.Font				"Trebuchet20"	
-		FrameTitleBar.TextColor			"34 34 34 255"
-		FrameTitleBar.BgColor	"192 254 57 190"	//	"0 230 255 180"
+		FrameTitleBar.TextColor			"255 255 255 255"
+		FrameTitleBar.BgColor	"236 101 22 255"	//	"0 230 255 180"
 		FrameTitleBar.DisabledTextColor	"34 34 34 91"
-		FrameTitleBar.DisabledBgColor "192 254 57 100"	// "0 230 255 90"
+		FrameTitleBar.DisabledBgColor "236 101 22 100"	// "0 230 255 90"
 
 		GraphPanel.FgColor				"109 12 232 220"//"White"
 		GraphPanel.BgColor				"TransparentBlack"
@@ -1486,5 +1486,25 @@ Scheme
 		"2"		"resource/HL2EP2.ttf"	
 		"3"		"resource/marlett.ttf"
 		"4"		"resource/fonts/nimbus.ttf"
+		"5"
+		{
+			"font"	"resource/fonts/DINPro-Black.otf"
+			"name"	"DINPro-Black"
+		}
+		"6"
+		{
+			"font"	"resource/fonts/DINPro-Bold.otf"
+			"name"	"DINPro-Bold"
+		}
+		"7"
+		{
+			"font"	"resource/fonts/DINPro-Light.otf"
+			"name"	"DINPro-Light"
+		}
+		"8"
+		{
+			"font"	"resource/fonts/DINPro-Medium.otf"
+			"name"	"DINPro-Medium"
+		}
 	}
 }

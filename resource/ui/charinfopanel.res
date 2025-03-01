@@ -21,14 +21,14 @@
 		
 		"title"			"#CharInfoAndSetup"
 		"title_font"	"HudFontMediumBold"
-		"titletextinsetX"	"20"
+		"titletextinsetX"	"30" // loadout stats text
 		"titletextinsetY"	"-10"
 		"titlebarfgcolor_override"				"200 187 161 255"
 		"titlebardisabledfgcolor_override"		"200 187 161 255"
 		"titlebarbgcolor_override"				"46 43 42 255"
 		
 		"clientinsetx_override"			"0"
-		"sheetinset_bottom"				"40"
+		"sheetinset_bottom"				"47" // controls how much of the bottom portion is shown. up moves it further up the screen
 	}
 	
 	"BackgroundHeader"
@@ -78,38 +78,25 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Sheet"
-		"tabxindent"	"22"
-		"tabxdelta"		"0"
-		"tabwidth"		"15"
-		"tabheight"		"28"
+		"tabxindent"	"24"
+		"tabxdelta"		"2"
+		"tabwidth"		"7"
+		"tabheight"		"22"
 		"transition_time" "0"
-		"yoffset"	"-5"
+		"yoffset"	"434" // literally does nothing
 		
-		"HeaderLine"
-		{
-			"ControlName"	"ImagePanel"
-			"fieldName"		"HeaderLine"
-			"xpos"			"0"
-			"ypos"			"32"
-			"zpos"			"5"
-			"wide"			"0"
-			"tall"			"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"image"			"loadout_solid_line"
-			"scaleImage"	"1"
-		}				
 		
 		"tabskv"
 		{
-			"textinsetx"		"25"
-			"font"				"DinBold12"
-			"selectedcolor"		"owfullblack"
+			"textinsetx"		"15"
+			"font"				"DinBold14"
+			"selectedcolor"		"owfullwhite"
 			"unselectedcolor"	"owfullwhite"
 			"defaultBgColor_override"	"0 0 0 0"
 			"paintbackground"	"0"
-			"activeborder_override"	"owtab"
-			"normalborder_override" "owtabunarmed"
+			"textAlignment"	"center"
+			"activeborder_override"	"OWButton"
+			"normalborder_override" "OWButtonUA"
 		}
 	}
 	"bg"

@@ -644,6 +644,6 @@ Scheme
       {
          "font" "resource/fonts/nimbus.ttf"
          "name" "Nimbus Sans L Regular"
-      }      
+      }    
    }
 }

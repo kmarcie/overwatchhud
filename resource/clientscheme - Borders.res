@@ -14,6 +14,12 @@ Scheme
 			"image"					"replay/thumbnails/ow_button_sel"
 			"backgroundtype"		"2"
 		}
+		OWButtonUA
+		{
+			"bordertype"			"scalable_image"
+			"image"					"replay/thumbnails/ow_button_unarmed"
+			"backgroundtype"		"2"
+		}
 		OWWhiteButton
 		{
 			"bordertype"			"scalable_image"

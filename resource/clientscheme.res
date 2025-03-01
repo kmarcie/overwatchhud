@@ -109,5 +109,25 @@ Scheme
 			"font"	"resource/fonts/HudasIscariote.otf"
 			"name"	"Hudas Iscariote"
 		}
+		"16"
+		{
+			"font"	"resource/fonts/DINPro-Black.otf"
+			"name"	"DINPro-Black"
+		}
+		"17"
+		{
+			"font"	"resource/fonts/DINPro-Bold.otf"
+			"name"	"DINPro-Bold"
+		}
+		"18"
+		{
+			"font"	"resource/fonts/DINPro-Light.otf"
+			"name"	"DINPro-Light"
+		}
+		"19"
+		{
+			"font"	"resource/fonts/DINPro-Medium.otf"
+			"name"	"DINPro-Medium"
+		}
 	}
 }

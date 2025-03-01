@@ -29,11 +29,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"Oblique30"
+		"font"			"DinBlack21"
 		"labelText"		"#TF_AdvancedOptions"
 		"textAlignment"	"center"
 		"xpos"			"0"
-		"ypos"			"5"
+		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"500"
 		"tall"			"40"
@@ -41,13 +41,13 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "oworange"
+		"fgcolor_override" "OWWhite"
 	}
 	"CancelButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"150"
+		"xpos"			"100"
 		"ypos"			"310"
 		"zpos"			"1"
 		"wide"			"100"
@@ -105,7 +105,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"0 0 0 150"
+		"bgcolor_override"	"0 0 0 190"
 	}
 	
 	"TooltipPanel"
