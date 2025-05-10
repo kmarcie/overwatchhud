@@ -83,7 +83,7 @@
 		"tabwidth"		"7"
 		"tabheight"		"22"
 		"transition_time" "0"
-		"yoffset"	"434" // literally does nothing
+		"yoffset"	"1" // now it does something
 		
 		
 		"tabskv"
